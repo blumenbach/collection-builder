@@ -1,0 +1,19 @@
+DUMP only blume objects:
+PREFIX blume: <http://purl.org/vocab/blumenbach>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX fedora: <http://fedora.info/definitions/v4/repository#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+CONSTRUCT {?s ?p ?o} WHERE {?s ?p ?o filter(!strstarts(str(?p),str(fedora:)) && strstarts(str(?s),str("http://localhost:8080/fcrepo/rest/object"))
+&& !strstarts(str(?p),str(rdf:type)) && !strstarts(str(?o),str(fedora:)))}
+curl "localhost:8080/fuseki/blume/query?query=PREFIX%20blume%3A%20%3Chttp%3A%2F%2Fpurl.org%2Fvocab%2Fblumenbach%3E%20PREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%20PREFIX%20fedora%3A%20%3Chttp%3A%2F%2Ffedora.info%2Fdefinitions%2Fv4%2Frepository%23%3E%20PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%20CONSTRUCT%20%7B%3Fs%20%3Fp%20%3Fo%7D%20WHERE%20%7B%3Fs%20%3Fp%20%3Fo%20filter(!strstarts(str(%3Fp)%2Cstr(fedora%3A))%20%26%26%20strstarts(str(%3Fs)%2Cstr(%22http%3A%2F%2Flocalhost%3A8080%2Ffcrepo%2Frest%2Fobject%22))%20%26%26%20!strstarts(str(%3Fp)%2Cstr(rdf%3Atype))%20%26%26%20!strstarts(str(%3Fo)%2Cstr(fedora%3A)))%7D" -H "Accept: application/n-triples"  > blume_graph.n3
+
+UPDATE / REPLACE property:
+PREFIX blume: <http://purl.org/vocab/blumenbach#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+DELETE { ?s blume:a0 ?o }
+INSERT { ?s rdfs:label ?o }
+WHERE
+  {?s blume:a0 ?o }
+
+UPDATE FEDORA with Dump:
+  curl -X PUT -H "Content-Type: application/n-triples" -H"Prefer: handling=lenient; received="minimal"" --data-binary "@update_rdf.n3" "http://localhost:8080/fcrepo/rest/obj"
