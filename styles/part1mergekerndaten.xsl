@@ -1,6 +1,6 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:saxon="http://saxon.sf.net/" extension-element-prefixes="saxon" version="2.0">
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="kd" select="document('../../data/export-2/kerndaten.xml')"/>
+    <xsl:variable name="kd" select="document('../xml-from-sql/14-11-2016/kerndaten.xml')"/>
     <xsl:strip-space elements="*"/>
     <xsl:template match="node() | @*" name="identity">
         <xsl:copy copy-namespaces="no">
