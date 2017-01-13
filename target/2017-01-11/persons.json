@@ -1,0 +1,2709 @@
+{
+  "root": {
+    "item": [
+      {
+        "id": "blume:00001",
+        "body": {
+          "labels": {
+            "de": "Adler, ? (????-????) [Dr.]",
+            "en": "Adler, ? (????-????) [Dr.]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00002",
+        "body": {
+          "labels": {
+            "de": "Alamán, Lucas (1792-1853)",
+            "en": "Alamán, Lucas (1792-1853)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00589905"
+          }
+        }
+      },
+      {
+        "id": "blume:00003",
+        "body": {
+          "labels": {
+            "de": "Albers, Johann Abraham (1772-1821)",
+            "en": "Albers, Johann Abraham (1772-1821)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01468750"
+          }
+        }
+      },
+      {
+        "id": "blume:00004",
+        "body": {
+          "labels": {
+            "de": "Anger, David (1764-1839)",
+            "en": "Anger, David (1764-1839)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00005",
+        "body": {
+          "labels": {
+            "de": "Anthing, Carl Heinrich Wilhelm (1766-1823)",
+            "en": "Anthing, Carl Heinrich Wilhelm (1766-1823)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01177665"
+          }
+        }
+      },
+      {
+        "id": "blume:00006",
+        "body": {
+          "labels": {
+            "de": "Araujo d'Azevedo, Antonio d' (1752-1817)",
+            "en": "Araujo d'Azevedo, Antonio d' (1752-1817)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01010394"
+          }
+        }
+      },
+      {
+        "id": "blume:00007",
+        "body": {
+          "labels": {
+            "de": "Asch, Georg Thomas von (1729-1807)",
+            "en": "Asch, Georg Thomas von (1729-1807)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00397388"
+          }
+        }
+      },
+      {
+        "id": "blume:00008",
+        "body": {
+          "labels": {
+            "de": "August Emil Leopold von Sachsen-Gotha-Altenburg (1772-1822)",
+            "en": "August Emil Leopold von Sachsen-Gotha-Altenburg (1772-1822)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00930830"
+          }
+        }
+      },
+      {
+        "id": "blume:00009",
+        "body": {
+          "labels": {
+            "de": "Banks, Joseph (1743-1820)",
+            "en": "Banks, Joseph (1743-1820)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01338058"
+          }
+        }
+      },
+      {
+        "id": "blume:00010",
+        "body": {
+          "labels": {
+            "de": "Baring, ? (????-????)",
+            "en": "Baring, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00011",
+        "body": {
+          "labels": {
+            "de": "Baur, Wilhelm Friedrich (????-????)",
+            "en": "Baur, Wilhelm Friedrich (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00012",
+        "body": {
+          "labels": {
+            "de": "Beaulieu-Marconnay, Carl von (1777-1855)",
+            "en": "Beaulieu-Marconnay, Carl von (1777-1855)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01495658"
+          }
+        }
+      },
+      {
+        "id": "blume:00013",
+        "body": {
+          "labels": {
+            "de": "Beneker, Fr. (????-????)",
+            "en": "Beneker, Fr. (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00014",
+        "body": {
+          "labels": {
+            "de": "Berger, ? (????-????)",
+            "en": "Berger, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00015",
+        "body": {
+          "labels": {
+            "de": "Billmann, Johann Christian (????-????)",
+            "en": "Billmann, Johann Christian (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00016",
+        "body": {
+          "labels": {
+            "de": "Biot, Jean Baptiste (1774-1862)",
+            "en": "Biot, Jean Baptiste (1774-1862)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01261362"
+          }
+        }
+      },
+      {
+        "id": "blume:00017",
+        "body": {
+          "labels": {
+            "de": "Blane, Gilbert (1749-1834)",
+            "en": "Blane, Gilbert (1749-1834)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00997402"
+          }
+        }
+      },
+      {
+        "id": "blume:00018",
+        "body": {
+          "labels": {
+            "de": "Block, Peter Ludwig Heinrich von (1764-1818)",
+            "en": "Block, Peter Ludwig Heinrich von (1764-1818)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00019",
+        "body": {
+          "labels": {
+            "de": "Borgia, Stefano (1731-1804)",
+            "en": "Borgia, Stefano (1731-1804)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00833229"
+          }
+        }
+      },
+      {
+        "id": "blume:00020",
+        "body": {
+          "labels": {
+            "de": "Bozenhard, Emanuel (1748-1799)",
+            "en": "Bozenhard, Emanuel (1748-1799)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00964118"
+          }
+        }
+      },
+      {
+        "id": "blume:00021",
+        "body": {
+          "labels": {
+            "de": "Bruns, ? (????-????) [Kaufmann in Bremen]",
+            "en": "Bruns, ? (????-????) [Kaufmann in Bremen]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00022",
+        "body": {
+          "labels": {
+            "de": "Bryant, Jacob (1715-1804)",
+            "en": "Bryant, Jacob (1715-1804)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01494539"
+          }
+        }
+      },
+      {
+        "id": "blume:00023",
+        "body": {
+          "labels": {
+            "de": "Buch, Leopold von (1774-1853)",
+            "en": "Buch, Leopold von (1774-1853)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00024",
+        "body": {
+          "labels": {
+            "de": "Buckland, William (1784-1856)",
+            "en": "Buckland, William (1784-1856)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01337307"
+          }
+        }
+      },
+      {
+        "id": "blume:00025",
+        "body": {
+          "labels": {
+            "de": "Bünger, Christian Heinrich (1782-1842)",
+            "en": "Bünger, Christian Heinrich (1782-1842)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00394374"
+          }
+        }
+      },
+      {
+        "id": "blume:00026",
+        "body": {
+          "labels": {
+            "de": "Bunsen, Christian Karl Josias von (1791-1860)",
+            "en": "Bunsen, Christian Karl Josias von (1791-1860)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01435692"
+          }
+        }
+      },
+      {
+        "id": "blume:00027",
+        "body": {
+          "labels": {
+            "de": "Butenschön, Johann Friedrich (1764-1842))",
+            "en": "Butenschön, Johann Friedrich (1764-1842))"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00103587"
+          }
+        }
+      },
+      {
+        "id": "blume:00028",
+        "body": {
+          "labels": {
+            "de": "Buxton, Isaac (1773-1825)",
+            "en": "Buxton, Isaac (1773-1825)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00321759"
+          }
+        }
+      },
+      {
+        "id": "blume:00029",
+        "body": {
+          "labels": {
+            "de": "Caldcleugh, Alexander (1795-1858)",
+            "en": "Caldcleugh, Alexander (1795-1858)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00160062"
+          }
+        }
+      },
+      {
+        "id": "blume:00030",
+        "body": {
+          "labels": {
+            "de": "Chladni, Ernst Florens Friedrich (1756-1827)",
+            "en": "Chladni, Ernst Florens Friedrich (1756-1827)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00394455"
+          }
+        }
+      },
+      {
+        "id": "blume:00031",
+        "body": {
+          "labels": {
+            "de": "Christian (Dänemark, König, VIII.) (1786-1848)",
+            "en": "Christian (Dänemark, König, VIII.) (1786-1848)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00896149"
+          }
+        }
+      },
+      {
+        "id": "blume:00032",
+        "body": {
+          "labels": {
+            "de": "Christian Gottlieb Pötzsch / Herr E. v. Liebenroth ?",
+            "en": "Christian Gottlieb Pötzsch / Herr E. v. Liebenroth ?"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00033",
+        "body": {
+          "labels": {
+            "de": "Crawfurd, John (1783-1868)",
+            "en": "Crawfurd, John (1783-1868)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01342047"
+          }
+        }
+      },
+      {
+        "id": "blume:00034",
+        "body": {
+          "labels": {
+            "de": "Crichton, Alexander (1763-1856)",
+            "en": "Crichton, Alexander (1763-1856)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01438867"
+          }
+        }
+      },
+      {
+        "id": "blume:00035",
+        "body": {
+          "labels": {
+            "de": "Crull, Wolter Hendrik (1784-1816)",
+            "en": "Crull, Wolter Hendrik (1784-1816)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01266217"
+          }
+        }
+      },
+      {
+        "id": "blume:00036",
+        "body": {
+          "labels": {
+            "de": "Danz, Georg Friedrich (1733-1813)",
+            "en": "Danz, Georg Friedrich (1733-1813)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01276563"
+          }
+        }
+      },
+      {
+        "id": "blume:00037",
+        "body": {
+          "labels": {
+            "de": "Degering, ? (????-????)",
+            "en": "Degering, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00038",
+        "body": {
+          "labels": {
+            "de": "Dickson, James (1738-1822)",
+            "en": "Dickson, James (1738-1822)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01089824"
+          }
+        }
+      },
+      {
+        "id": "blume:00039",
+        "body": {
+          "labels": {
+            "de": "Ebell, Georg August (1745-1824)",
+            "en": "Ebell, Georg August (1745-1824)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01000913"
+          }
+        }
+      },
+      {
+        "id": "blume:00040",
+        "body": {
+          "labels": {
+            "de": "Erbach zu Erbach, Franz von (1754-1823)",
+            "en": "Erbach zu Erbach, Franz von (1754-1823)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01391236"
+          }
+        }
+      },
+      {
+        "id": "blume:00041",
+        "body": {
+          "labels": {
+            "de": "Eschwege, Wilhelm Ludwig von (1777-1855)",
+            "en": "Eschwege, Wilhelm Ludwig von (1777-1855)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00579772"
+          }
+        }
+      },
+      {
+        "id": "blume:00042",
+        "body": {
+          "labels": {
+            "de": "Espenberg, Karl (1761-1822)",
+            "en": "Espenberg, Karl (1761-1822)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00352603"
+          }
+        }
+      },
+      {
+        "id": "blume:00043",
+        "body": {
+          "labels": {
+            "de": "Filtsch, Johann (1753 - 1836)",
+            "en": "Filtsch, Johann (1753 - 1836)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01148611"
+          }
+        }
+      },
+      {
+        "id": "blume:00044",
+        "body": {
+          "labels": {
+            "de": "Finkenstein Schönberg, Friedrich Fink von (1778-1826) [Graf]",
+            "en": "Finkenstein Schönberg, Friedrich Fink von (1778-1826) [Graf]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00045",
+        "body": {
+          "labels": {
+            "de": "Forsten, Rudolph (1751-1806)",
+            "en": "Forsten, Rudolph (1751-1806)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01269141"
+          }
+        }
+      },
+      {
+        "id": "blume:00046",
+        "body": {
+          "labels": {
+            "de": "Freudenthal, ? (???-???)",
+            "en": "Freudenthal, ? (???-???)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00047",
+        "body": {
+          "labels": {
+            "de": "Freyriss, Georg Wilhelm (1789-1825)",
+            "en": "Freyriss, Georg Wilhelm (1789-1825)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00048",
+        "body": {
+          "labels": {
+            "de": "Fricke, Johann Carl Georg (1790-1841)",
+            "en": "Fricke, Johann Carl Georg (1790-1841)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01261199"
+          }
+        }
+      },
+      {
+        "id": "blume:00049",
+        "body": {
+          "labels": {
+            "de": "Friedrich, ? (????-????)",
+            "en": "Friedrich, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00050",
+        "body": {
+          "labels": {
+            "de": "Fritze, Ernst Albert (1791-1839)",
+            "en": "Fritze, Ernst Albert (1791-1839)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00051",
+        "body": {
+          "labels": {
+            "de": "Fuchs, Karl Friedrich (1776-1846)",
+            "en": "Fuchs, Karl Friedrich (1776-1846)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00052",
+        "body": {
+          "labels": {
+            "de": "Gall, Franz Joseph (1758-1828)",
+            "en": "Gall, Franz Joseph (1758-1828)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00053",
+        "body": {
+          "labels": {
+            "de": "Geoffroy Saint-Hilaire, Étienne (1772-1844)",
+            "en": "Geoffroy Saint-Hilaire, Étienne (1772-1844)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00398245"
+          }
+        }
+      },
+      {
+        "id": "blume:00054",
+        "body": {
+          "labels": {
+            "de": "Georg I. Friedrich Karl Herzog von Sachsen-Meiningen (1761-1803)",
+            "en": "Georg I. Friedrich Karl Herzog von Sachsen-Meiningen (1761-1803)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00055",
+        "body": {
+          "labels": {
+            "de": "George III. König von Großbritannien (1738-1820)",
+            "en": "George III. König von Großbritannien (1738-1820)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00964424"
+          }
+        }
+      },
+      {
+        "id": "blume:00056",
+        "body": {
+          "labels": {
+            "de": "Geuns, Steven Jan van (1767-1795)",
+            "en": "Geuns, Steven Jan van (1767-1795)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00057",
+        "body": {
+          "labels": {
+            "de": "Giesecke, Carl Ludwig von (1761-1833)",
+            "en": "Giesecke, Carl Ludwig von (1761-1833)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01271031"
+          }
+        }
+      },
+      {
+        "id": "blume:00058",
+        "body": {
+          "labels": {
+            "de": "Girtanner, Christoph (1760-1800)",
+            "en": "Girtanner, Christoph (1760-1800)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00832264"
+          }
+        }
+      },
+      {
+        "id": "blume:00059",
+        "body": {
+          "labels": {
+            "de": "Goethe, Johann Wolfgang von (1749-1832)",
+            "en": "Goethe, Johann Wolfgang von (1749-1832)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01259499"
+          }
+        }
+      },
+      {
+        "id": "blume:00060",
+        "body": {
+          "labels": {
+            "de": "Gottlieb, ? (????-????)",
+            "en": "Gottlieb, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00061",
+        "body": {
+          "labels": {
+            "de": "Greenough, George Bellas (1778-1855)",
+            "en": "Greenough, George Bellas (1778-1855)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01337306"
+          }
+        }
+      },
+      {
+        "id": "blume:00062",
+        "body": {
+          "labels": {
+            "de": "Hacquet, Balthasar (1739-1815)",
+            "en": "Hacquet, Balthasar (1739-1815)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01431822"
+          }
+        }
+      },
+      {
+        "id": "blume:00063",
+        "body": {
+          "labels": {
+            "de": "Hamilton, William Richard (1777-1859)",
+            "en": "Hamilton, William Richard (1777-1859)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00352990"
+          }
+        }
+      },
+      {
+        "id": "blume:00064",
+        "body": {
+          "labels": {
+            "de": "Hanselmann, ? (????-????) [Pastor]",
+            "en": "Hanselmann, ? (????-????) [Pastor]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00065",
+        "body": {
+          "labels": {
+            "de": "Hanstein, Drost von, ? (????-????)",
+            "en": "Hanstein, Drost von, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00066",
+        "body": {
+          "labels": {
+            "de": "Hariss?, (????-????)",
+            "en": "Hariss?, (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00067",
+        "body": {
+          "labels": {
+            "de": "Hausmann, Johann Friedrich Ludwig (1782-1859)",
+            "en": "Hausmann, Johann Friedrich Ludwig (1782-1859)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01441932"
+          }
+        }
+      },
+      {
+        "id": "blume:00068",
+        "body": {
+          "labels": {
+            "de": "Hawkins, John (1761-1841)",
+            "en": "Hawkins, John (1761-1841)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01371044"
+          }
+        }
+      },
+      {
+        "id": "blume:00069",
+        "body": {
+          "labels": {
+            "de": "Heine, Ernst Friedrich Wilhelm (1770-1833)",
+            "en": "Heine, Ernst Friedrich Wilhelm (1770-1833)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00070",
+        "body": {
+          "labels": {
+            "de": "Heise (????-????) [Kapitän]",
+            "en": "Heise (????-????) [Kapitän]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00071",
+        "body": {
+          "labels": {
+            "de": "Hell, Maximilian (1720-1792)",
+            "en": "Hell, Maximilian (1720-1792)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00072",
+        "body": {
+          "labels": {
+            "de": "Herr Trapp",
+            "en": "Herr Trapp"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00073",
+        "body": {
+          "labels": {
+            "de": "Herr von Parzenmende ??",
+            "en": "Herr von Parzenmende ??"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00074",
+        "body": {
+          "labels": {
+            "de": "Herrn Geheimer Hofrat Huber (1811)",
+            "en": "Herrn Geheimer Hofrat Huber (1811)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00075",
+        "body": {
+          "labels": {
+            "de": "Hervey, Frederick Augustus (1730-1803)",
+            "en": "Hervey, Frederick Augustus (1730-1803)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01420607"
+          }
+        }
+      },
+      {
+        "id": "blume:00076",
+        "body": {
+          "labels": {
+            "de": "Hervey, William (1732-1815) ?",
+            "en": "Hervey, William (1732-1815) ?"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00077",
+        "body": {
+          "labels": {
+            "de": "Hesse, Christian Heinrich Friedrich (1772-1832)",
+            "en": "Hesse, Christian Heinrich Friedrich (1772-1832)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00078",
+        "body": {
+          "labels": {
+            "de": "Hiltebrandt, Johann Konrad (1747-1831)",
+            "en": "Hiltebrandt, Johann Konrad (1747-1831)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00079",
+        "body": {
+          "labels": {
+            "de": "Hollmann, Samuel Christian (1696-1787)",
+            "en": "Hollmann, Samuel Christian (1696-1787)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00388145"
+          }
+        }
+      },
+      {
+        "id": "blume:00080",
+        "body": {
+          "labels": {
+            "de": "Homeyer, ? (????-????) [Dr., Arzt?]",
+            "en": "Homeyer, ? (????-????) [Dr., Arzt?]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00081",
+        "body": {
+          "labels": {
+            "de": "Horner, Johann Kaspar (1774-1834)",
+            "en": "Horner, Johann Kaspar (1774-1834)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00388245"
+          }
+        }
+      },
+      {
+        "id": "blume:00082",
+        "body": {
+          "labels": {
+            "de": "Humboldt, Alexander von (1769-1859)",
+            "en": "Humboldt, Alexander von (1769-1859)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01259344"
+          }
+        }
+      },
+      {
+        "id": "blume:00083",
+        "body": {
+          "labels": {
+            "de": "Hunold, ? (????-????)",
+            "en": "Hunold, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00084",
+        "body": {
+          "labels": {
+            "de": "Hüpsch, Adolf von (1730-1805)",
+            "en": "Hüpsch, Adolf von (1730-1805)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00883952"
+          }
+        }
+      },
+      {
+        "id": "blume:00085",
+        "body": {
+          "labels": {
+            "de": "Ibsen, Ib Pedersen (1801-1862)",
+            "en": "Ibsen, Ib Pedersen (1801-1862)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00086",
+        "body": {
+          "labels": {
+            "de": "Ingen-Housz, Jan (1730-1799)",
+            "en": "Ingen-Housz, Jan (1730-1799)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00123332"
+          }
+        }
+      },
+      {
+        "id": "blume:00087",
+        "body": {
+          "labels": {
+            "de": "Ingenhousz, Jan (1730-1799)",
+            "en": "Ingenhousz, Jan (1730-1799)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00123332"
+          }
+        }
+      },
+      {
+        "id": "blume:00088",
+        "body": {
+          "labels": {
+            "de": "Jassoy, Andreas Ludwig (1765-1808)",
+            "en": "Jassoy, Andreas Ludwig (1765-1808)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00089",
+        "body": {
+          "labels": {
+            "de": "Jeffray, James (1759-1848)",
+            "en": "Jeffray, James (1759-1848)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00910079"
+          }
+        }
+      },
+      {
+        "id": "blume:00090",
+        "body": {
+          "labels": {
+            "de": "Jugler, Friedrich Ludwig Christian (1792-1871)",
+            "en": "Jugler, Friedrich Ludwig Christian (1792-1871)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01414857"
+          }
+        }
+      },
+      {
+        "id": "blume:00091",
+        "body": {
+          "labels": {
+            "de": "Karpinski, Nikon (1745-1810)",
+            "en": "Karpinski, Nikon (1745-1810)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00439797"
+          }
+        }
+      },
+      {
+        "id": "blume:00092",
+        "body": {
+          "labels": {
+            "de": "Kestner, August (1777-1853)",
+            "en": "Kestner, August (1777-1853)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01441175"
+          }
+        }
+      },
+      {
+        "id": "blume:00093",
+        "body": {
+          "labels": {
+            "de": "Kiraly, Joseph (????-????)",
+            "en": "Kiraly, Joseph (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00094",
+        "body": {
+          "labels": {
+            "de": "Klaproth, Martin Heinrich (1743-1817)",
+            "en": "Klaproth, Martin Heinrich (1743-1817)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00398916"
+          }
+        }
+      },
+      {
+        "id": "blume:00095",
+        "body": {
+          "labels": {
+            "de": "Klein, Carl Christian von (1772-1825)",
+            "en": "Klein, Carl Christian von (1772-1825)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00096",
+        "body": {
+          "labels": {
+            "de": "Kolb, Karl von (1800-1868)",
+            "en": "Kolb, Karl von (1800-1868)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00097",
+        "body": {
+          "labels": {
+            "de": "Konert von, ?, (????-????)",
+            "en": "Konert von, ?, (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00098",
+        "body": {
+          "labels": {
+            "de": "Königliche Bibliothek zu Hannover",
+            "en": "Königliche Bibliothek zu Hannover"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00099",
+        "body": {
+          "labels": {
+            "de": "Konnert, ? von (????-????)",
+            "en": "Konnert, ? von (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00100",
+        "body": {
+          "labels": {
+            "de": "Kratzsch, Bartholomeus (????-????)",
+            "en": "Kratzsch, Bartholomeus (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00101",
+        "body": {
+          "labels": {
+            "de": "Kunze, ? (????-????) [aus Worms]",
+            "en": "Kunze, ? (????-????) [aus Worms]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00102",
+        "body": {
+          "labels": {
+            "de": "Lampe, Johann Bodo (1738-1802)",
+            "en": "Lampe, Johann Bodo (1738-1802)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00103",
+        "body": {
+          "labels": {
+            "de": "Langsdorff, Georg Heinrich von (1774-1852)",
+            "en": "Langsdorff, Georg Heinrich von (1774-1852)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01428282"
+          }
+        }
+      },
+      {
+        "id": "blume:00104",
+        "body": {
+          "labels": {
+            "de": "Launoy, ? (????-????)",
+            "en": "Launoy, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00105",
+        "body": {
+          "labels": {
+            "de": "Leonhard, Carl Cäsar von (1779-1862)",
+            "en": "Leonhard, Carl Cäsar von (1779-1862)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00158497"
+          }
+        }
+      },
+      {
+        "id": "blume:00106",
+        "body": {
+          "labels": {
+            "de": "Leveling, Heinrich Maria von (1766-1828)",
+            "en": "Leveling, Heinrich Maria von (1766-1828)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00944559"
+          }
+        }
+      },
+      {
+        "id": "blume:00107",
+        "body": {
+          "labels": {
+            "de": "Lichtenstein, Martin Hinrich Karl von (1780-1857)",
+            "en": "Lichtenstein, Martin Hinrich Karl von (1780-1857)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01262952"
+          }
+        }
+      },
+      {
+        "id": "blume:00108",
+        "body": {
+          "labels": {
+            "de": "Liebenroth, Friedrich Ernst Franz von (1754-1803)",
+            "en": "Liebenroth, Friedrich Ernst Franz von (1754-1803)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01083368"
+          }
+        }
+      },
+      {
+        "id": "blume:00109",
+        "body": {
+          "labels": {
+            "de": "Liebrecht, ? (????-????)",
+            "en": "Liebrecht, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00110",
+        "body": {
+          "labels": {
+            "de": "Lister, Nathaniel (????-????)",
+            "en": "Lister, Nathaniel (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00111",
+        "body": {
+          "labels": {
+            "de": "Luc, Jean Andre de (1727-1817)",
+            "en": "Luc, Jean Andre de (1727-1817)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00832075"
+          }
+        }
+      },
+      {
+        "id": "blume:00112",
+        "body": {
+          "labels": {
+            "de": "Ludwig I., König von Bayern (1786-1868)",
+            "en": "Ludwig I., König von Bayern (1786-1868)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00872459"
+          }
+        }
+      },
+      {
+        "id": "blume:00113",
+        "body": {
+          "labels": {
+            "de": "Mackenzie, George Steuart (1780-1848)",
+            "en": "Mackenzie, George Steuart (1780-1848)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01350614"
+          }
+        }
+      },
+      {
+        "id": "blume:00114",
+        "body": {
+          "labels": {
+            "de": "Madelung, Ernst (????-????)",
+            "en": "Madelung, Ernst (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00115",
+        "body": {
+          "labels": {
+            "de": "Marmont, Auguste Fre?de?ric Louis Viesse de (1774-1852)",
+            "en": "Marmont, Auguste Fre?de?ric Louis Viesse de (1774-1852)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00406186"
+          }
+        }
+      },
+      {
+        "id": "blume:00116",
+        "body": {
+          "labels": {
+            "de": "Marschall von Bieberstein, Friedrich August (1768-1826)",
+            "en": "Marschall von Bieberstein, Friedrich August (1768-1826)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00979058"
+          }
+        }
+      },
+      {
+        "id": "blume:00117",
+        "body": {
+          "labels": {
+            "de": "Marum, Martinus van (1750-1837)",
+            "en": "Marum, Martinus van (1750-1837)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01343751"
+          }
+        }
+      },
+      {
+        "id": "blume:00118",
+        "body": {
+          "labels": {
+            "de": "Mender, ? (????-????)",
+            "en": "Mender, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00119",
+        "body": {
+          "labels": {
+            "de": "Meyer, ? (????-????)",
+            "en": "Meyer, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00120",
+        "body": {
+          "labels": {
+            "de": "Michaelis, Christian Friedrich (1754-1818)",
+            "en": "Michaelis, Christian Friedrich (1754-1818)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00363381"
+          }
+        }
+      },
+      {
+        "id": "blume:00121",
+        "body": {
+          "labels": {
+            "de": "Michaelis, Gottfried Philipp (1768-1811)",
+            "en": "Michaelis, Gottfried Philipp (1768-1811)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00136180"
+          }
+        }
+      },
+      {
+        "id": "blume:00122",
+        "body": {
+          "labels": {
+            "de": "Miesegaes, Carsten (1767-1846)",
+            "en": "Miesegaes, Carsten (1767-1846)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00136216"
+          }
+        }
+      },
+      {
+        "id": "blume:00123",
+        "body": {
+          "labels": {
+            "de": "Monheim, Johann Peter Joseph (1786-1855)",
+            "en": "Monheim, Johann Peter Joseph (1786-1855)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00781069"
+          }
+        }
+      },
+      {
+        "id": "blume:00124",
+        "body": {
+          "labels": {
+            "de": "Monticelli, Teodoro (1759-1845)",
+            "en": "Monticelli, Teodoro (1759-1845)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01504498"
+          }
+        }
+      },
+      {
+        "id": "blume:00125",
+        "body": {
+          "labels": {
+            "de": "Mülinen, Niklaus Friedrich von (1760-1833)",
+            "en": "Mülinen, Niklaus Friedrich von (1760-1833)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00126",
+        "body": {
+          "labels": {
+            "de": "Münter, Friedrich Christian Karl Heinrich (1761-1830)",
+            "en": "Münter, Friedrich Christian Karl Heinrich (1761-1830)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00833000"
+          }
+        }
+      },
+      {
+        "id": "blume:00127",
+        "body": {
+          "labels": {
+            "de": "Murray, ? (????-????)",
+            "en": "Murray, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00128",
+        "body": {
+          "labels": {
+            "de": "Murray, George (Viscount of Fincastle) (1762-1836)",
+            "en": "Murray, George (Viscount of Fincastle) (1762-1836)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00129",
+        "body": {
+          "labels": {
+            "de": "Neufville, Johann Friedrich Anton Wilhelm de (1777-1819)",
+            "en": "Neufville, Johann Friedrich Anton Wilhelm de (1777-1819)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00130",
+        "body": {
+          "labels": {
+            "de": "Niebuhr, Carsten (1733-1815)",
+            "en": "Niebuhr, Carsten (1733-1815)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00399159"
+          }
+        }
+      },
+      {
+        "id": "blume:00131",
+        "body": {
+          "labels": {
+            "de": "Nudow, Heinrich (1752-1798) ?",
+            "en": "Nudow, Heinrich (1752-1798) ?"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01083931"
+          }
+        }
+      },
+      {
+        "id": "blume:00132",
+        "body": {
+          "labels": {
+            "de": "Oertzen, Friedrich von (1771-1848)",
+            "en": "Oertzen, Friedrich von (1771-1848)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00380942"
+          }
+        }
+      },
+      {
+        "id": "blume:00133",
+        "body": {
+          "labels": {
+            "de": "Oeynhausen, Carl von (1795-1865)",
+            "en": "Oeynhausen, Carl von (1795-1865)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00388669"
+          }
+        }
+      },
+      {
+        "id": "blume:00134",
+        "body": {
+          "labels": {
+            "de": "Olfers, Ignaz Franz Werner Maria von (1793-1871)",
+            "en": "Olfers, Ignaz Franz Werner Maria von (1793-1871)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00947234"
+          }
+        }
+      },
+      {
+        "id": "blume:00135",
+        "body": {
+          "labels": {
+            "de": "Oriola, Joaquim von (1772-1846)",
+            "en": "Oriola, Joaquim von (1772-1846)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01511598"
+          }
+        }
+      },
+      {
+        "id": "blume:00136",
+        "body": {
+          "labels": {
+            "de": "Osiander, Friedrich Benjamin (1759-1822) ?",
+            "en": "Osiander, Friedrich Benjamin (1759-1822) ?"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01270140"
+          }
+        }
+      },
+      {
+        "id": "blume:00137",
+        "body": {
+          "labels": {
+            "de": "Osiander, Johann Friedrich (1787-1855)",
+            "en": "Osiander, Johann Friedrich (1787-1855)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01437411"
+          }
+        }
+      },
+      {
+        "id": "blume:00138",
+        "body": {
+          "labels": {
+            "de": "Ostertag, Johann Philipp (1734-1801)",
+            "en": "Ostertag, Johann Philipp (1734-1801)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01481870"
+          }
+        }
+      },
+      {
+        "id": "blume:00139",
+        "body": {
+          "labels": {
+            "de": "Otto, ? (????-????)",
+            "en": "Otto, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00140",
+        "body": {
+          "labels": {
+            "de": "Parry, Charles Henry (1779-1860)",
+            "en": "Parry, Charles Henry (1779-1860)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01499017"
+          }
+        }
+      },
+      {
+        "id": "blume:00141",
+        "body": {
+          "labels": {
+            "de": "Parry, George Frederic (1783- 1804)",
+            "en": "Parry, George Frederic (1783- 1804)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00142",
+        "body": {
+          "labels": {
+            "de": "Pataki II, Samuel (1731-1804)",
+            "en": "Pataki II, Samuel (1731-1804)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00143",
+        "body": {
+          "labels": {
+            "de": "Petri, ? (????-????)",
+            "en": "Petri, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00144",
+        "body": {
+          "labels": {
+            "de": "Prins, ? (????-????)",
+            "en": "Prins, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00145",
+        "body": {
+          "labels": {
+            "de": "Prinz zur Lippe, Friedrich (1797-1854)",
+            "en": "Prinz zur Lippe, Friedrich (1797-1854)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00146",
+        "body": {
+          "labels": {
+            "de": "Recke, Elisa von der (1754-1833)",
+            "en": "Recke, Elisa von der (1754-1833)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01318807"
+          }
+        }
+      },
+      {
+        "id": "blume:00147",
+        "body": {
+          "labels": {
+            "de": "Recke, Johann Friedrich von (1764-1846)",
+            "en": "Recke, Johann Friedrich von (1764-1846)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00386086"
+          }
+        }
+      },
+      {
+        "id": "blume:00148",
+        "body": {
+          "labels": {
+            "de": "Reden, Claus Friedrich von (1736-1791)",
+            "en": "Reden, Claus Friedrich von (1736-1791)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00115667"
+          }
+        }
+      },
+      {
+        "id": "blume:00149",
+        "body": {
+          "labels": {
+            "de": "Reichenbach, Heinrich Gottlieb Ludwig (1793-1879)",
+            "en": "Reichenbach, Heinrich Gottlieb Ludwig (1793-1879)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00372681"
+          }
+        }
+      },
+      {
+        "id": "blume:00150",
+        "body": {
+          "labels": {
+            "de": "Reineggs, Jacob (1744-1793)",
+            "en": "Reineggs, Jacob (1744-1793)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00252916"
+          }
+        }
+      },
+      {
+        "id": "blume:00151",
+        "body": {
+          "labels": {
+            "de": "Reinwardt, Caspar Georg Carl (1773-1854)",
+            "en": "Reinwardt, Caspar Georg Carl (1773-1854)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01260309"
+          }
+        }
+      },
+      {
+        "id": "blume:00152",
+        "body": {
+          "labels": {
+            "de": "Rhédey, Ádám, Graf von Kisréde (1768-1849)",
+            "en": "Rhédey, Ádám, Graf von Kisréde (1768-1849)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00153",
+        "body": {
+          "labels": {
+            "de": "Ribbentrop, Heinrich Gottlieb (1776-1834)",
+            "en": "Ribbentrop, Heinrich Gottlieb (1776-1834)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00984573"
+          }
+        }
+      },
+      {
+        "id": "blume:00154",
+        "body": {
+          "labels": {
+            "de": "Roesslein, Johannes (1747-????)",
+            "en": "Roesslein, Johannes (1747-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00155",
+        "body": {
+          "labels": {
+            "de": "Roloff, Johann Christoph Heinrich (1783-1825) ?",
+            "en": "Roloff, Johann Christoph Heinrich (1783-1825) ?"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00304793"
+          }
+        }
+      },
+      {
+        "id": "blume:00156",
+        "body": {
+          "labels": {
+            "de": "Röntgen, Gottfried Leonhard August (1781-1865)",
+            "en": "Röntgen, Gottfried Leonhard August (1781-1865)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00361464"
+          }
+        }
+      },
+      {
+        "id": "blume:00157",
+        "body": {
+          "labels": {
+            "de": "Rothe, Tyge Jesper (1731-1795)",
+            "en": "Rothe, Tyge Jesper (1731-1795)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01265719"
+          }
+        }
+      },
+      {
+        "id": "blume:00158",
+        "body": {
+          "labels": {
+            "de": "Saldern, Caspar von (1711-1786)",
+            "en": "Saldern, Caspar von (1711-1786)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00564885"
+          }
+        }
+      },
+      {
+        "id": "blume:00159",
+        "body": {
+          "labels": {
+            "de": "Sanden, ? (????-????)",
+            "en": "Sanden, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00160",
+        "body": {
+          "labels": {
+            "de": "Schedemeyer, ? (????-????) [Amtmann]",
+            "en": "Schedemeyer, ? (????-????) [Amtmann]"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00161",
+        "body": {
+          "labels": {
+            "de": "Scheel, Paul (1773-1811)",
+            "en": "Scheel, Paul (1773-1811)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01202235"
+          }
+        }
+      },
+      {
+        "id": "blume:00162",
+        "body": {
+          "labels": {
+            "de": "Schenck, Friedrich Wilhelm (????-1798)",
+            "en": "Schenck, Friedrich Wilhelm (????-1798)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00163",
+        "body": {
+          "labels": {
+            "de": "Schilling, ? (????-????)",
+            "en": "Schilling, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00164",
+        "body": {
+          "labels": {
+            "de": "Schlotheim, Ernst Friedrich von (1764-1832)",
+            "en": "Schlotheim, Ernst Friedrich von (1764-1832)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00954054"
+          }
+        }
+      },
+      {
+        "id": "blume:00165",
+        "body": {
+          "labels": {
+            "de": "Schmidt, ? (????-????)",
+            "en": "Schmidt, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00166",
+        "body": {
+          "labels": {
+            "de": "Schnizlein, Johann Georg Christoph (1721-1811)",
+            "en": "Schnizlein, Johann Georg Christoph (1721-1811)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00973541"
+          }
+        }
+      },
+      {
+        "id": "blume:00167",
+        "body": {
+          "labels": {
+            "de": "Scholz, Johann Martin Augustin (1794-1852)",
+            "en": "Scholz, Johann Martin Augustin (1794-1852)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00373087"
+          }
+        }
+      },
+      {
+        "id": "blume:00168",
+        "body": {
+          "labels": {
+            "de": "Schreibers, Karl von (1775-1852)",
+            "en": "Schreibers, Karl von (1775-1852)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00388438"
+          }
+        }
+      },
+      {
+        "id": "blume:00169",
+        "body": {
+          "labels": {
+            "de": "Seckendorff, Christian Adolf von (1767-1833)",
+            "en": "Seckendorff, Christian Adolf von (1767-1833)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00170",
+        "body": {
+          "labels": {
+            "de": "Severgin, Vasilij Michajlovič (1765-1826)",
+            "en": "Severgin, Vasilij Michajlovič (1765-1826)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00950180"
+          }
+        }
+      },
+      {
+        "id": "blume:00171",
+        "body": {
+          "labels": {
+            "de": "Sickler, Friedrich (1773-1836)",
+            "en": "Sickler, Friedrich (1773-1836)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01261466"
+          }
+        }
+      },
+      {
+        "id": "blume:00172",
+        "body": {
+          "labels": {
+            "de": "Soemmering, Samuel Thomas von (1755-1830)",
+            "en": "Soemmering, Samuel Thomas von (1755-1830)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01328463"
+          }
+        }
+      },
+      {
+        "id": "blume:00173",
+        "body": {
+          "labels": {
+            "de": "Spitta, Heinrich (1799-1860)",
+            "en": "Spitta, Heinrich (1799-1860)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00390020"
+          }
+        }
+      },
+      {
+        "id": "blume:00174",
+        "body": {
+          "labels": {
+            "de": "Sporleder, Friedrich Wilhelm (1787-1875)",
+            "en": "Sporleder, Friedrich Wilhelm (1787-1875)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00447735"
+          }
+        }
+      },
+      {
+        "id": "blume:00175",
+        "body": {
+          "labels": {
+            "de": "Stackemann, ? (????-????)",
+            "en": "Stackemann, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00176",
+        "body": {
+          "labels": {
+            "de": "Stelzner, Georg Andreas (1725-1802)",
+            "en": "Stelzner, Georg Andreas (1725-1802)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00613485"
+          }
+        }
+      },
+      {
+        "id": "blume:00177",
+        "body": {
+          "labels": {
+            "de": "Stephan, J[?] J[?] (????-????)",
+            "en": "Stephan, J[?] J[?] (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00178",
+        "body": {
+          "labels": {
+            "de": "Strauss, Johann Samuel (????-????)",
+            "en": "Strauss, Johann Samuel (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00179",
+        "body": {
+          "labels": {
+            "de": "Strombeck, Friedrich Karl von (1771-1848)",
+            "en": "Strombeck, Friedrich Karl von (1771-1848)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00588595"
+          }
+        }
+      },
+      {
+        "id": "blume:00180",
+        "body": {
+          "labels": {
+            "de": "Stromeyer, August Ernst Philipp (1785-1828)",
+            "en": "Stromeyer, August Ernst Philipp (1785-1828)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00181",
+        "body": {
+          "labels": {
+            "de": "Stromeyer, Friedrich (1776-1835)",
+            "en": "Stromeyer, Friedrich (1776-1835)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00182",
+        "body": {
+          "labels": {
+            "de": "Stünkel, ? (????-????)",
+            "en": "Stünkel, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00183",
+        "body": {
+          "labels": {
+            "de": "Styx, Martin Ernst (1759-1829)",
+            "en": "Styx, Martin Ernst (1759-1829)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00428001"
+          }
+        }
+      },
+      {
+        "id": "blume:00184",
+        "body": {
+          "labels": {
+            "de": "Sylvestre, Espérance (1790-1842)",
+            "en": "Sylvestre, Espérance (1790-1842)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00185",
+        "body": {
+          "labels": {
+            "de": "Symmons, John (????-????)",
+            "en": "Symmons, John (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00186",
+        "body": {
+          "labels": {
+            "de": "Szentkiraly, Alexander von (????-????)",
+            "en": "Szentkiraly, Alexander von (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00187",
+        "body": {
+          "labels": {
+            "de": "Tantini, Francesco? (????-????)",
+            "en": "Tantini, Francesco? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00188",
+        "body": {
+          "labels": {
+            "de": "Tengström, Johan Magnus af (1793-1856)",
+            "en": "Tengström, Johan Magnus af (1793-1856)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01227988"
+          }
+        }
+      },
+      {
+        "id": "blume:00189",
+        "body": {
+          "labels": {
+            "de": "Thann, ?, von der (????-????)",
+            "en": "Thann, ?, von der (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00190",
+        "body": {
+          "labels": {
+            "de": "Thätjenhorst, Johann Heinrich (1803-1859)",
+            "en": "Thätjenhorst, Johann Heinrich (1803-1859)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00191",
+        "body": {
+          "labels": {
+            "de": "Thorlacius, Børge (1775-1829)",
+            "en": "Thorlacius, Børge (1775-1829)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01509789"
+          }
+        }
+      },
+      {
+        "id": "blume:00192",
+        "body": {
+          "labels": {
+            "de": "Thümmel, Moritz August von (1738-1817)",
+            "en": "Thümmel, Moritz August von (1738-1817)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01512262"
+          }
+        }
+      },
+      {
+        "id": "blume:00193",
+        "body": {
+          "labels": {
+            "de": "Thunberg, Carl Peter (1743-1828)",
+            "en": "Thunberg, Carl Peter (1743-1828)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01430784"
+          }
+        }
+      },
+      {
+        "id": "blume:00194",
+        "body": {
+          "labels": {
+            "de": "Tiarks, Johann Ludwig (1789-1837)",
+            "en": "Tiarks, Johann Ludwig (1789-1837)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00389581"
+          }
+        }
+      },
+      {
+        "id": "blume:00195",
+        "body": {
+          "labels": {
+            "de": "Trebra, Friedrich Wilhelm Heinrich von (1740-1819)",
+            "en": "Trebra, Friedrich Wilhelm Heinrich von (1740-1819)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01506504"
+          }
+        }
+      },
+      {
+        "id": "blume:00196",
+        "body": {
+          "labels": {
+            "de": "Turner, Thomas (1773-1865)",
+            "en": "Turner, Thomas (1773-1865)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00197",
+        "body": {
+          "labels": {
+            "de": "Tychsen, Oluf Gerhard (1734-1815)",
+            "en": "Tychsen, Oluf Gerhard (1734-1815)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01400389"
+          }
+        }
+      },
+      {
+        "id": "blume:00198",
+        "body": {
+          "labels": {
+            "de": "Veltheim, Franz Wilhelm Werner von (1785-1839)",
+            "en": "Veltheim, Franz Wilhelm Werner von (1785-1839)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00549284"
+          }
+        }
+      },
+      {
+        "id": "blume:00199",
+        "body": {
+          "labels": {
+            "de": "Vincent, William (1739-1815)",
+            "en": "Vincent, William (1739-1815)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00200",
+        "body": {
+          "labels": {
+            "de": "Voss, ? (????-????)",
+            "en": "Voss, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00201",
+        "body": {
+          "labels": {
+            "de": "Wad, Gregers (1755-1832)",
+            "en": "Wad, Gregers (1755-1832)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00158615"
+          }
+        }
+      },
+      {
+        "id": "blume:00202",
+        "body": {
+          "labels": {
+            "de": "Waldeck-Pyrmont, Friedrich Karl August zu (1743-1812)",
+            "en": "Waldeck-Pyrmont, Friedrich Karl August zu (1743-1812)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00147377"
+          }
+        }
+      },
+      {
+        "id": "blume:00203",
+        "body": {
+          "labels": {
+            "de": "Weiss, ? (????-????)",
+            "en": "Weiss, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00204",
+        "body": {
+          "labels": {
+            "de": "Weisse, Johann Philipp (1753-1840)",
+            "en": "Weisse, Johann Philipp (1753-1840)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01085722"
+          }
+        }
+      },
+      {
+        "id": "blume:00205",
+        "body": {
+          "labels": {
+            "de": "Welcker, Friedrich Gottlieb (1784-1868)",
+            "en": "Welcker, Friedrich Gottlieb (1784-1868)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01327249"
+          }
+        }
+      },
+      {
+        "id": "blume:00206",
+        "body": {
+          "labels": {
+            "de": "Werlhof, Ernst August von (1778-1857) ?",
+            "en": "Werlhof, Ernst August von (1778-1857) ?"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01085691"
+          }
+        }
+      },
+      {
+        "id": "blume:00207",
+        "body": {
+          "labels": {
+            "de": "Westrumb, Johann Friedrich (1751-1819)",
+            "en": "Westrumb, Johann Friedrich (1751-1819)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00389394"
+          }
+        }
+      },
+      {
+        "id": "blume:00208",
+        "body": {
+          "labels": {
+            "de": "Wied-Neuwied, Louise zu (1747-1823)",
+            "en": "Wied-Neuwied, Louise zu (1747-1823)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00209",
+        "body": {
+          "labels": {
+            "de": "Wied-Neuwied, Maximilian zu (1782-1867)",
+            "en": "Wied-Neuwied, Maximilian zu (1782-1867)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01435600"
+          }
+        }
+      },
+      {
+        "id": "blume:00210",
+        "body": {
+          "labels": {
+            "de": "Wilde, ? (????-????)",
+            "en": "Wilde, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00211",
+        "body": {
+          "labels": {
+            "de": "Wolff, Caspar Friedrich (1734-1794)",
+            "en": "Wolff, Caspar Friedrich (1734-1794)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00212",
+        "body": {
+          "labels": {
+            "de": "Wolff, Gisbert Jacob (1770-1804)",
+            "en": "Wolff, Gisbert Jacob (1770-1804)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      },
+      {
+        "id": "blume:00213",
+        "body": {
+          "labels": {
+            "de": "Wyss, Samuel (1757-1834)",
+            "en": "Wyss, Samuel (1757-1834)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp01037990"
+          }
+        }
+      },
+      {
+        "id": "blume:00214",
+        "body": {
+          "labels": {
+            "de": "Zach, Franz Xaver von (1754-1832)",
+            "en": "Zach, Franz Xaver von (1754-1832)"
+          },
+          "claims": {
+            "P14": "Q27",
+            "P7": "https://thesaurus.cerl.org/cgi-bin/record.pl?rid=cnp00404241"
+          }
+        }
+      },
+      {
+        "id": "blume:00215",
+        "body": {
+          "labels": {
+            "de": "Zayk, ? (????-????)",
+            "en": "Zayk, ? (????-????)"
+          },
+          "claims": {
+            "P14": "Q27"
+          }
+        }
+      }
+    ]
+  }
+}

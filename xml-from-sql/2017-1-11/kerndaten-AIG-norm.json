@@ -1,0 +1,3912 @@
+{
+   "DATA": {
+      "item": [
+         {
+            "id": "blume:00001",
+            "body": {
+               "labels": {
+                  "de": "17",
+                  "en": "17"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00002",
+            "body": {
+               "labels": {
+                  "de": "2",
+                  "en": "2"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Deutscher"
+               }
+            }
+         },
+         {
+            "id": "blume:00003",
+            "body": {
+               "labels": {
+                  "de": "20",
+                  "en": "20"
+               },
+               "descriptions": {
+                  "de": "(255) Deutsche_20",
+                  "en": "(255) Deutsche_20"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00004",
+            "body": {
+               "labels": {
+                  "de": "21",
+                  "en": "21"
+               },
+               "descriptions": {
+                  "de": "(256) Deutsche_21",
+                  "en": "(256) Deutsche_21"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00005",
+            "body": {
+               "labels": {
+                  "de": "22",
+                  "en": "22"
+               },
+               "descriptions": {
+                  "de": "(257) Deutsche_22",
+                  "en": "(257) Deutsche_22"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00006",
+            "body": {
+               "labels": {
+                  "de": "23",
+                  "en": "23"
+               },
+               "descriptions": {
+                  "de": "(258) Deutsche_23",
+                  "en": "(258) Deutsche_23"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00007",
+            "body": {
+               "labels": {
+                  "de": "24",
+                  "en": "24"
+               },
+               "descriptions": {
+                  "de": "(259) Deutsche_24",
+                  "en": "(259) Deutsche_24"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00008",
+            "body": {
+               "labels": {
+                  "de": "3",
+                  "en": "3"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00009",
+            "body": {
+               "labels": {
+                  "de": "331",
+                  "en": "331"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Deutscher"
+               }
+            }
+         },
+         {
+            "id": "blume:00010",
+            "body": {
+               "labels": {
+                  "de": "334",
+                  "en": "334"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher, J. L. v. Mosheim) [Schädel]",
+                  "en": "Mensch (Deutscher, J. L. v. Mosheim) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00011",
+            "body": {
+               "labels": {
+                  "de": "336",
+                  "en": "336"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutsche) [Schädel]",
+                  "en": "Mensch (Deutsche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Deutsche; Femin."
+               }
+            }
+         },
+         {
+            "id": "blume:00012",
+            "body": {
+               "labels": {
+                  "de": "346",
+                  "en": "346"
+               },
+               "descriptions": {
+                  "de": "(234) Deutscher_b_fraglich BLB",
+                  "en": "(234) Deutscher_b_fraglich BLB"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Deutscher_b"
+               }
+            }
+         },
+         {
+            "id": "blume:00013",
+            "body": {
+               "labels": {
+                  "de": "348",
+                  "en": "348"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver; Batavi Genuini"
+               }
+            }
+         },
+         {
+            "id": "blume:00014",
+            "body": {
+               "labels": {
+                  "de": "349",
+                  "en": "349"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver; Batavi genuini"
+               }
+            }
+         },
+         {
+            "id": "blume:00015",
+            "body": {
+               "labels": {
+                  "de": "350",
+                  "en": "350"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver"
+               }
+            }
+         },
+         {
+            "id": "blume:00016",
+            "body": {
+               "labels": {
+                  "de": "351",
+                  "en": "351"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver"
+               }
+            }
+         },
+         {
+            "id": "blume:00017",
+            "body": {
+               "labels": {
+                  "de": "352",
+                  "en": "352"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver"
+               }
+            }
+         },
+         {
+            "id": "blume:00018",
+            "body": {
+               "labels": {
+                  "de": "353",
+                  "en": "353"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländerin) [Schädel]",
+                  "en": "Mensch (Niederländerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächte Bataverin"
+               }
+            }
+         },
+         {
+            "id": "blume:00019",
+            "body": {
+               "labels": {
+                  "de": "354",
+                  "en": "354"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Bataver"
+               }
+            }
+         },
+         {
+            "id": "blume:00020",
+            "body": {
+               "labels": {
+                  "de": "356",
+                  "en": "356"
+               },
+               "descriptions": {
+                  "de": "Mensch (Niederländer) [Schädel]",
+                  "en": "Mensch (Niederländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Holländer; Batavi"
+               }
+            }
+         },
+         {
+            "id": "blume:00021",
+            "body": {
+               "labels": {
+                  "de": "358",
+                  "en": "358"
+               },
+               "descriptions": {
+                  "de": "Mensch (Däne) [Schädel]",
+                  "en": "Mensch (Däne) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00022",
+            "body": {
+               "labels": {
+                  "de": "359",
+                  "en": "359"
+               },
+               "descriptions": {
+                  "de": "Mensch (Däne) [Unterkieferfragment]",
+                  "en": "Mensch (Däne) [Unterkieferfragment]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00023",
+            "body": {
+               "labels": {
+                  "de": "360",
+                  "en": "360"
+               },
+               "descriptions": {
+                  "de": "Mensch (Norweger) [Schädel]",
+                  "en": "Mensch (Norweger) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Norweger"
+               }
+            }
+         },
+         {
+            "id": "blume:00024",
+            "body": {
+               "labels": {
+                  "de": "366",
+                  "en": "366"
+               },
+               "descriptions": {
+                  "de": "Mensch (Däne) [Schädel]",
+                  "en": "Mensch (Däne) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Däne"
+               }
+            }
+         },
+         {
+            "id": "blume:00025",
+            "body": {
+               "labels": {
+                  "de": "368",
+                  "en": "368"
+               },
+               "descriptions": {
+                  "de": "Mensch (Isländer) [Schädel]",
+                  "en": "Mensch (Isländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Isländer"
+               }
+            }
+         },
+         {
+            "id": "blume:00026",
+            "body": {
+               "labels": {
+                  "de": "369",
+                  "en": "369"
+               },
+               "descriptions": {
+                  "de": "Mensch (Engländer) [Schädel]",
+                  "en": "Mensch (Engländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Engländer; Angli"
+               }
+            }
+         },
+         {
+            "id": "blume:00027",
+            "body": {
+               "labels": {
+                  "de": "370",
+                  "en": "370"
+               },
+               "descriptions": {
+                  "de": "Mensch (Engländer) [Schädel]",
+                  "en": "Mensch (Engländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Engländer"
+               }
+            }
+         },
+         {
+            "id": "blume:00028",
+            "body": {
+               "labels": {
+                  "de": "371",
+                  "en": "371"
+               },
+               "descriptions": {
+                  "de": "Mensch (Engländer) [Schädel]",
+                  "en": "Mensch (Engländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schedel (unbestimmter Abkunft)"
+               }
+            }
+         },
+         {
+            "id": "blume:00029",
+            "body": {
+               "labels": {
+                  "de": "373",
+                  "en": "373"
+               },
+               "descriptions": {
+                  "de": "Mensch (Irländer) [Schädel]",
+                  "en": "Mensch (Irländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Irländer; Hiberni"
+               }
+            }
+         },
+         {
+            "id": "blume:00030",
+            "body": {
+               "labels": {
+                  "de": "374",
+                  "en": "374"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schotte) [Schädel]",
+                  "en": "Mensch (Schotte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schotte; Scoti"
+               }
+            }
+         },
+         {
+            "id": "blume:00031",
+            "body": {
+               "labels": {
+                  "de": "375",
+                  "en": "375"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schotte) [Schädel]",
+                  "en": "Mensch (Schotte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schotte"
+               }
+            }
+         },
+         {
+            "id": "blume:00032",
+            "body": {
+               "labels": {
+                  "de": "376",
+                  "en": "376"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schottin) [Schädel]",
+                  "en": "Mensch (Schottin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "echter Highlander; Scoti borealis"
+               }
+            }
+         },
+         {
+            "id": "blume:00033",
+            "body": {
+               "labels": {
+                  "de": "377",
+                  "en": "377"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schotte) [Schädel]",
+                  "en": "Mensch (Schotte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schotte"
+               }
+            }
+         },
+         {
+            "id": "blume:00034",
+            "body": {
+               "labels": {
+                  "de": "378",
+                  "en": "378"
+               },
+               "descriptions": {
+                  "de": "(295) Schweizer_mas_Burgunder",
+                  "en": "(295) Schweizer_mas_Burgunder"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schweizer_mas_Burgunder"
+               }
+            }
+         },
+         {
+            "id": "blume:00035",
+            "body": {
+               "labels": {
+                  "de": "382",
+                  "en": "382"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzoß; Franzose; Galli"
+               }
+            }
+         },
+         {
+            "id": "blume:00036",
+            "body": {
+               "labels": {
+                  "de": "384",
+                  "en": "384"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener) [Schädel]",
+                  "en": "Mensch (Italiener) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiäner; Itali; Italus"
+               }
+            }
+         },
+         {
+            "id": "blume:00037",
+            "body": {
+               "labels": {
+                  "de": "385",
+                  "en": "385"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Veneter) [Schädel]",
+                  "en": "Mensch (Italiener: Veneter) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Venetianer"
+               }
+            }
+         },
+         {
+            "id": "blume:00038",
+            "body": {
+               "labels": {
+                  "de": "386",
+                  "en": "386"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener) [Schädel]",
+                  "en": "Mensch (Italiener) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiäner"
+               }
+            }
+         },
+         {
+            "id": "blume:00039",
+            "body": {
+               "labels": {
+                  "de": "387",
+                  "en": "387"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Sizilianer) [Schädel]",
+                  "en": "Mensch (Italiener: Sizilianer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiäner"
+               }
+            }
+         },
+         {
+            "id": "blume:00040",
+            "body": {
+               "labels": {
+                  "de": "389",
+                  "en": "389"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener) [Schädel]",
+                  "en": "Mensch (Italiener) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiäner; Itali"
+               }
+            }
+         },
+         {
+            "id": "blume:00041",
+            "body": {
+               "labels": {
+                  "de": "390",
+                  "en": "390"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schotte) [Schädel]",
+                  "en": "Mensch (Schotte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Scotch Highlander"
+               }
+            }
+         },
+         {
+            "id": "blume:00042",
+            "body": {
+               "labels": {
+                  "de": "391",
+                  "en": "391"
+               },
+               "descriptions": {
+                  "de": "Mensch (Schotte) [Schädel]",
+                  "en": "Mensch (Schotte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schotte"
+               }
+            }
+         },
+         {
+            "id": "blume:00043",
+            "body": {
+               "labels": {
+                  "de": "397",
+                  "en": "397"
+               },
+               "descriptions": {
+                  "de": "(317) Italiener_7_Etrusker",
+                  "en": "(317) Italiener_7_Etrusker"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiener_7_Etrusker"
+               }
+            }
+         },
+         {
+            "id": "blume:00044",
+            "body": {
+               "labels": {
+                  "de": "398",
+                  "en": "398"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Lombarde) [Schädel]",
+                  "en": "Mensch (Italiener: Lombarde) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lombarde, Longobardi"
+               }
+            }
+         },
+         {
+            "id": "blume:00045",
+            "body": {
+               "labels": {
+                  "de": "399",
+                  "en": "399"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener) [Schädel]",
+                  "en": "Mensch (Italiener) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiäner; Itali"
+               }
+            }
+         },
+         {
+            "id": "blume:00046",
+            "body": {
+               "labels": {
+                  "de": "4",
+                  "en": "4"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00047",
+            "body": {
+               "labels": {
+                  "de": "400",
+                  "en": "400"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose: Korse) [Schädel]",
+                  "en": "Mensch (Franzose: Korse) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Corse; Corsi"
+               }
+            }
+         },
+         {
+            "id": "blume:00048",
+            "body": {
+               "labels": {
+                  "de": "401",
+                  "en": "401"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Römer) [Schädel]",
+                  "en": "Mensch (Italiener: Römer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Römer; Veteris Romani militis praetoriani"
+               }
+            }
+         },
+         {
+            "id": "blume:00049",
+            "body": {
+               "labels": {
+                  "de": "402",
+                  "en": "402"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Etrusker) (Schädel)",
+                  "en": "Mensch (Italiener: Etrusker) (Schädel)"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Etrusker"
+               }
+            }
+         },
+         {
+            "id": "blume:00050",
+            "body": {
+               "labels": {
+                  "de": "403",
+                  "en": "403"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Etrusker) (Schädel)",
+                  "en": "Mensch (Italiener: Etrusker) (Schädel)"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Etrusker"
+               }
+            }
+         },
+         {
+            "id": "blume:00051",
+            "body": {
+               "labels": {
+                  "de": "404",
+                  "en": "404"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Etrusker) (Schädel)",
+                  "en": "Mensch (Italiener: Etrusker) (Schädel)"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Etrusker"
+               }
+            }
+         },
+         {
+            "id": "blume:00052",
+            "body": {
+               "labels": {
+                  "de": "406",
+                  "en": "406"
+               },
+               "descriptions": {
+                  "de": "Mensch (Italiener: Etrusker) [Schädel]",
+                  "en": "Mensch (Italiener: Etrusker) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Etrusker"
+               }
+            }
+         },
+         {
+            "id": "blume:00053",
+            "body": {
+               "labels": {
+                  "de": "407",
+                  "en": "407"
+               },
+               "descriptions": {
+                  "de": "(318) Italiener_8",
+                  "en": "(318) Italiener_8"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Italiener_8"
+               }
+            }
+         },
+         {
+            "id": "blume:00054",
+            "body": {
+               "labels": {
+                  "de": "409",
+                  "en": "409"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzose"
+               }
+            }
+         },
+         {
+            "id": "blume:00055",
+            "body": {
+               "labels": {
+                  "de": "410",
+                  "en": "410"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzose; Galli"
+               }
+            }
+         },
+         {
+            "id": "blume:00056",
+            "body": {
+               "labels": {
+                  "de": "411",
+                  "en": "411"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzose"
+               }
+            }
+         },
+         {
+            "id": "blume:00057",
+            "body": {
+               "labels": {
+                  "de": "412",
+                  "en": "412"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzose"
+               }
+            }
+         },
+         {
+            "id": "blume:00058",
+            "body": {
+               "labels": {
+                  "de": "413",
+                  "en": "413"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose) [Schädel]",
+                  "en": "Mensch (Franzose) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Franzose; Galli"
+               }
+            }
+         },
+         {
+            "id": "blume:00059",
+            "body": {
+               "labels": {
+                  "de": "414",
+                  "en": "414"
+               },
+               "descriptions": {
+                  "de": "Mensch (Franzose: Lothringer) [Schädel]",
+                  "en": "Mensch (Franzose: Lothringer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lothringer"
+               }
+            }
+         },
+         {
+            "id": "blume:00060",
+            "body": {
+               "labels": {
+                  "de": "425",
+                  "en": "425"
+               },
+               "descriptions": {
+                  "de": "Mensch (Spanier) [Schädel]",
+                  "en": "Mensch (Spanier) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Spanier; Hispani"
+               }
+            }
+         },
+         {
+            "id": "blume:00061",
+            "body": {
+               "labels": {
+                  "de": "430",
+                  "en": "430"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tscheche: Böhme) [Schädel]",
+                  "en": "Mensch (Tscheche: Böhme) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Böhme"
+               }
+            }
+         },
+         {
+            "id": "blume:00062",
+            "body": {
+               "labels": {
+                  "de": "433",
+                  "en": "433"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher: Wende) [Schädel]",
+                  "en": "Mensch (Deutscher: Wende) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Wende; Wende; Venedi"
+               }
+            }
+         },
+         {
+            "id": "blume:00063",
+            "body": {
+               "labels": {
+                  "de": "439",
+                  "en": "439"
+               },
+               "descriptions": {
+                  "de": "Mensch (Pole) [Schädel]",
+                  "en": "Mensch (Pole) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Masure; Masuri Poloni"
+               }
+            }
+         },
+         {
+            "id": "blume:00064",
+            "body": {
+               "labels": {
+                  "de": "440",
+                  "en": "440"
+               },
+               "descriptions": {
+                  "de": "Mensch (Pole) [Schädel]",
+                  "en": "Mensch (Pole) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Polacke"
+               }
+            }
+         },
+         {
+            "id": "blume:00065",
+            "body": {
+               "labels": {
+                  "de": "441",
+                  "en": "441"
+               },
+               "descriptions": {
+                  "de": "Mensch (Litauer) [Schädel]",
+                  "en": "Mensch (Litauer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Polacke; Lithauer; Sarmatae Lituani"
+               }
+            }
+         },
+         {
+            "id": "blume:00066",
+            "body": {
+               "labels": {
+                  "de": "452",
+                  "en": "452"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kroate) [Schädel]",
+                  "en": "Mensch (Kroate) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Sclavonier; Slavonier; Slavonii"
+               }
+            }
+         },
+         {
+            "id": "blume:00067",
+            "body": {
+               "labels": {
+                  "de": "453",
+                  "en": "453"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ukrainer [?]) [Schädel]",
+                  "en": "Mensch (Ukrainer [?]) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Gallizier; Rothrusse; Ruthenus"
+               }
+            }
+         },
+         {
+            "id": "blume:00068",
+            "body": {
+               "labels": {
+                  "de": "454",
+                  "en": "454"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kroate) [Schädel]",
+                  "en": "Mensch (Kroate) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Sklavonier; Slavonier; Slavonii"
+               }
+            }
+         },
+         {
+            "id": "blume:00069",
+            "body": {
+               "labels": {
+                  "de": "459",
+                  "en": "459"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe, juvenil) [Schädel]",
+                  "en": "Mensch (Russe, juvenil) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "jugendlicher Russenschädel; junger Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00070",
+            "body": {
+               "labels": {
+                  "de": "460",
+                  "en": "460"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel, trepaniert]",
+                  "en": "Mensch (Russe) [Schädel, trepaniert]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00071",
+            "body": {
+               "labels": {
+                  "de": "461",
+                  "en": "461"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "junger Urusse"
+               }
+            }
+         },
+         {
+            "id": "blume:00072",
+            "body": {
+               "labels": {
+                  "de": "462",
+                  "en": "462"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00073",
+            "body": {
+               "labels": {
+                  "de": "463",
+                  "en": "463"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00074",
+            "body": {
+               "labels": {
+                  "de": "464",
+                  "en": "464"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00075",
+            "body": {
+               "labels": {
+                  "de": "465",
+                  "en": "465"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00076",
+            "body": {
+               "labels": {
+                  "de": "466",
+                  "en": "466"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00077",
+            "body": {
+               "labels": {
+                  "de": "468",
+                  "en": "468"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Siräne"
+               }
+            }
+         },
+         {
+            "id": "blume:00078",
+            "body": {
+               "labels": {
+                  "de": "469",
+                  "en": "469"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00079",
+            "body": {
+               "labels": {
+                  "de": "470",
+                  "en": "470"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00080",
+            "body": {
+               "labels": {
+                  "de": "471",
+                  "en": "471"
+               },
+               "descriptions": {
+                  "de": "(202) Russe_x noch nicht in handschr. Kat. lok.",
+                  "en": "(202) Russe_x noch nicht in handschr. Kat. lok."
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00081",
+            "body": {
+               "labels": {
+                  "de": "472",
+                  "en": "472"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00082",
+            "body": {
+               "labels": {
+                  "de": "473",
+                  "en": "473"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ukrainerin [?]) [Schädel]",
+                  "en": "Mensch (Ukrainerin [?]) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Gallizierin; Feminae Gallizae"
+               }
+            }
+         },
+         {
+            "id": "blume:00083",
+            "body": {
+               "labels": {
+                  "de": "474",
+                  "en": "474"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00084",
+            "body": {
+               "labels": {
+                  "de": "475",
+                  "en": "475"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russin) [Schädel]",
+                  "en": "Mensch (Russin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russin"
+               }
+            }
+         },
+         {
+            "id": "blume:00085",
+            "body": {
+               "labels": {
+                  "de": "476",
+                  "en": "476"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00086",
+            "body": {
+               "labels": {
+                  "de": "477",
+                  "en": "477"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00087",
+            "body": {
+               "labels": {
+                  "de": "478",
+                  "en": "478"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russin) [Schädel]",
+                  "en": "Mensch (Russin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "64 jähriges Weib"
+               }
+            }
+         },
+         {
+            "id": "blume:00088",
+            "body": {
+               "labels": {
+                  "de": "479",
+                  "en": "479"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00089",
+            "body": {
+               "labels": {
+                  "de": "480",
+                  "en": "480"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00090",
+            "body": {
+               "labels": {
+                  "de": "483",
+                  "en": "483"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "60jähriger Marquetenter; 60 jähriger Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00091",
+            "body": {
+               "labels": {
+                  "de": "484",
+                  "en": "484"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "38jähriger Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00092",
+            "body": {
+               "labels": {
+                  "de": "485",
+                  "en": "485"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe) [Schädel]",
+                  "en": "Mensch (Russe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe"
+               }
+            }
+         },
+         {
+            "id": "blume:00093",
+            "body": {
+               "labels": {
+                  "de": "486",
+                  "en": "486"
+               },
+               "descriptions": {
+                  "de": "Mensch Russe [Schädel]",
+                  "en": "Mensch Russe [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russe_y"
+               }
+            }
+         },
+         {
+            "id": "blume:00094",
+            "body": {
+               "labels": {
+                  "de": "489",
+                  "en": "489"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe [Kosake]) [Schädel]",
+                  "en": "Mensch (Russe [Kosake]) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Cosack; Casacci; Casack"
+               }
+            }
+         },
+         {
+            "id": "blume:00095",
+            "body": {
+               "labels": {
+                  "de": "491",
+                  "en": "491"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe [Kosake]) [Schädel]",
+                  "en": "Mensch (Russe [Kosake]) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Casacci; Cosacci; Casack"
+               }
+            }
+         },
+         {
+            "id": "blume:00096",
+            "body": {
+               "labels": {
+                  "de": "492",
+                  "en": "492"
+               },
+               "descriptions": {
+                  "de": "Mensch (Russe [Kosake]) [Schädel]",
+                  "en": "Mensch (Russe [Kosake]) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Casacke; Donscher Casack; Casacci Donensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00097",
+            "body": {
+               "labels": {
+                  "de": "498",
+                  "en": "498"
+               },
+               "descriptions": {
+                  "de": "Mensch (Krimbewohner: Taurer) [Schädel]",
+                  "en": "Mensch (Krimbewohner: Taurer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Schädel aus dem Grabe der bosporischen Könige in Taurien"
+               }
+            }
+         },
+         {
+            "id": "blume:00098",
+            "body": {
+               "labels": {
+                  "de": "5",
+                  "en": "5"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Veteris Germani"
+               }
+            }
+         },
+         {
+            "id": "blume:00099",
+            "body": {
+               "labels": {
+                  "de": "502",
+                  "en": "502"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grieche) [Schädel]",
+                  "en": "Mensch (Grieche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Grieche; Veteris Graeci"
+               }
+            }
+         },
+         {
+            "id": "blume:00100",
+            "body": {
+               "labels": {
+                  "de": "503",
+                  "en": "503"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grieche) [Schädel]",
+                  "en": "Mensch (Grieche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00101",
+            "body": {
+               "labels": {
+                  "de": "504",
+                  "en": "504"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grieche) [Schädel]",
+                  "en": "Mensch (Grieche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Hellener"
+               }
+            }
+         },
+         {
+            "id": "blume:00102",
+            "body": {
+               "labels": {
+                  "de": "506",
+                  "en": "506"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grieche) [Schädel]",
+                  "en": "Mensch (Grieche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Grieche"
+               }
+            }
+         },
+         {
+            "id": "blume:00103",
+            "body": {
+               "labels": {
+                  "de": "509",
+                  "en": "509"
+               },
+               "descriptions": {
+                  "de": "Mensch (Wolgabulgare) [Schädel]",
+                  "en": "Mensch (Wolgabulgare) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Bolgare; veteris Bolgari"
+               }
+            }
+         },
+         {
+            "id": "blume:00104",
+            "body": {
+               "labels": {
+                  "de": "510",
+                  "en": "510"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ungar) [Schädel]",
+                  "en": "Mensch (Ungar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Hungar; Cumani"
+               }
+            }
+         },
+         {
+            "id": "blume:00105",
+            "body": {
+               "labels": {
+                  "de": "512",
+                  "en": "512"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "junger Türke"
+               }
+            }
+         },
+         {
+            "id": "blume:00106",
+            "body": {
+               "labels": {
+                  "de": "513",
+                  "en": "513"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke; Turcae"
+               }
+            }
+         },
+         {
+            "id": "blume:00107",
+            "body": {
+               "labels": {
+                  "de": "514",
+                  "en": "514"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke"
+               }
+            }
+         },
+         {
+            "id": "blume:00108",
+            "body": {
+               "labels": {
+                  "de": "515",
+                  "en": "515"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke"
+               }
+            }
+         },
+         {
+            "id": "blume:00109",
+            "body": {
+               "labels": {
+                  "de": "516",
+                  "en": "516"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke"
+               }
+            }
+         },
+         {
+            "id": "blume:00110",
+            "body": {
+               "labels": {
+                  "de": "517",
+                  "en": "517"
+               },
+               "descriptions": {
+                  "de": "Mensch (Türke) [Schädel]",
+                  "en": "Mensch (Türke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke"
+               }
+            }
+         },
+         {
+            "id": "blume:00111",
+            "body": {
+               "labels": {
+                  "de": "518",
+                  "en": "518"
+               },
+               "descriptions": {
+                  "de": "(171) Türke_g [Schädeldecke]",
+                  "en": "(171) Türke_g [Schädeldecke]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Türke_g"
+               }
+            }
+         },
+         {
+            "id": "blume:00112",
+            "body": {
+               "labels": {
+                  "de": "520",
+                  "en": "520"
+               },
+               "descriptions": {
+                  "de": "Mensch (Finnin) [Schädel]",
+                  "en": "Mensch (Finnin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "finnisches Weib; Finnländerin"
+               }
+            }
+         },
+         {
+            "id": "blume:00113",
+            "body": {
+               "labels": {
+                  "de": "521",
+                  "en": "521"
+               },
+               "descriptions": {
+                  "de": "Mensch (Finne) [Schädel]",
+                  "en": "Mensch (Finne) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Finne"
+               }
+            }
+         },
+         {
+            "id": "blume:00114",
+            "body": {
+               "labels": {
+                  "de": "522",
+                  "en": "522"
+               },
+               "descriptions": {
+                  "de": "Mensch (Finne) [Schädel]",
+                  "en": "Mensch (Finne) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Finne"
+               }
+            }
+         },
+         {
+            "id": "blume:00115",
+            "body": {
+               "labels": {
+                  "de": "523",
+                  "en": "523"
+               },
+               "descriptions": {
+                  "de": "Mensch (Samin) [Schädel]",
+                  "en": "Mensch (Samin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lappländerin; Feminae Lapinicae"
+               }
+            }
+         },
+         {
+            "id": "blume:00116",
+            "body": {
+               "labels": {
+                  "de": "524",
+                  "en": "524"
+               },
+               "descriptions": {
+                  "de": "Mensch (Same) [Schädel]",
+                  "en": "Mensch (Same) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lappländer; Lapponis"
+               }
+            }
+         },
+         {
+            "id": "blume:00117",
+            "body": {
+               "labels": {
+                  "de": "525",
+                  "en": "525"
+               },
+               "descriptions": {
+                  "de": "Mensch (Same) [Schädel]",
+                  "en": "Mensch (Same) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lappe; Lapponis"
+               }
+            }
+         },
+         {
+            "id": "blume:00118",
+            "body": {
+               "labels": {
+                  "de": "526",
+                  "en": "526"
+               },
+               "descriptions": {
+                  "de": "Mensch (Same) [Schädel]",
+                  "en": "Mensch (Same) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lappe; Lappländer"
+               }
+            }
+         },
+         {
+            "id": "blume:00119",
+            "body": {
+               "labels": {
+                  "de": "529",
+                  "en": "529"
+               },
+               "descriptions": {
+                  "de": "Mensch (Rom) [Schädel]",
+                  "en": "Mensch (Rom) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Echter Zigeuner; Cingari Genuini"
+               }
+            }
+         },
+         {
+            "id": "blume:00120",
+            "body": {
+               "labels": {
+                  "de": "530",
+                  "en": "530"
+               },
+               "descriptions": {
+                  "de": "Mensch (Rom) [Schädel]",
+                  "en": "Mensch (Rom) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russischer Zigeuner; Cingari Russici"
+               }
+            }
+         },
+         {
+            "id": "blume:00121",
+            "body": {
+               "labels": {
+                  "de": "531",
+                  "en": "531"
+               },
+               "descriptions": {
+                  "de": "Mensch (Rom) [Schädel]",
+                  "en": "Mensch (Rom) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Russischer Zigeuner; Cingari Russici"
+               }
+            }
+         },
+         {
+            "id": "blume:00122",
+            "body": {
+               "labels": {
+                  "de": "532",
+                  "en": "532"
+               },
+               "descriptions": {
+                  "de": "Mensch (Romni) [Schädel]",
+                  "en": "Mensch (Romni) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Siebenbürgische Zigeunerin"
+               }
+            }
+         },
+         {
+            "id": "blume:00123",
+            "body": {
+               "labels": {
+                  "de": "533",
+                  "en": "533"
+               },
+               "descriptions": {
+                  "de": "Mensch (Rom) [Schädel]",
+                  "en": "Mensch (Rom) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Siebenbürgischer Zigeuner"
+               }
+            }
+         },
+         {
+            "id": "blume:00124",
+            "body": {
+               "labels": {
+                  "de": "534",
+                  "en": "534"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "junger Jude; Judai"
+               }
+            }
+         },
+         {
+            "id": "blume:00125",
+            "body": {
+               "labels": {
+                  "de": "535",
+                  "en": "535"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutsche) [Schädel, juvenil]",
+                  "en": "Mensch (Deutsche) [Schädel, juvenil]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Judenmädchen; Puellae Iudaicae"
+               }
+            }
+         },
+         {
+            "id": "blume:00126",
+            "body": {
+               "labels": {
+                  "de": "536",
+                  "en": "536"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher?) [Schädel]",
+                  "en": "Mensch (Deutscher?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "fast hundertjähriger Jude; hundertjähriger Jude; Iudaei centenarii"
+               }
+            }
+         },
+         {
+            "id": "blume:00127",
+            "body": {
+               "labels": {
+                  "de": "537",
+                  "en": "537"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher) [Schädel]",
+                  "en": "Mensch (Deutscher) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00128",
+            "body": {
+               "labels": {
+                  "de": "538",
+                  "en": "538"
+               },
+               "descriptions": {
+                  "de": "Jude_nicht in handschr. Katalogen",
+                  "en": "Jude_nicht in handschr. Katalogen"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Jude"
+               }
+            }
+         },
+         {
+            "id": "blume:00129",
+            "body": {
+               "labels": {
+                  "de": "543",
+                  "en": "543"
+               },
+               "descriptions": {
+                  "de": "Mensch (Lesgier) [Schädel]",
+                  "en": "Mensch (Lesgier) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Lesghe"
+               }
+            }
+         },
+         {
+            "id": "blume:00130",
+            "body": {
+               "labels": {
+                  "de": "544",
+                  "en": "544"
+               },
+               "descriptions": {
+                  "de": "Mensch (Georgierin) [Schädel]",
+                  "en": "Mensch (Georgierin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Georgianer; Grusiner"
+               }
+            }
+         },
+         {
+            "id": "blume:00131",
+            "body": {
+               "labels": {
+                  "de": "545",
+                  "en": "545"
+               },
+               "descriptions": {
+                  "de": "Mensch (Georgier) [Schädel]",
+                  "en": "Mensch (Georgier) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Georgianer; Grusiner"
+               }
+            }
+         },
+         {
+            "id": "blume:00132",
+            "body": {
+               "labels": {
+                  "de": "546",
+                  "en": "546"
+               },
+               "descriptions": {
+                  "de": "Mensch (Georgierin) [Schädel]",
+                  "en": "Mensch (Georgierin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Georgianerin; Feminae Georgianae"
+               }
+            }
+         },
+         {
+            "id": "blume:00133",
+            "body": {
+               "labels": {
+                  "de": "548",
+                  "en": "548"
+               },
+               "descriptions": {
+                  "de": "Mensch (Armenier) [Schädel]",
+                  "en": "Mensch (Armenier) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Armenier; Armeni"
+               }
+            }
+         },
+         {
+            "id": "blume:00134",
+            "body": {
+               "labels": {
+                  "de": "555",
+                  "en": "555"
+               },
+               "descriptions": {
+                  "de": "Mensch (Korjake, Itelmene oder Ewene) [Schädel]",
+                  "en": "Mensch (Korjake, Itelmene oder Ewene) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Koräke; Koraeke; Koräke (?)"
+               }
+            }
+         },
+         {
+            "id": "blume:00135",
+            "body": {
+               "labels": {
+                  "de": "556",
+                  "en": "556"
+               },
+               "descriptions": {
+                  "de": "Mensch (Nenze) [Schädel]",
+                  "en": "Mensch (Nenze) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Samojede; Samojedi"
+               }
+            }
+         },
+         {
+            "id": "blume:00136",
+            "body": {
+               "labels": {
+                  "de": "557",
+                  "en": "557"
+               },
+               "descriptions": {
+                  "de": "Mensch (Korjake, Itelmene oder Ewene) [Schädel]",
+                  "en": "Mensch (Korjake, Itelmene oder Ewene) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ächter Kamtschadale; Kamtschadali Genuini"
+               }
+            }
+         },
+         {
+            "id": "blume:00137",
+            "body": {
+               "labels": {
+                  "de": "559",
+                  "en": "559"
+               },
+               "descriptions": {
+                  "de": "Mensch (Jakute) [Schädel]",
+                  "en": "Mensch (Jakute) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Jakute; Jacutae"
+               }
+            }
+         },
+         {
+            "id": "blume:00138",
+            "body": {
+               "labels": {
+                  "de": "560",
+                  "en": "560"
+               },
+               "descriptions": {
+                  "de": "Mensch (Evenke) [Schädel]",
+                  "en": "Mensch (Evenke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Rehnthier-Tunguse aus dem Gilgekirskischen Stamme; Tungusae"
+               }
+            }
+         },
+         {
+            "id": "blume:00139",
+            "body": {
+               "labels": {
+                  "de": "561",
+                  "en": "561"
+               },
+               "descriptions": {
+                  "de": "Mensch (Daurer) [Schädel]",
+                  "en": "Mensch (Daurer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Daürischer Tunguse aus dem saradulischen Geschlecht; Sinensis Daürici"
+               }
+            }
+         },
+         {
+            "id": "blume:00140",
+            "body": {
+               "labels": {
+                  "de": "563",
+                  "en": "563"
+               },
+               "descriptions": {
+                  "de": "Mensch (Burjate) [Schädel, juvenil]",
+                  "en": "Mensch (Burjate) [Schädel, juvenil]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Buräten-Kind; Infantis Buraeti"
+               }
+            }
+         },
+         {
+            "id": "blume:00141",
+            "body": {
+               "labels": {
+                  "de": "565",
+                  "en": "565"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tschude?) [Schädel]",
+                  "en": "Mensch (Tschude?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Veteris Tschudae"
+               }
+            }
+         },
+         {
+            "id": "blume:00142",
+            "body": {
+               "labels": {
+                  "de": "566",
+                  "en": "566"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tschude?) [Schädel]",
+                  "en": "Mensch (Tschude?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00143",
+            "body": {
+               "labels": {
+                  "de": "567",
+                  "en": "567"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke; Calmucci"
+               }
+            }
+         },
+         {
+            "id": "blume:00144",
+            "body": {
+               "labels": {
+                  "de": "568",
+                  "en": "568"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke"
+               }
+            }
+         },
+         {
+            "id": "blume:00145",
+            "body": {
+               "labels": {
+                  "de": "569",
+                  "en": "569"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke"
+               }
+            }
+         },
+         {
+            "id": "blume:00146",
+            "body": {
+               "labels": {
+                  "de": "570",
+                  "en": "570"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke"
+               }
+            }
+         },
+         {
+            "id": "blume:00147",
+            "body": {
+               "labels": {
+                  "de": "571",
+                  "en": "571"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke; Calmucci secundi"
+               }
+            }
+         },
+         {
+            "id": "blume:00148",
+            "body": {
+               "labels": {
+                  "de": "572",
+                  "en": "572"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke"
+               }
+            }
+         },
+         {
+            "id": "blume:00149",
+            "body": {
+               "labels": {
+                  "de": "573",
+                  "en": "573"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kalmücke) [Schädel]",
+                  "en": "Mensch (Kalmücke) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Calmücke"
+               }
+            }
+         },
+         {
+            "id": "blume:00150",
+            "body": {
+               "labels": {
+                  "de": "574",
+                  "en": "574"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Tatar"
+               }
+            }
+         },
+         {
+            "id": "blume:00151",
+            "body": {
+               "labels": {
+                  "de": "575",
+                  "en": "575"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Tatar"
+               }
+            }
+         },
+         {
+            "id": "blume:00152",
+            "body": {
+               "labels": {
+                  "de": "576",
+                  "en": "576"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Tatar"
+               }
+            }
+         },
+         {
+            "id": "blume:00153",
+            "body": {
+               "labels": {
+                  "de": "577",
+                  "en": "577"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00154",
+            "body": {
+               "labels": {
+                  "de": "578",
+                  "en": "578"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Casanischer Tatare; Casanischer Tatar; Tatari Casanensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00155",
+            "body": {
+               "labels": {
+                  "de": "579",
+                  "en": "579"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Orenburgischer Tatar"
+               }
+            }
+         },
+         {
+            "id": "blume:00156",
+            "body": {
+               "labels": {
+                  "de": "580",
+                  "en": "580"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel]",
+                  "en": "Mensch (Tatar) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Casanischer Tatar"
+               }
+            }
+         },
+         {
+            "id": "blume:00157",
+            "body": {
+               "labels": {
+                  "de": "581",
+                  "en": "581"
+               },
+               "descriptions": {
+                  "de": "Mensch (Aserbaidschaner?) [Schädel]",
+                  "en": "Mensch (Aserbaidschaner?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Persischer Beg [Bey]; Persae"
+               }
+            }
+         },
+         {
+            "id": "blume:00158",
+            "body": {
+               "labels": {
+                  "de": "582",
+                  "en": "582"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tatar) [Schädel, subadult]",
+                  "en": "Mensch (Tatar) [Schädel, subadult]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "vermuthlich Tatarischer Macrocephalus; Asiatae Macrocephali"
+               }
+            }
+         },
+         {
+            "id": "blume:00159",
+            "body": {
+               "labels": {
+                  "de": "584",
+                  "en": "584"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tschuwasche) [Schädel]",
+                  "en": "Mensch (Tschuwasche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Tschuwasche"
+               }
+            }
+         },
+         {
+            "id": "blume:00160",
+            "body": {
+               "labels": {
+                  "de": "585",
+                  "en": "585"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kasache) [Schädel]",
+                  "en": "Mensch (Kasache) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Kirgis-Kaisacke"
+               }
+            }
+         },
+         {
+            "id": "blume:00161",
+            "body": {
+               "labels": {
+                  "de": "586",
+                  "en": "586"
+               },
+               "descriptions": {
+                  "de": "Mensch (Kasache) [Schädel]",
+                  "en": "Mensch (Kasache) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Kirgis-Kaisacke; Kirgisae-Caisacci"
+               }
+            }
+         },
+         {
+            "id": "blume:00162",
+            "body": {
+               "labels": {
+                  "de": "587",
+                  "en": "587"
+               },
+               "descriptions": {
+                  "de": "Mensch (Baschkire) [Schädel]",
+                  "en": "Mensch (Baschkire) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Baschkir"
+               }
+            }
+         },
+         {
+            "id": "blume:00163",
+            "body": {
+               "labels": {
+                  "de": "588",
+                  "en": "588"
+               },
+               "descriptions": {
+                  "de": "Mensch (Baschkire) [Schädel]",
+                  "en": "Mensch (Baschkire) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Baschkir"
+               }
+            }
+         },
+         {
+            "id": "blume:00164",
+            "body": {
+               "labels": {
+                  "de": "589",
+                  "en": "589"
+               },
+               "descriptions": {
+                  "de": "Mensch (Bamare) [Schädel]",
+                  "en": "Mensch (Bamare) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Birmane"
+               }
+            }
+         },
+         {
+            "id": "blume:00165",
+            "body": {
+               "labels": {
+                  "de": "590",
+                  "en": "590"
+               },
+               "descriptions": {
+                  "de": "Mensch (Bamare) [Schädel]",
+                  "en": "Mensch (Bamare) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Birmane"
+               }
+            }
+         },
+         {
+            "id": "blume:00166",
+            "body": {
+               "labels": {
+                  "de": "591",
+                  "en": "591"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00167",
+            "body": {
+               "labels": {
+                  "de": "593",
+                  "en": "593"
+               },
+               "descriptions": {
+                  "de": "Mensch (Vater Chinese, Mutter Malaiin) [Schädel]",
+                  "en": "Mensch (Vater Chinese, Mutter Malaiin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Bastard-Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00168",
+            "body": {
+               "labels": {
+                  "de": "595",
+                  "en": "595"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00169",
+            "body": {
+               "labels": {
+                  "de": "596",
+                  "en": "596"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00170",
+            "body": {
+               "labels": {
+                  "de": "597",
+                  "en": "597"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00171",
+            "body": {
+               "labels": {
+                  "de": "598",
+                  "en": "598"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00172",
+            "body": {
+               "labels": {
+                  "de": "599",
+                  "en": "599"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00173",
+            "body": {
+               "labels": {
+                  "de": "6",
+                  "en": "6"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutsche) [Schädel]",
+                  "en": "Mensch (Deutsche) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00174",
+            "body": {
+               "labels": {
+                  "de": "600",
+                  "en": "600"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00175",
+            "body": {
+               "labels": {
+                  "de": "601",
+                  "en": "601"
+               },
+               "descriptions": {
+                  "de": "Mensch (Chinese) [Schädel]",
+                  "en": "Mensch (Chinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schinese; Sinensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00176",
+            "body": {
+               "labels": {
+                  "de": "604",
+                  "en": "604"
+               },
+               "descriptions": {
+                  "de": "Mensch (Inder) [Schädel]",
+                  "en": "Mensch (Inder) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Hindu aus Bengalen; Indi Bengalensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00177",
+            "body": {
+               "labels": {
+                  "de": "605",
+                  "en": "605"
+               },
+               "descriptions": {
+                  "de": "Mensch (Inderin) [Schädel]",
+                  "en": "Mensch (Inderin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "junge Ostindierin"
+               }
+            }
+         },
+         {
+            "id": "blume:00178",
+            "body": {
+               "labels": {
+                  "de": "609",
+                  "en": "609"
+               },
+               "descriptions": {
+                  "de": "Mensch (\"Mestize\") [Schädel]",
+                  "en": "Mensch (\"Mestize\") [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mestiche"
+               }
+            }
+         },
+         {
+            "id": "blume:00179",
+            "body": {
+               "labels": {
+                  "de": "610",
+                  "en": "610"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javaner) [Schädel]",
+                  "en": "Mensch (Javaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javaner; Javani"
+               }
+            }
+         },
+         {
+            "id": "blume:00180",
+            "body": {
+               "labels": {
+                  "de": "612",
+                  "en": "612"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javaner) [Schädel]",
+                  "en": "Mensch (Javaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javaner"
+               }
+            }
+         },
+         {
+            "id": "blume:00181",
+            "body": {
+               "labels": {
+                  "de": "613",
+                  "en": "613"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javaner) [Schädel]",
+                  "en": "Mensch (Javaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javaner"
+               }
+            }
+         },
+         {
+            "id": "blume:00182",
+            "body": {
+               "labels": {
+                  "de": "614",
+                  "en": "614"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javaner) [Schädel]",
+                  "en": "Mensch (Javaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javanischer Mohr"
+               }
+            }
+         },
+         {
+            "id": "blume:00183",
+            "body": {
+               "labels": {
+                  "de": "615",
+                  "en": "615"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javaner) [Schädel]",
+                  "en": "Mensch (Javaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javaner"
+               }
+            }
+         },
+         {
+            "id": "blume:00184",
+            "body": {
+               "labels": {
+                  "de": "617",
+                  "en": "617"
+               },
+               "descriptions": {
+                  "de": "Mensch (Javanerin) [Schädel]",
+                  "en": "Mensch (Javanerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Javaner; Iavani"
+               }
+            }
+         },
+         {
+            "id": "blume:00185",
+            "body": {
+               "labels": {
+                  "de": "621",
+                  "en": "621"
+               },
+               "descriptions": {
+                  "de": "Mensch (Madurese) [Schädel]",
+                  "en": "Mensch (Madurese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Malaye aus Madura"
+               }
+            }
+         },
+         {
+            "id": "blume:00186",
+            "body": {
+               "labels": {
+                  "de": "622",
+                  "en": "622"
+               },
+               "descriptions": {
+                  "de": "Mensch (Madurese) [Schädel]",
+                  "en": "Mensch (Madurese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Malaye aus Madura"
+               }
+            }
+         },
+         {
+            "id": "blume:00187",
+            "body": {
+               "labels": {
+                  "de": "623",
+                  "en": "623"
+               },
+               "descriptions": {
+                  "de": "Mensch (Balinese) [Schädel]",
+                  "en": "Mensch (Balinese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00188",
+            "body": {
+               "labels": {
+                  "de": "624",
+                  "en": "624"
+               },
+               "descriptions": {
+                  "de": "Mensch (Balinesin) [Schädel]",
+                  "en": "Mensch (Balinesin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00189",
+            "body": {
+               "labels": {
+                  "de": "625",
+                  "en": "625"
+               },
+               "descriptions": {
+                  "de": "Mensch (Balinesin) [Schädel]",
+                  "en": "Mensch (Balinesin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mädchen von Bali; Puellae Baliensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00190",
+            "body": {
+               "labels": {
+                  "de": "626",
+                  "en": "626"
+               },
+               "descriptions": {
+                  "de": "Mensch (Makassarin) [Schädel; Haare]",
+                  "en": "Mensch (Makassarin) [Schädel; Haare]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mädchen von Macassar; Puella Macassarensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00191",
+            "body": {
+               "labels": {
+                  "de": "627",
+                  "en": "627"
+               },
+               "descriptions": {
+                  "de": "Mensch (Bugi) [Schädel]",
+                  "en": "Mensch (Bugi) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Bugginese; Buggessi Macassarensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00192",
+            "body": {
+               "labels": {
+                  "de": "628",
+                  "en": "628"
+               },
+               "descriptions": {
+                  "de": "Mensch (Sumatraner: Palembangnese) [Schädel]",
+                  "en": "Mensch (Sumatraner: Palembangnese) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Palembangnese"
+               }
+            }
+         },
+         {
+            "id": "blume:00193",
+            "body": {
+               "labels": {
+                  "de": "629",
+                  "en": "629"
+               },
+               "descriptions": {
+                  "de": "Mensch (Amboinese) [Schädel]_fraglich BLB",
+                  "en": "Mensch (Amboinese) [Schädel]_fraglich BLB"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Amboinese"
+               }
+            }
+         },
+         {
+            "id": "blume:00194",
+            "body": {
+               "labels": {
+                  "de": "631",
+                  "en": "631"
+               },
+               "descriptions": {
+                  "de": "Mensch (Dajak) [Schädel]",
+                  "en": "Mensch (Dajak) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Dajak"
+               }
+            }
+         },
+         {
+            "id": "blume:00195",
+            "body": {
+               "labels": {
+                  "de": "640",
+                  "en": "640"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ägypter) [Schädel einer Mumie]",
+                  "en": "Mensch (Ägypter) [Schädel einer Mumie]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mumiae Aegyptiacae"
+               }
+            }
+         },
+         {
+            "id": "blume:00196",
+            "body": {
+               "labels": {
+                  "de": "641",
+                  "en": "641"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ägypter) [mumifizierter Kopf]",
+                  "en": "Mensch (Ägypter) [mumifizierter Kopf]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mumiae Aegypticae secundae"
+               }
+            }
+         },
+         {
+            "id": "blume:00197",
+            "body": {
+               "labels": {
+                  "de": "642",
+                  "en": "642"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ägypter) [Schädel einer Mumie]",
+                  "en": "Mensch (Ägypter) [Schädel einer Mumie]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mumiae Aegyptiacae Tertiae"
+               }
+            }
+         },
+         {
+            "id": "blume:00198",
+            "body": {
+               "labels": {
+                  "de": "643",
+                  "en": "643"
+               },
+               "descriptions": {
+                  "de": "Mensch (Ägypter) [Schädel einer Mumie]",
+                  "en": "Mensch (Ägypter) [Schädel einer Mumie]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Schädel einer Mumie"
+               }
+            }
+         },
+         {
+            "id": "blume:00199",
+            "body": {
+               "labels": {
+                  "de": "663",
+                  "en": "663"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afrikaner) [Schädel]",
+                  "en": "Mensch (Afrikaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger; Aethiopum"
+               }
+            }
+         },
+         {
+            "id": "blume:00200",
+            "body": {
+               "labels": {
+                  "de": "664",
+                  "en": "664"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afrikaner) [Schädel]",
+                  "en": "Mensch (Afrikaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger; Aethiopis quarti"
+               }
+            }
+         },
+         {
+            "id": "blume:00201",
+            "body": {
+               "labels": {
+                  "de": "665",
+                  "en": "665"
+               },
+               "descriptions": {
+                  "de": "Mensch (Guineanerin) [Schädel]",
+                  "en": "Mensch (Guineanerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Negerin aus Guinea; Aethiopissae Guineensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00202",
+            "body": {
+               "labels": {
+                  "de": "666",
+                  "en": "666"
+               },
+               "descriptions": {
+                  "de": "Mensch (Bantu) [Schädel]",
+                  "en": "Mensch (Bantu) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger; Aethiopis quinti Congensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00203",
+            "body": {
+               "labels": {
+                  "de": "667",
+                  "en": "667"
+               },
+               "descriptions": {
+                  "de": "Mensch (Sudaner) [Schädel]",
+                  "en": "Mensch (Sudaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger"
+               }
+            }
+         },
+         {
+            "id": "blume:00204",
+            "body": {
+               "labels": {
+                  "de": "669",
+                  "en": "669"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afrikaner) [Schädel, neonatal]",
+                  "en": "Mensch (Afrikaner) [Schädel, neonatal]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Aethiopis neonati; neugebohrener Neger-Knabe; neugebohrenes Negerkind; Neger-Kind"
+               }
+            }
+         },
+         {
+            "id": "blume:00205",
+            "body": {
+               "labels": {
+                  "de": "672",
+                  "en": "672"
+               },
+               "descriptions": {
+                  "de": "Mensch (Mulatte) [Schädel]",
+                  "en": "Mensch (Mulatte) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mulatte; Mulattae"
+               }
+            }
+         },
+         {
+            "id": "blume:00206",
+            "body": {
+               "labels": {
+                  "de": "681",
+                  "en": "681"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afroamerikaner) [Schädel]",
+                  "en": "Mensch (Afroamerikaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger; Creole; Creolneger; Aethiopum"
+               }
+            }
+         },
+         {
+            "id": "blume:00207",
+            "body": {
+               "labels": {
+                  "de": "684",
+                  "en": "684"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afroamerikaner) [Schädel]",
+                  "en": "Mensch (Afroamerikaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Creolneger"
+               }
+            }
+         },
+         {
+            "id": "blume:00208",
+            "body": {
+               "labels": {
+                  "de": "685",
+                  "en": "685"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afroamerikanerin?) [Schädel]",
+                  "en": "Mensch (Afroamerikanerin?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger"
+               }
+            }
+         },
+         {
+            "id": "blume:00209",
+            "body": {
+               "labels": {
+                  "de": "686",
+                  "en": "686"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afroamerikaner?) [Schädel]",
+                  "en": "Mensch (Afroamerikaner?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger"
+               }
+            }
+         },
+         {
+            "id": "blume:00210",
+            "body": {
+               "labels": {
+                  "de": "687",
+                  "en": "687"
+               },
+               "descriptions": {
+                  "de": "Mensch (Afroamerikaner?) [Schädel]",
+                  "en": "Mensch (Afroamerikaner?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Neger"
+               }
+            }
+         },
+         {
+            "id": "blume:00211",
+            "body": {
+               "labels": {
+                  "de": "693",
+                  "en": "693"
+               },
+               "descriptions": {
+                  "de": "Mensch (Bantu) [Schädel]",
+                  "en": "Mensch (Bantu) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Caffer; Kaffer"
+               }
+            }
+         },
+         {
+            "id": "blume:00212",
+            "body": {
+               "labels": {
+                  "de": "696",
+                  "en": "696"
+               },
+               "descriptions": {
+                  "de": "Mensch (Khoisanfrau) [Schädel]",
+                  "en": "Mensch (Khoisanfrau) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Hottentottin"
+               }
+            }
+         },
+         {
+            "id": "blume:00213",
+            "body": {
+               "labels": {
+                  "de": "699",
+                  "en": "699"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grönländer) [Schädel]",
+                  "en": "Mensch (Grönländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Grönländer, Groenlandi"
+               }
+            }
+         },
+         {
+            "id": "blume:00214",
+            "body": {
+               "labels": {
+                  "de": "7",
+                  "en": "7"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutscher?) [Schädel]_nicht in handschr. Kat.",
+                  "en": "Mensch (Deutscher?) [Schädel]_nicht in handschr. Kat."
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00215",
+            "body": {
+               "labels": {
+                  "de": "700",
+                  "en": "700"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grönländerin) [Schädel]",
+                  "en": "Mensch (Grönländerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Grönländerin; Feminae Groenlandicae"
+               }
+            }
+         },
+         {
+            "id": "blume:00216",
+            "body": {
+               "labels": {
+                  "de": "701",
+                  "en": "701"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grönländer) [Schädel]",
+                  "en": "Mensch (Grönländer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "junger Grönländer"
+               }
+            }
+         },
+         {
+            "id": "blume:00217",
+            "body": {
+               "labels": {
+                  "de": "702",
+                  "en": "702"
+               },
+               "descriptions": {
+                  "de": "Mensch (Grönländerin) [Schädel]",
+                  "en": "Mensch (Grönländerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Grönländerin"
+               }
+            }
+         },
+         {
+            "id": "blume:00218",
+            "body": {
+               "labels": {
+                  "de": "728",
+                  "en": "728"
+               },
+               "descriptions": {
+                  "de": "Mensch (Papua?) [Schädel]",
+                  "en": "Mensch (Papua?) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "unbekannter schwarzer Junge; Papuaner aus NeuGuinea"
+               }
+            }
+         },
+         {
+            "id": "blume:00219",
+            "body": {
+               "labels": {
+                  "de": "748",
+                  "en": "748"
+               },
+               "descriptions": {
+                  "de": "Mensch (Marquesaner) [Trophäenschädel]",
+                  "en": "Mensch (Marquesaner) [Trophäenschädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Marquesas-Insulaner; Marquesani; Nukahiwer; Nukahiver"
+               }
+            }
+         },
+         {
+            "id": "blume:00220",
+            "body": {
+               "labels": {
+                  "de": "749",
+                  "en": "749"
+               },
+               "descriptions": {
+                  "de": "Mensch (Marquesaner) [Trophäenschädel]",
+                  "en": "Mensch (Marquesaner) [Trophäenschädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Nukahiwer"
+               }
+            }
+         },
+         {
+            "id": "blume:00221",
+            "body": {
+               "labels": {
+                  "de": "769",
+                  "en": "769"
+               },
+               "descriptions": {
+                  "de": "Mensch (Tahitianer) [Schädel]",
+                  "en": "Mensch (Tahitianer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "O-taheite; Oteaheite; Otahaeitae"
+               }
+            }
+         },
+         {
+            "id": "blume:00222",
+            "body": {
+               "labels": {
+                  "de": "773",
+                  "en": "773"
+               },
+               "descriptions": {
+                  "de": "Mensch (indigene Brasilianerin) [Schädel]",
+                  "en": "Mensch (indigene Brasilianerin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Brasilianerin, Feminae Brasilianae"
+               }
+            }
+         },
+         {
+            "id": "blume:00223",
+            "body": {
+               "labels": {
+                  "de": "774",
+                  "en": "774"
+               },
+               "descriptions": {
+                  "de": "Mensch (indigener Brasilianer) [Schädel]",
+                  "en": "Mensch (indigener Brasilianer) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Brasilianer"
+               }
+            }
+         },
+         {
+            "id": "blume:00224",
+            "body": {
+               "labels": {
+                  "de": "778",
+                  "en": "778"
+               },
+               "descriptions": {
+                  "de": "Mensch (Karibe) [Schädel]",
+                  "en": "Mensch (Karibe) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Caraibe; Caribaei ex insula Scti Vincentii; caraibischer Heerführer; Caraiben-Chief; Caraibenhäuptling"
+               }
+            }
+         },
+         {
+            "id": "blume:00225",
+            "body": {
+               "labels": {
+                  "de": "780",
+                  "en": "780"
+               },
+               "descriptions": {
+                  "de": "Mensch (Karibin) [Schädel]",
+                  "en": "Mensch (Karibin) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Caraibin; Femina Caribeae ex Insula Sti Vincentii; Caraiben-Weib; Caraibische Frau"
+               }
+            }
+         },
+         {
+            "id": "blume:00226",
+            "body": {
+               "labels": {
+                  "de": "8",
+                  "en": "8"
+               },
+               "descriptions": {
+                  "de": "(243) Deutsche",
+                  "en": "(243) Deutsche"
+               },
+               "claims": {
+                  "P16": "Q25"
+               }
+            }
+         },
+         {
+            "id": "blume:00227",
+            "body": {
+               "labels": {
+                  "de": "812",
+                  "en": "812"
+               },
+               "descriptions": {
+                  "de": "Mensch (Mexikaner) [Schädel]",
+                  "en": "Mensch (Mexikaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Mexikaner; Mexicani genuini"
+               }
+            }
+         },
+         {
+            "id": "blume:00228",
+            "body": {
+               "labels": {
+                  "de": "848",
+                  "en": "848"
+               },
+               "descriptions": {
+                  "de": "Mensch (Alt-Peruaner) [Schädel]",
+                  "en": "Mensch (Alt-Peruaner) [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "alter Peruaner; veteris Peruani"
+               }
+            }
+         },
+         {
+            "id": "blume:00229",
+            "body": {
+               "labels": {
+                  "de": "853",
+                  "en": "853"
+               },
+               "descriptions": {
+                  "de": "Mensch (Deutsche?, Aufschrift: \"Magd Sib. 1668\") [Schädel]",
+                  "en": "Mensch (Deutsche?, Aufschrift: \"Magd Sib. 1668\") [Schädel]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "Magd. Sib."
+               }
+            }
+         },
+         {
+            "id": "blume:00230",
+            "body": {
+               "labels": {
+                  "de": "o. Nr.",
+                  "en": "o. Nr."
+               },
+               "descriptions": {
+                  "de": "Mensch (Guanchin) [Mumie]",
+                  "en": "Mensch (Guanchin) [Mumie]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "weibliche Mumie von den alten Guanchen; Guanchi Tenerifensis"
+               }
+            }
+         },
+         {
+            "id": "blume:00231",
+            "body": {
+               "labels": {
+                  "de": "o. Nr.",
+                  "en": "o. Nr."
+               },
+               "descriptions": {
+                  "de": "Mensch (Ägypterin) [Mumie]",
+                  "en": "Mensch (Ägypterin) [Mumie]"
+               },
+               "claims": {
+                  "P16": "Q25",
+                  "P28": "ägyptische weibliche Mumie"
+               }
+            }
+         }
+      ]
+   }
+}
