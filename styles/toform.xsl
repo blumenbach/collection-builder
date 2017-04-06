@@ -18,9 +18,21 @@
                 <a2>
                     <xsl:value-of select="a2"/>
                 </a2>
-                <a3>
-                    <xsl:value-of select="a3"/>
-                </a3>
+                <xsl:choose>
+                    <xsl:when test="b12">
+                            <a3>
+                                <xsl:value-of select="b12"/>
+                            </a3>
+                            <b12a>
+                                <xsl:value-of select="a3"/>
+                            </b12a>                                             
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <a3>
+                            <xsl:value-of select="a3"/>
+                        </a3>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <a5>
                     <xsl:value-of select="a5"/>
                 </a5>
@@ -28,7 +40,10 @@
                     <xsl:value-of select="a6"/>
                 </a6>
             </section-1>
-            <section-29>
+            <section-2>
+                <object_class>
+                    <xsl:value-of select="category"/>
+                </object_class>
                 <a1>
                     <xsl:value-of select="a1"/>
                 </a1>
@@ -50,8 +65,8 @@
                 <a26>
                     <xsl:value-of select="a26"/>
                 </a26>
-            </section-29>
-            <section-15>
+            </section-2>
+            <section-3>
                 <a12a>
                     <xsl:value-of select="a12a"/>
                 </a12a>
@@ -67,8 +82,8 @@
                 <a12d>
                     <xsl:value-of select="a12d"/>
                 </a12d>
-            </section-15>
-            <section-21>
+            </section-3>
+            <section-4>
                 <a13a>
                     <xsl:value-of select="a13a"/>
                 </a13a>
@@ -114,8 +129,8 @@
                 <a17>
                     <xsl:value-of select="a17"/>
                 </a17>
-            </section-21>
-            <section-37>
+            </section-4>
+            <section-5>
                 <a18>
                     <xsl:value-of select="a18"/>
                 </a18>
@@ -125,12 +140,12 @@
                 <a20>
                     <xsl:value-of select="a20"/>
                 </a20>
-                <a22>
-                    <xsl:value-of select="a22"/>
-                </a22>
-                <a23>
-                    <xsl:value-of select="a23"/>
-                </a23>
+                <secondary-lit-grid>
+                    <secondary-lit-grid-iteration>
+                        <a22-repeat><xsl:value-of select="a22"/></a22-repeat>
+                        <a23-repeat><xsl:value-of select="a23"/></a23-repeat>
+                    </secondary-lit-grid-iteration>
+                </secondary-lit-grid>
                 <f4>
                     <xsl:value-of select="f4"/>
                 </f4>
@@ -140,8 +155,17 @@
                 <f8>
                     <xsl:value-of select="f8"/>
                 </f8>
-            </section-37>
-            <section-43>
+            </section-5>
+            <section-6>
+                <mineral-authority-grid>
+                    <mineral-authority-grid-iteration>
+                        <a9d>
+                    <xsl:value-of select="a9d"/>
+                        </a9d>
+                    </mineral-authority-grid-iteration>
+                </mineral-authority-grid>
+            </section-6>
+            <section-7>
                 <a24a>
                     <xsl:value-of select="a24a"/>
                 </a24a>
@@ -158,7 +182,7 @@
                     <xsl:value-of select="f2a"/>
                 </f2a>
                 <f2b>
-                    <xsl:value-of select="af2b"/>
+                    <xsl:value-of select="f2b"/>
                 </f2b>
                 <f3a>
                     <xsl:value-of select="f3a"/>
@@ -166,8 +190,8 @@
                 <f3b>
                     <xsl:value-of select="f3b"/>
                 </f3b>
-            </section-43>
-            <section-55>
+            </section-7>
+            <section-8> 
                 <b1>
                     <xsl:value-of select="b1"/>
                 </b1>
@@ -210,8 +234,8 @@
                 <b8>
                     <xsl:value-of select="b8"/>
                 </b8>
-            </section-55>
-            <section-75>
+            </section-8>
+            <section-9>
                 <f1>
                     <xsl:value-of select="f1"/>
                 </f1>
@@ -236,8 +260,8 @@
                 <b11c>
                     <xsl:value-of select="b11c"/>
                 </b11c>
-            </section-75>
-            <section-78>
+            </section-9>
+            <section-10>
                 <c1>
                     <xsl:value-of select="c1"/>
                 </c1>
@@ -269,8 +293,8 @@
                     </c7a>
                 </etikett-grid1>
                 </xsl:for-each>
-            </section-78>
-            <section-90>
+            </section-10>
+            <section-11>
                 <xsl:for-each select="textonobject">
                 <objekttext-grid1>
                     <a11>
@@ -290,8 +314,8 @@
                     </d3b>
                 </objekttext-grid1>
                 </xsl:for-each>
-            </section-90>
-            <section-98>
+            </section-11>
+            <section-12>
                 <xsl:for-each select="number">
                 <number-grid1>
                     <a4>
@@ -317,7 +341,7 @@
                     </e5a>
                 </number-grid1>
                 </xsl:for-each>
-            </section-98>
+            </section-12>
         </form>
     </xsl:template>
 </xsl:stylesheet>

@@ -8,8 +8,10 @@
     <xsl:template match="form">
         <xsl:variable name="directory" select="uuid:randomUUID()"/>
         <xsl:value-of select="$directory" />
-    <xsl:result-document href="{$directory}/data.xml"> 
+    <xsl:result-document href="{$directory}/data.xml">
+        <form>
         <xsl:apply-templates select="*"/>
+        </form>  
     </xsl:result-document>
     </xsl:template>
 </xsl:stylesheet>

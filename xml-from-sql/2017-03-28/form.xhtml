@@ -1,0 +1,1873 @@
+<xh:html xmlns:xxf="http://orbeon.org/oxf/xml/xforms" xmlns:xxi="http://orbeon.org/oxf/xml/xinclude" xmlns:saxon="http://saxon.sf.net/" xmlns:fr="http://orbeon.org/oxf/xml/form-runner" xmlns:xf="http://www.w3.org/2002/xforms" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sql="http://orbeon.org/oxf/xml/sql" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:exf="http://www.exforms.org/exf/1-0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fb="http://orbeon.org/oxf/xml/form-builder" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <xh:head>
+        <xh:title>Main Record Entry</xh:title>
+        <xf:model id="fr-form-model" xxf:expose-xpath-types="true" xxf:label.appearance="full">
+            <xf:instance id="config" xxf:exclude-result-prefixes="#all">
+                <xi:include href="../../config.xml"/>
+            </xf:instance>
+            <!-- Main instance -->
+            <xf:instance id="fr-form-instance" xxf:exclude-result-prefixes="#all" xxf:index="id">
+                <form>
+                    <section-1>
+                        <a0/>
+                        <a8/>
+                        <a2/>
+                        <a3/>
+                        <a5/>
+                        <a6/>
+                    </section-1>
+                    <section-29>
+                        <taxon-grid1>
+                            <taxon-grid1-iteration>
+                                <a1/>
+                            </taxon-grid1-iteration>
+                        </taxon-grid1>
+                        <a7a/>
+                        <a7b/>
+                        <a9a/>
+                        <a9b/>
+                        <a9c/>
+                        <a26/>
+                    </section-29>
+                    <section-15>
+                        <a12a/>
+                        <a12aa/>
+                        <a12b/>
+                        <a12c/>
+                        <a12d/>
+                    </section-15>
+                    <section-21>
+                        <a13a/>
+                        <a13b/>
+                        <a13c/>
+                        <a13d/>
+                        <a14a/>
+                        <a14aa/>
+                        <a14b/>
+                        <a14ba/>
+                        <a15a/>
+                        <a15aa/>
+                        <a15b/>
+                        <a15ba/>
+                        <a16a/>
+                        <a16b/>
+                        <a17/>
+                    </section-21>
+                    <section-37>
+                        <a18/>
+                        <a19/>
+                        <a20/>
+                        <a22/>
+                        <a23/>
+                        <f4/>
+                        <f5/>
+                        <f8/>
+                    </section-37>
+                    <section-43>
+                        <a24a/>
+                        <a24b/>
+                        <a27/>
+                        <a28/>
+                        <f2a/>
+                        <f2b/>
+                        <f3a/>
+                        <f3b/>
+                    </section-43>
+                    <section-55>
+                        <b1/>
+                        <b2/>
+                        <b3b/>
+                        <b3d/>
+                        <b4a/>
+                        <b4aa/>
+                        <b4b/>
+                        <b4c/>
+                        <b4ca/>
+                        <b4d/>
+                        <b5/>
+                        <b6/>
+                        <b7a/>
+                        <b8/>
+                    </section-55>
+                    <section-75>
+                        <f1/>
+                        <b9a/>
+                        <b9b/>
+                        <b10a/>
+                        <b10b/>
+                        <b11a/>
+                        <b11b/>
+                        <b11c/>
+                    </section-75>
+                    <section-78>
+                        <c1/>
+                        <c2/>
+                        <etikett-grid1>
+                            <etikett-grid1-iteration>
+                                <a10/>
+                                <c3/>
+                                <c4/>
+                                <c5/>
+                                <c6a/>
+                                <c6b/>
+                                <c7a/>
+                            </etikett-grid1-iteration>
+                        </etikett-grid1>
+                    </section-78>
+                    <section-90>
+                        <objekttext-grid1>
+                            <objekttext-grid1-iteration>
+                                <a11/>
+                                <d1/>
+                                <d2/>
+                                <d3a/>
+                                <d3b/>
+                            </objekttext-grid1-iteration>
+                        </objekttext-grid1>
+                    </section-90>
+                    <section-98>
+                        <number-grid1>
+                            <number-grid1-iteration>
+                                <a4/>
+                                <e1/>
+                                <e2/>
+                                <e3/>
+                                <e4a/>
+                                <e4b/>
+                                <e5a/>
+                            </number-grid1-iteration>
+                        </number-grid1>
+                    </section-98>
+                </form>
+            </xf:instance>
+
+            <!-- Bindings -->
+            <xf:bind id="fr-form-binds" ref="instance('fr-form-instance')">
+                <xf:bind id="section-1-bind" name="section-1" ref="section-1">
+                    <xf:bind id="a0-bind" name="a0" ref="a0" xxf:whitespace="trim"/>
+                    <xf:bind id="a8-bind" ref="a8" name="a8" xxf:whitespace="trim"/>
+                    <xf:bind id="a2-bind" ref="a2" name="a2" xxf:whitespace="trim"/>
+                    <xf:bind id="a3-bind" ref="a3" name="a3" xxf:whitespace="trim"/>
+                    <xf:bind id="a5-bind" ref="a5" name="a5" xxf:whitespace="trim"/>
+                    <xf:bind id="a6-bind" ref="a6" name="a6" xxf:whitespace="trim"/>
+                </xf:bind>
+                <xf:bind id="section-29-bind" ref="section-29" name="section-29">
+                    <xf:bind id="a7a-bind" ref="a7a" name="a7a" xxf:whitespace="trim"/>
+                    <xf:bind id="a7b-bind" ref="a7b" name="a7b" xxf:whitespace="trim"/>
+                    <xf:bind id="a9a-bind" ref="a9a" name="a9a" xxf:whitespace="trim"/>
+                    <xf:bind id="a9b-bind" ref="a9b" name="a9b" xxf:whitespace="trim"/>
+                    <xf:bind id="a9c-bind" ref="a9c" name="a9c" xxf:whitespace="trim"/>
+                    <xf:bind id="a26-bind" ref="a26" name="a26"/>
+                    <xf:bind id="taxon-grid-bind" ref="taxon-grid" name="taxon-grid">
+                        <xf:bind id="taxon-grid-iteration-bind" ref="taxon-grid-iteration" name="taxon-grid-iteration">
+                            <xf:bind id="a1-bind" ref="a1" name="a1"/>
+                        </xf:bind>
+                    </xf:bind>
+                </xf:bind>
+                <xf:bind id="section-15-bind" ref="section-15" name="section-15">
+                    <xf:bind id="a12a-bind" ref="a12a" name="a12a"/>
+                    <xf:bind id="a12aa-bind" ref="a12aa" name="a12aa"/>
+                    <xf:bind id="a12b-bind" ref="a12b" name="a12b" xxf:whitespace="trim"/>
+                    <xf:bind id="a12d-bind" ref="a12d" name="a12d" xxf:whitespace="trim"/>
+                    <xf:bind id="a12c-bind" ref="a12c" name="a12c" xxf:whitespace="trim"/>
+                </xf:bind>
+                <xf:bind id="section-21-bind" ref="section-21" name="section-21">
+                    <xf:bind id="a13a-bind" ref="a13a" name="a13a" xxf:whitespace="trim"/>
+                    <xf:bind id="a13b-bind" ref="a13b" name="a13b" xxf:whitespace="trim"/>
+                    <xf:bind id="a13c-bind" ref="a13c" name="a13c" xxf:whitespace="trim"/>
+                    <xf:bind id="a13d-bind" ref="a13d" name="a13d" xxf:whitespace="trim"/>
+                    <xf:bind id="a14a-bind" ref="a14a" name="a14a" xxf:whitespace="trim"/>
+                    <xf:bind id="a14aa-bind" ref="a14aa" name="a14aa" xxf:whitespace="trim"/>
+                    <xf:bind id="a14b-bind" ref="a14b" name="a14b" type="xf:date"/>
+                    <xf:bind id="a14ba-bind" ref="a14ba" name="a14ba" type="xf:date"/>
+                    <xf:bind id="a15a-bind" ref="a15a" name="a15a" xxf:whitespace="trim"/>
+                    <xf:bind id="a15aa-bind" ref="a15aa" name="a15aa" xxf:whitespace="trim"/>
+                    <xf:bind id="a15b-bind" ref="a15b" name="a15b" type="xf:date"/>
+                    <xf:bind id="a15ba-bind" ref="a15ba" name="a15ba" type="xf:date"/>
+                    <xf:bind id="a16a-bind" ref="a16a" name="a16a"/>
+                    <xf:bind id="a16b-bind" ref="a16b" name="a16b"/>
+                    <xf:bind id="a17-bind" ref="a17" name="a17" xxf:whitespace="trim"/>
+                </xf:bind>
+                <xf:bind id="section-37-bind" ref="section-37" name="section-37">
+                    <xf:bind id="a18-bind" ref="a18" name="a18" xxf:whitespace="trim"/>
+                    <xf:bind id="a19-bind" ref="a19" name="a19" xxf:whitespace="trim"/>
+                    <xf:bind id="a20-bind" ref="a20" name="a20" xxf:whitespace="trim"/>
+
+                    <xf:bind id="a23-bind" ref="a23" name="a23" xxf:whitespace="trim"/>
+                    <xf:bind id="f4-bind" ref="f4" name="f4" xxf:whitespace="trim"/>
+                    <xf:bind id="f5-bind" ref="f5" name="f5" xxf:whitespace="trim"/>
+                    <xf:bind id="f8-bind" ref="f8" name="f8" xxf:whitespace="trim"/>
+                    <xf:bind id="a22-bind" ref="a22" name="a22"/>
+                </xf:bind>
+                <xf:bind id="section-43-bind" ref="section-43" name="section-43">
+                    <xf:bind id="a24b-bind" ref="a24b" name="a24b" xxf:whitespace="trim"/>
+                    <xf:bind id="a27-bind" ref="a27" name="a27" xxf:whitespace="trim"/>
+                    <xf:bind id="a28-bind" ref="a28" name="a28" xxf:whitespace="trim"/>
+                    <xf:bind id="f2a-bind" ref="f2a" name="f2a" xxf:whitespace="trim"/>
+                    <xf:bind id="f2b-bind" ref="f2b" name="f2b" type="xf:date"/>
+                    <xf:bind id="f3a-bind" ref="f3a" name="f3a" xxf:whitespace="trim"/>
+                    <xf:bind id="f3b-bind" ref="f3b" name="f3b" type="xf:date"/>
+                    <xf:bind id="a24a-bind" ref="a24a" name="a24a"/>
+                </xf:bind>
+                <xf:bind id="section-55-bind" ref="section-55" name="section-55">
+                    <xf:bind id="b1-bind" ref="b1" name="b1" xxf:whitespace="trim"/>
+                    <xf:bind id="b2-bind" ref="b2" name="b2" xxf:whitespace="trim"/>
+                    <xf:bind id="b3b-bind" ref="b3b" name="b3b" xxf:whitespace="trim"/>
+                    <xf:bind id="b3d-bind" ref="b3d" name="b3d" xxf:whitespace="trim"/>
+                    <xf:bind id="b4a-bind" ref="b4a" name="b4a" xxf:whitespace="trim"/>
+                    <xf:bind id="b4aa-bind" ref="b4aa" name="b4aa" xxf:whitespace="trim"/>
+                    <xf:bind id="b4b-bind" ref="b4b" name="b4b" xxf:whitespace="trim"/>
+                    <xf:bind id="b4c-bind" ref="b4c" name="b4c" xxf:whitespace="trim"/>
+                    <xf:bind id="b4ca-bind" ref="b4ca" name="b4ca" xxf:whitespace="trim"/>
+                    <xf:bind id="b4d-bind" ref="b4d" name="b4d" xxf:whitespace="trim"/>
+                    <xf:bind id="b5-bind" ref="b5" name="b5" xxf:whitespace="trim"/>
+                    <xf:bind id="b6-bind" ref="b6" name="b6" xxf:whitespace="trim"/>
+                    <xf:bind id="b7a-bind" ref="b7a" name="b7a" xxf:whitespace="trim"/>
+                    <xf:bind id="b8-bind" ref="b8" name="b8" xxf:whitespace="trim"/>
+                </xf:bind>
+                <xf:bind id="section-75-bind" ref="section-75" name="section-75">
+                    <xf:bind id="b10b-bind" ref="b10b" name="b10b" xxf:whitespace="trim"/>
+                    <xf:bind id="b11a-bind" ref="b11a" name="b11a" type="xf:boolean"/>
+                    <xf:bind id="b11b-bind" ref="b11b" name="b11b" xxf:whitespace="trim"/>
+                    <xf:bind id="b11c-bind" ref="b11c" name="b11c" type="xf:date"/>
+                    <xf:bind id="f1-bind" ref="f1" name="f1"/>
+                    <xf:bind id="b10a-bind" ref="b10a" name="b10a"/>
+                    <xf:bind id="b9a-bind" ref="b9a" name="b9a" xxf:whitespace="trim"/>
+                    <xf:bind id="b9b-bind" ref="b9b" name="b9b" xxf:whitespace="trim"/>
+                </xf:bind>
+                <xf:bind id="section-78-bind" ref="section-78" name="section-78">
+                    <xf:bind id="c1-bind" ref="c1" name="c1" xxf:whitespace="trim"/>
+                    <xf:bind id="c2-bind" ref="c2" name="c2" xxf:whitespace="trim"/>
+                    <xf:bind id="etikett-grid1-bind" ref="etikett-grid1" name="etikett-grid1">
+                        <xf:bind id="etikett-grid1-iteration-bind" ref="etikett-grid1-iteration" name="etikett-grid1-iteration">
+                            <xf:bind id="c4-bind" ref="c4" name="c4" xxf:whitespace="trim"/>
+                            <xf:bind id="a10-bind" ref="a10" name="a10"/>
+                            <xf:bind id="c3-bind" ref="c3" name="c3" xxf:whitespace="trim"/>
+                            <xf:bind id="c5-bind" ref="c5" name="c5" xxf:whitespace="trim"/>
+                            <xf:bind id="c6a-bind" ref="c6a" name="c6a"/>
+                            <xf:bind id="c6b-bind" ref="c6b" name="c6b" xxf:whitespace="trim"/>
+                            <xf:bind id="c7a-bind" ref="c7a" name="c7a" type="xf:boolean"/>
+                        </xf:bind>
+                    </xf:bind>
+                </xf:bind>
+                <xf:bind id="section-90-bind" ref="section-90" name="section-90">
+                    <xf:bind id="objekttext-grid1-bind" ref="objekttext-grid1" name="objekttext-grid1">
+                        <xf:bind id="objekttext-grid1-iteration-bind" ref="objekttext-grid1-iteration" name="objekttext-grid1-iteration">
+                            <xf:bind id="a11-bind" ref="a11" name="a11"/>
+                            <xf:bind id="d1-bind" ref="d1" name="d1" xxf:whitespace="trim"/>
+                            <xf:bind id="d3a-bind" ref="d3a" name="d3a"/>
+                            <xf:bind id="d3b-bind" ref="d3b" name="d3b" xxf:whitespace="trim"/>
+                            <xf:bind id="d2-bind" ref="d2" name="d2" xxf:whitespace="trim"/>
+                        </xf:bind>
+                    </xf:bind>
+                </xf:bind>
+                <xf:bind id="section-98-bind" ref="section-98" name="section-98">
+                    <xf:bind id="number-grid1-bind" ref="number-grid1" name="number-grid1">
+                        <xf:bind id="number-grid1-iteration-bind" ref="number-grid1-iteration" name="number-grid1-iteration">
+                            <xf:bind id="a4-bind" ref="a4" name="a4" xxf:whitespace="trim"/>
+                            <xf:bind id="e1-bind" ref="e1" name="e1" xxf:whitespace="trim"/>
+                            <xf:bind id="e2-bind" ref="e2" name="e2" xxf:whitespace="trim"/>
+                            <xf:bind id="e3-bind" ref="e3" name="e3" xxf:whitespace="trim"/>
+                            <xf:bind id="e4a-bind" ref="e4a" name="e4a"/>
+                            <xf:bind id="e4b-bind" ref="e4b" name="e4b" xxf:whitespace="trim"/>
+                            <xf:bind id="e5a-bind" ref="e5a" name="e5a" type="xf:boolean"/>
+                        </xf:bind>
+                    </xf:bind>
+                </xf:bind>
+            </xf:bind>
+
+            <!-- Metadata -->
+            <xf:instance xxf:readonly="true" id="fr-form-metadata" xxf:exclude-result-prefixes="#all">
+                <metadata>
+                    <application-name>blumenbach-sammlung</application-name>
+                    <form-name>main</form-name>
+                    <title xml:lang="en">Main Record Entry</title>
+                    <description xml:lang="en"/>
+                    <wizard>true</wizard>
+                    <version-comment/>
+
+                    <migration version="4.8.0">[{ "path": "(section-78)/(etikett-grid1)", "iteration-name": "etikett-grid1-iteration" },{ "path": "(section-90)/(objekttext-grid1)", "iteration-name": "objekttext-grid1-iteration" },{ "path":
+                        "(section-98)/(number-grid1)", "iteration-name": "number-grid1-iteration" }]</migration>
+                </metadata>
+            </xf:instance>
+
+            <!-- Attachments -->
+            <xf:instance id="fr-form-attachments" xxf:exclude-result-prefixes="#all">
+                <attachments>
+                    <css mediatype="text/css" filename="" size=""/>
+                    <pdf mediatype="application/pdf" filename="" size=""/>
+                </attachments>
+            </xf:instance>
+
+            <!-- All form resources -->
+            <xf:instance xxf:readonly="true" id="fr-form-resources" xxf:exclude-result-prefixes="#all">
+                <resources>
+                    <resource xml:lang="en">
+                        <f1>
+                            <label>F1, Bemerkungen (allgemein):</label>
+                            <hint/>
+                        </f1>
+                        <b9a>
+                            <label>B9a, Art der historischen Aufbewahrung des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b9a>
+                        <b9b>
+                            <label>B9b, Bemerkungen zur historischen Aufbewahrung:</label>
+                            <hint/>
+                        </b9b>
+                        <b10a>
+                            <label>B10a, Zustand des Objektes/der Objekte:</label>
+                            <hint/>
+                            <item>
+                                <label>sehr gut</label>
+
+                                <value>sehr gut</value>
+                            </item>
+                            <item>
+                                <label>gut</label>
+
+                                <value>gut</value>
+                            </item>
+                            <item>
+                                <label>mäßig</label>
+
+                                <value>mäßig</value>
+                            </item>
+                            <item>
+                                <label>kritisch</label>
+
+                                <value>kritisch</value>
+                            </item>
+                        </b10a>
+                        <a1>
+                            <label>A1, Zuordnung:</label>
+                            <hint/>
+                            <item>
+                                <label>Anatomie, Anthropologie</label>
+
+                                <value>Anatomie, Anthropologie</value>
+                            </item>
+                            <item>
+                                <label>Archaeologie und Ur- und Fruehgeschichte</label>
+
+                                <value>Archaeologie und Ur- und Fruehgeschichte</value>
+                            </item>
+                            <item>
+                                <label>Archivwesen</label>
+
+                                <value>Archivwesen</value>
+                            </item>
+                            <item>
+                                <label>Botanik</label>
+
+                                <value>Botanik</value>
+                            </item>
+                            <item>
+                                <label>Ethnologie</label>
+
+                                <value>Ethnologie</value>
+                            </item>
+                            <item>
+                                <label>Gemmologie</label>
+
+                                <value>Gemmologie</value>
+                            </item>
+                            <item>
+                                <label>Geologie</label>
+
+                                <value>Geologie</value>
+                            </item>
+                            <item>
+                                <label>Medizin</label>
+
+                                <value>Medizin</value>
+                            </item>
+                            <item>
+                                <label>Meteoritenkunde</label>
+
+                                <value>Meteoritenkunde</value>
+                            </item>
+                            <item>
+                                <label>Mineralogie</label>
+
+                                <value>Mineralogie</value>
+                            </item>
+                            <item>
+                                <label>Palaeobotanik</label>
+
+                                <value>Palaeobotanik</value>
+                            </item>
+                            <item>
+                                <label>Palaeozoologie</label>
+
+                                <value>Palaeozoologie</value>
+                            </item>
+                            <item>
+                                <label>Pharmakognosie</label>
+
+                                <value>Pharmakognosie</value>
+                            </item>
+                            <item>
+                                <label>Zoologie</label>
+
+                                <value>Zoologie</value>
+                            </item>
+                            <item>
+                                <label>Sonstiges</label>
+
+                                <value>Sonstiges</value>
+                            </item>
+                        </a1>
+                        <a4>
+                            <label>A4, Original-Nummer(n)</label>
+                            <hint/>
+                        </a4>
+                        <e1>
+                            <label>E1, Art und Position der Original-Nummer(n):</label>
+                            <hint/>
+                        </e1>
+                        <e2>
+                            <label>E2, Größe der Etiketten der Original-Nummer(n):</label>
+                            <hint/>
+                        </e2>
+                        <e3>
+                            <label>E3, Art der Schrift der Original-Nummer(n):</label>
+                            <hint/>
+                        </e3>
+                        <e4a>
+                            <label>E4a, Zustand der Original-Nummer(n):</label>
+                            <hint/>
+                            <item>
+                                <label>sehr gut</label>
+
+                                <value>sehr gut</value>
+                            </item>
+                            <item>
+                                <label>gut</label>
+
+                                <value>gut</value>
+                            </item>
+                            <item>
+                                <label>mäßig</label>
+
+                                <value>mäßig</value>
+                            </item>
+                            <item>
+                                <label>kritisch</label>
+
+                                <value>kritisch</value>
+                            </item>
+                        </e4a>
+                        <e4b>
+                            <label>E4b, Bemerkungen zum Zustand der Original-Nummer(n):</label>
+                            <hint/>
+                        </e4b>
+                        <e5a>
+                            <label>E5a, Konservierung/Restaurierung nötig:</label>
+                            <hint/>
+                        </e5a>
+                        <a11>
+                            <label>A11, Text von Original-Beschriftung direkt auf dem Objekt/den Objekten:</label>
+                            <hint/>
+                        </a11>
+                        <d1>
+                            <label>D1, Position des historischen Textes auf dem Objekt/den Objekten bzw. der historischen Aufbewahrung:</label>
+                            <hint/>
+                        </d1>
+                        <d2>
+                            <label>D2, Schrift des historischen Textes auf dem Objekt/den Objekten bzw. der historischen Aufbewahrung:</label>
+                            <hint/>
+                        </d2>
+                        <d3a>
+                            <label>D3a, Zustand des Original-Textes auf dem Objekt/den Objekten bzw. der historischen Aufbewahrung:</label>
+                            <hint/>
+                            <item>
+                                <label>sehr gut</label>
+
+                                <value>sehr gut</value>
+                            </item>
+                            <item>
+                                <label>gut</label>
+
+                                <value>gut</value>
+                            </item>
+                            <item>
+                                <label>mäßig</label>
+
+                                <value>mäßig</value>
+                            </item>
+                            <item>
+                                <label>kritisch</label>
+
+                                <value>kritisch</value>
+                            </item>
+                        </d3a>
+                        <d3b>
+                            <label>D3b, Bemerkungen zum Zustand des Original-Textes auf dem Objekt/den Objekten bzw. der historischen Aufbewahrung:</label>
+                            <hint/>
+                        </d3b>
+                        <a10>
+                            <label> A10, Text vom Original-Etikett/von den Original-Etiketten:</label>
+                            <hint/>
+                        </a10>
+                        <c3>
+                            <label>C3, Art und Position des Original-Etiketts/der Original-Etiketten:</label>
+                            <hint/>
+                        </c3>
+                        <c4>
+                            <label>C4, Größe des Original-Etiketts/der Original-Etiketten:</label>
+                            <hint/>
+                        </c4>
+                        <c5>
+                            <label>C5, Art der Schrift auf dem Original-Etiketts/den Original-Etiketten:</label>
+                            <hint/>
+                        </c5>
+                        <c6a>
+                            <label>C6a, Zustand des Original-Etiketts/der Original-Etiketten:</label>
+                            <hint/>
+                            <item>
+                                <label>sehr gut</label>
+                                <value>sehr gut</value>
+                            </item>
+                            <item>
+                                <label>gut</label>
+                                <value>gut</value>
+                            </item>
+                            <item>
+                                <label>mäßig</label>
+                                <value>mäßig</value>
+                            </item>
+                            <item>
+                                <label>kritisch</label>
+                                <value>kritisch</value>
+                            </item>
+                        </c6a>
+                        <c6b>
+                            <label>C6b, Bemerkungen zum Zustand des Original-Etiketts/der Original-Etiketten:</label>
+                            <hint/>
+                        </c6b>
+                        <c7a>
+                            <label>C7a, Konservierung/Restaurierung nötig:</label>
+                            <hint/>
+                        </c7a>
+                        <c1>
+                            <label>C1, Anzahl der Original-Etiketten:</label>
+                            <hint/>
+                        </c1>
+                        <c2>
+                            <label>C2, Anzahl der Sekundär-Etiketten:</label>
+                            <hint/>
+                        </c2>
+                        <b10b>
+                            <label>B10b, Bemerkungen zum Zustand des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b10b>
+                        <b11a>
+                            <label>B11a, Konservierung/Restaurierung nötig?:</label>
+                            <hint/>
+                        </b11a>
+                        <b11b>
+                            <label>B11b, letzte Konservierung/Restaurierung:</label>
+                            <hint/>
+                        </b11b>
+                        <b11c>
+                            <label>B11c, Datum der letzten Konservierung/Restaurierung:</label>
+                            <hint/>
+                        </b11c>
+                        <b1>
+                            <label>B1, Art des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b1>
+                        <b2>
+                            <label>B2, Material des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b2>
+                        <b3b>
+                            <label>B3b, Ethnie:</label>
+                            <hint/>
+                        </b3b>
+                        <b3d>
+                            <label>B3d, Bemerkungen zu B1-B3:</label>
+                            <hint/>
+                        </b3d>
+                        <b4a>
+                            <label>B4a, Geschlecht:</label>
+                            <hint/>
+                        </b4a>
+                        <b4aa>
+                            <label>B4aa, Alter in Jahren:</label>
+                            <hint/>
+                        </b4aa>
+                        <b4b>
+                            <label>B4b, Krankheitsstatus/pathologischer Befund:</label>
+                            <hint/>
+                        </b4b>
+                        <b4c>
+                            <label>B4c, Morphologischer Typus:</label>
+                            <hint/>
+                        </b4c>
+                        <b4ca>
+                            <label>B4ca, Morphologische Besonderheiten:</label>
+                            <hint/>
+                        </b4ca>
+                        <b4d>
+                            <label>B4d, Geographische Region:</label>
+                            <hint/>
+                        </b4d>
+                        <b5>
+                            <label>B5, Funktion, Anwendung und Symbolik des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b5>
+                        <b6>
+                            <label>B6, Bemerkungen zur B4a-B5:</label>
+                            <hint/>
+                        </b6>
+                        <b7a>
+                            <label>B7a, Größe des Objektes/der Objekte: </label>
+                            <hint/>
+                        </b7a>
+                        <b8>
+                            <label>B8, Gewicht des Objektes/der Objekte:</label>
+                            <hint/>
+                        </b8>
+                        <a24a>
+                            <label> A24a,Standort [Für externen Zugriff]:</label>
+                            <hint/>
+                            <item>
+                                <label>UNI Gö, Geowissenschaftliches Zentrum, Museum, Sammlungen Geopark</label>
+
+                                <value>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen Geopark</value>
+                            </item>
+                            <item>
+                                <label>UNI Gö, Medizinische Fakultät, Zentrum Anatomie (Blumenbachsche Schädelsammlung)</label>
+
+                                <value>Georg-August-Universität Göttingen, Medizinische Fakultät, Zentrum Anatomie (Blumenbachsche Schädelsammlung)</value>
+                            </item>
+                            <item>
+                                <label>UNI Gö, Institut für Ethnologie</label>
+
+                                <value>Georg-August-Universität Göttingen, Institut für Ethnologie</value>
+                            </item>
+                            <item>
+                                <label>UNI Gö, Institut f. Zoo. u. Anthropol., Hist. Anthropol.</label>
+
+                                <value>Georg-August-Universität Göttingen, Johann-Friedrich-Blumenbach Institut für Zoologie und Anthropologie, Zoologisches Museum</value>
+                            </item>
+                        </a24a>
+                        <a24b>
+                            <label>A24b, Standort [Für internen Zugriff]:</label>
+                            <hint/>
+                        </a24b>
+                        <a27>
+                            <label>A27, Nutzungsbedingungen für die digitalen Abbildungen:</label>
+                            <hint/>
+                        </a27>
+                        <a28>
+                            <label>A28, Rechtehinweise für die digitalen Abbildungen:</label>
+                            <hint/>
+                        </a28>
+                        <f2a>
+                            <label>F2a, Bearbeiter:</label>
+                            <hint/>
+                        </f2a>
+                        <f2b>
+                            <label>F2b, Datum der Erstbearbeitung:</label>
+                            <hint/>
+                        </f2b>
+                        <f3a>
+                            <label>F3a, Letzte Änderung von:</label>
+                            <hint/>
+                        </f3a>
+                        <f3b>
+                            <label>F3b, Letzte Änderung am:</label>
+                            <hint/>
+                        </f3b>
+                        <a18>
+                            <label>A18, Erwähnungs-Original zu:</label>
+                            <hint/>
+                        </a18>
+                        <a19>
+                            <label>A19, Beschreibungs-Original zu:</label>
+                            <hint/>
+                        </a19>
+                        <a20>
+                            <label>A20, Abbildungs-Original zu:</label>
+                            <hint/>
+                        </a20>
+                        <a22>
+                            <label>A22, Sekundär-Literatur:</label>
+                            <hint/>
+                        </a22>
+                        <a23>
+                            <label>A23, Bemerkungen zu Erwähnungs-, Beschreibungs- und Abbildungs-Originalen, Typus und Sekundär-Literatur:</label>
+                            <hint/>
+                        </a23>
+                        <f4>
+                            <label>F4, Erwähnung im Briefwechsel:</label>
+                            <hint/>
+                        </f4>
+                        <f5>
+                            <label>F5, Erwähnung in handschriftlichen Katalogen Blumenbachs:</label>
+                            <hint/>
+                        </f5>
+                        <f8>
+                            <label>F8, Verlinkung zu digitalisierten Briefen:</label>
+                            <hint/>
+                        </f8>
+                        <a13a>
+                            <label>A13a, Fundort:</label>
+                            <hint/>
+                        </a13a>
+                        <a13b>
+                            <label>A13b, Fundort-Koordinaten:</label>
+                            <hint/>
+                        </a13b>
+                        <a13c>
+                            <label>A13c, Fundort Orts-Getty-ID:</label>
+                            <hint/>
+                        </a13c>
+                        <a13d>
+                            <label>A13d, Fundort übergeordnete orts-Getty-ID:</label>
+                            <hint/>
+                        </a13d>
+                        <a14a>
+                            <label>A14a, Sammler (leg.):</label>
+                            <hint/>
+                        </a14a>
+                        <a14aa>
+                            <label>A14aa, CERL-Id/interne Id Sammler (leg.):</label>
+                            <hint/>
+                        </a14aa>
+                        <a14b>
+                            <label>A14b, Datum (leg.) von:</label>
+                            <hint/>
+                        </a14b>
+                        <a14ba>
+                            <label>A14ba, Datum (leg.) bis:</label>
+                            <hint/>
+                        </a14ba>
+                        <a15a>
+                            <label>A15a, Erhalten von:</label>
+                            <hint/>
+                        </a15a>
+                        <a15aa>
+                            <label>A15aa, CERL-Id/interne Id Donator/Geber (don./ded.):</label>
+                            <hint/>
+                        </a15aa>
+                        <a15b>
+                            <label>A15b, Datum (Sammlungseingang) von:</label>
+                            <hint/>
+                        </a15b>
+                        <a15ba>
+                            <label>A15ba, Datum (Sammlungseingang) bis:</label>
+                            <hint/>
+                        </a15ba>
+                        <a16a>
+                            <label>A16a, Erwerbsform:</label>
+                            <hint/>
+                            <item>
+                                <label>Geschenk</label>
+                                <value>Geschenk</value>
+                            </item>
+                            <item>
+                                <label>vermutlich Geschenk</label>
+                                <value>vermutlich Geschenk</value>
+                            </item>
+                            <item>
+                                <label>Ankauf</label>
+                                <value>Ankauf</value>
+                            </item>
+                            <item>
+                                <label>vermutlich Ankauf</label>
+                                <value>vevermutlich Ankauf</value>
+                            </item>
+                            <item>
+                                <label>unbekannt</label>
+                                <value>unbekannt</value>
+                            </item>
+                        </a16a>
+                        <a16b>
+                            <label>A16b, Im Besitz der Universität seit:</label>
+                            <hint/>
+                            <item>
+                                <label>Sammlungseingang (aus Bestand des Academischen Museums)</label>
+                                <value>Sammlungseingang (aus Bestand des Academischen Museums)</value>
+                            </item>
+                            <item>
+                                <label>1840 (aus Privatsammlung Blumenbachs)</label>
+                                <value>1840 (aus Privatsammlung Blumenbachs)</value>
+                            </item>
+                            <item>
+                                <label>Unbekannt (aus Bestand des Academischen Museums oder Privatsammlung Blumenbachs)</label>
+                                <value>Unbekannt (aus Bestand des Academischen Museums oder Privatsammlung Blumenbachs)</value>
+                            </item>
+                        </a16b>
+                        <a17>
+                            <label>A17, Bemerkungen zu Sammler, Donator und Erwerbsform:</label>
+                            <hint/>
+                        </a17>
+                        <a12a>
+                            <label>A12a, Alter/Datierung von:</label>
+                            <hint/>
+                            <item>
+                                <label>First choice</label>
+                                <value>1</value>
+                            </item>
+                            <item>
+                                <label>Second choice</label>
+                                <value>2</value>
+                            </item>
+                            <item>
+                                <label>Third choice</label>
+                                <value>3</value>
+                            </item>
+                        </a12a>
+                        <a12aa>
+                            <label>A12aa, Alter/Datierung bis:</label>
+                            <hint/>
+                            <item>
+                                <label>First choice</label>
+                                <value>1</value>
+                            </item>
+                            <item>
+                                <label>Second choice</label>
+                                <value>2</value>
+                            </item>
+                            <item>
+                                <label>Third choice</label>
+                                <value>3</value>
+                            </item>
+                        </a12aa>
+                        <a12b>
+                            <label>A12b, Bemerkungen zum Alter/zur Datierung:</label>
+                            <hint/>
+                        </a12b>
+                        <a12c>
+                            <label>A12c, Datierungsmethode:</label>
+                            <hint/>
+                        </a12c>
+                        <a12d>
+                            <label>A12d, Bemerkungen zur Datierungsmethode:</label>
+                            <hint/>
+                        </a12d>
+                        <a7a>
+                            <label>A7a, Großgruppe (in Fachtermini):</label>
+                            <hint/>
+                        </a7a>
+                        <a7b>
+                            <label>A7b, Großgruppe (allgemein):</label>
+                            <hint/>
+                        </a7b>
+                        <a9a>
+                            <label>A9a, Neue Bezeichnung (in Fachtermini):</label>
+                            <hint/>
+                        </a9a>
+                        <a9b>
+                            <label> A9b, Neue Bezeichnung (allgemein):</label>
+                            <hint/>
+                        </a9b>
+                        <a9c>
+                            <label>A9c, Synonyma: </label>
+                            <hint/>
+                        </a9c>
+                        <a26>
+                            <label>A26, Objekt-Typ:</label>
+                            <hint/>
+                            <item>
+                                <label>Naturalia</label>
+                                <value>Naturalia</value>
+                            </item>
+                            <item>
+                                <label>Artificialia/Naturalia</label>
+                                <value>Artificialia/Naturalia</value>
+                            </item>
+                        </a26>
+                        <section-1>
+                            <label>Identifizierung</label>
+                        </section-1>
+                        <section-29>
+                            <label>Taxons</label>
+                            <help/>
+                        </section-29>
+                        <section-15>
+                            <label>Alter</label>
+                            <help/>
+                        </section-15>
+                        <section-21>
+                            <label>Erwerb</label>
+                            <help/>
+                        </section-21>
+                        <section-37>
+                            <label>Referenz</label>
+                            <help/>
+                        </section-37>
+                        <section-43>
+                            <label>Institution</label>
+                            <help/>
+                        </section-43>
+                        <section-55>
+                            <label>Type / Dimension</label>
+                            <help/>
+                        </section-55>
+                        <section-75>
+                            <label>Kuration: Bemerkungen</label>
+                            <help/>
+                        </section-75>
+                        <section-78>
+                            <label>Etikett</label>
+                            <help/>
+                        </section-78>
+                        <section-90>
+                            <label>Text auf dem Objekt</label>
+                            <help/>
+                        </section-90>
+                        <section-98>
+                            <label>AIG: Nummern</label>
+                            <help/>
+                        </section-98>
+                        <a0>
+                            <label>A0, Zusammenfassende Bezeichnung:</label>
+                            <hint/>
+                        </a0>
+                        <a8>
+                            <label>A8, Original-Bezeichnung(en):</label>
+                            <hint/>
+                        </a8>
+                        <a2>
+                            <label> A2, Sammlungs-Akronym:</label>
+                            <hint/>
+                        </a2>
+                        <a3>
+                            <label>A3, Heutige Inventar-Nummer:</label>
+                            <hint/>
+                        </a3>
+                        <a5>
+                            <label>A5, Sekundär-Nummer(n):</label>
+                            <hint/>
+                        </a5>
+                        <a6>
+                            <label>A6, Stückzahl/Serie:</label>
+                            <hint/>
+                        </a6>
+                    </resource>
+                </resources>
+            </xf:instance>
+
+            <!-- Utility instances for services -->
+            <xf:instance id="fr-service-request-instance" xxf:exclude-result-prefixes="#all">
+                <request/>
+            </xf:instance>
+
+            <xf:instance id="fr-service-response-instance" xxf:exclude-result-prefixes="#all">
+                <response/>
+            </xf:instance>
+            <xf:instance xxf:readonly="true" xxf:exclude-result-prefixes="#all" id="taxon-grid-template">
+                <taxon-grid-iteration>
+                    <a1/>
+                </taxon-grid-iteration>
+            </xf:instance>  
+            <xf:instance xxf:readonly="true" xxf:exclude-result-prefixes="#all" id="etikett-grid1-template">
+                <etikett-grid1-iteration>
+                    <c4/>
+                    <a10/>
+                    <c3/>
+                    <c5/>
+                    <c6a/>
+                    <c6b/>
+                    <c7a/>
+                </etikett-grid1-iteration>
+            </xf:instance>
+            <xf:instance xxf:readonly="true" xxf:exclude-result-prefixes="#all" id="objekttext-grid1-template">
+                <objekttext-grid1-iteration>
+                    <a11/>
+                    <d1/>
+                    <d3a/>
+                    <d3b/>
+                    <d2/>
+                </objekttext-grid1-iteration>
+            </xf:instance>
+            <xf:instance xxf:readonly="true" xxf:exclude-result-prefixes="#all" id="number-grid1-template">
+                <number-grid1-iteration>
+                    <a4/>
+                    <e1/>
+                    <e2/>
+                    <e3/>
+                    <e4a/>
+                    <e4b/>
+                    <e5a/>
+                </number-grid1-iteration>
+            </xf:instance>
+
+        </xf:model>
+    </xh:head>
+    <xh:body>
+        <fr:view>
+            <fr:body xmlns:xbl="http://www.w3.org/ns/xbl" xmlns:p="http://www.orbeon.com/oxf/pipeline" xmlns:oxf="http://www.orbeon.com/oxf/processors">
+                <fr:section id="section-1-control" bind="section-1-bind">
+                    <xf:label ref="$form-resources/section-1/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a0-control" bind="a0-bind" class="fr-summary fr-search">
+                                    <xf:label ref="$form-resources/a0/label"/>
+                                    <xf:hint ref="$form-resources/a0/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a8-control" bind="a8-bind">
+                                    <xf:label ref="$form-resources/a8/label"/>
+                                    <xf:hint ref="$form-resources/a8/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a2-control" bind="a2-bind" class="fr-summary fr-search">
+                                    <xf:label ref="$form-resources/a2/label"/>
+                                    <xf:hint ref="$form-resources/a2/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a3-control" bind="a3-bind" class="fr-summary fr-search">
+                                    <xf:label ref="$form-resources/a3/label"/>
+                                    <xf:hint ref="$form-resources/a3/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a5-control" bind="a5-bind">
+                                    <xf:label ref="$form-resources/a5/label"/>
+                                    <xf:hint ref="$form-resources/a5/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a6-control" bind="a6-bind">
+                                    <xf:label ref="$form-resources/a6/label"/>
+                                    <xf:hint ref="$form-resources/a6/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-29-control" bind="section-29-bind">
+                    <xf:label ref="$form-resources/section-29/label"/>
+                    <fr:grid id="taxon-grid-control" bind="taxon-grid-bind" repeat="content" min="1" template="instance('taxon-grid-template')" apply-defaults="true" fb:initial-iterations="first">
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="a1-control" bind="a1-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/a1/label"/>
+                                    <xf:hint ref="$form-resources/a1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/a1/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a7a-control" bind="a7a-bind">
+                                    <xf:label ref="$form-resources/a7a/label"/>
+                                    <xf:hint ref="$form-resources/a7a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a7b-control" bind="a7b-bind">
+                                    <xf:label ref="$form-resources/a7b/label"/>
+                                    <xf:hint ref="$form-resources/a7b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a9a-control" bind="a9a-bind">
+                                    <xf:label ref="$form-resources/a9a/label"/>
+                                    <xf:hint ref="$form-resources/a9a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a9b-control" bind="a9b-bind">
+                                    <xf:label ref="$form-resources/a9b/label"/>
+                                    <xf:hint ref="$form-resources/a9b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a9c-control" bind="a9c-bind">
+                                    <xf:label ref="$form-resources/a9c/label"/>
+                                    <xf:hint ref="$form-resources/a9c/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:select1 id="a26-control" bind="a26-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/a26/label"/>
+                                    <xf:hint ref="$form-resources/a26/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/a26/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-15-control" bind="section-15-bind">
+                    <xf:label ref="$form-resources/section-15/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <fr:databound-select1 xmlns:xxbl="http://orbeon.org/oxf/xml/xbl" id="a12a-control" appearance="minimal" resource="{instance('config')/exist/url}/sammlung/chronostratography.xml" bind="a12a-bind">
+                                    <xf:label ref="$form-resources/a12a/label"/>
+                                    <xf:hint ref="$form-resources/a12a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="tei:classCode">
+                                        <xf:label>
+                                            <xf:output value="concat(tei:idno,' ',tei:rs)"/>
+                                        </xf:label>
+                                        <xf:value ref="tei:idno/@n"/>
+                                    </xf:itemset>
+                                </fr:databound-select1>
+                            </xh:td>
+                            <xh:td>
+                                <fr:databound-select1 xmlns:xxbl="http://orbeon.org/oxf/xml/xbl" id="a12aa-control" appearance="minimal" resource="{instance('config')/exist/url}/sammlung/chronostratography.xml" bind="a12aa-bind">
+                                    <xf:label ref="$form-resources/a12aa/label"/>
+                                    <xf:hint ref="$form-resources/a12aa/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="tei:classCode">
+                                        <xf:label>
+                                            <xf:output value="concat(tei:idno,' ',tei:rs)"/>
+                                        </xf:label>
+                                        <xf:value ref="tei:idno/@n"/>
+                                    </xf:itemset>
+                                </fr:databound-select1>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a12b-control" bind="a12b-bind">
+                                    <xf:label ref="$form-resources/a12b/label"/>
+                                    <xf:hint ref="$form-resources/a12b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a12c-control" bind="a12c-bind">
+                                    <xf:label ref="$form-resources/a12c/label"/>
+                                    <xf:hint ref="$form-resources/a12c/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a12d-control" bind="a12d-bind">
+                                    <xf:label ref="$form-resources/a12d/label"/>
+                                    <xf:hint ref="$form-resources/a12d/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-21-control" bind="section-21-bind">
+                    <xf:label ref="$form-resources/section-21/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a13a-control" bind="a13a-bind">
+                                    <xf:label ref="$form-resources/a13a/label"/>
+                                    <xf:hint ref="$form-resources/a13a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a13b-control" bind="a13b-bind">
+                                    <xf:label ref="$form-resources/a13b/label"/>
+                                    <xf:hint ref="$form-resources/a13b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a13c-control" bind="a13c-bind">
+                                    <xf:label ref="$form-resources/a13c/label"/>
+                                    <xf:hint ref="$form-resources/a13c/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a13d-control" bind="a13d-bind">
+                                    <xf:label ref="$form-resources/a13d/label"/>
+                                    <xf:hint ref="$form-resources/a13d/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a14a-control" bind="a14a-bind">
+                                    <xf:label ref="$form-resources/a14a/label"/>
+                                    <xf:hint ref="$form-resources/a14a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a14aa-control" bind="a14aa-bind">
+                                    <xf:label ref="$form-resources/a14aa/label"/>
+                                    <xf:hint ref="$form-resources/a14aa/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a14b-control" bind="a14b-bind">
+                                    <xf:label ref="$form-resources/a14b/label"/>
+                                    <xf:hint ref="$form-resources/a14b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a14ba-control" bind="a14ba-bind">
+                                    <xf:label ref="$form-resources/a14ba/label"/>
+                                    <xf:hint ref="$form-resources/a14ba/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a15a-control" bind="a15a-bind">
+                                    <xf:label ref="$form-resources/a15a/label"/>
+                                    <xf:hint ref="$form-resources/a15a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a15aa-control" bind="a15aa-bind">
+                                    <xf:label ref="$form-resources/a15aa/label"/>
+                                    <xf:hint ref="$form-resources/a15aa/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a15b-control" bind="a15b-bind">
+                                    <xf:label ref="$form-resources/a15b/label"/>
+                                    <xf:hint ref="$form-resources/a15b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a15ba-control" bind="a15ba-bind">
+                                    <xf:label ref="$form-resources/a15ba/label"/>
+                                    <xf:hint ref="$form-resources/a15ba/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="a16a-control" bind="a16a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/a16a/label"/>
+                                    <xf:hint ref="$form-resources/a16a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/a16a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:select1 id="a16b-control" bind="a16b-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/a16b/label"/>
+                                    <xf:hint ref="$form-resources/a16b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/a16b/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a17-control" bind="a17-bind">
+                                    <xf:label ref="$form-resources/a17/label"/>
+                                    <xf:hint ref="$form-resources/a17/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-37-control" bind="section-37-bind">
+                    <xf:label ref="$form-resources/section-37/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a18-control" bind="a18-bind">
+                                    <xf:label ref="$form-resources/a18/label"/>
+                                    <xf:hint ref="$form-resources/a18/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a19-control" bind="a19-bind">
+                                    <xf:label ref="$form-resources/a19/label"/>
+                                    <xf:hint ref="$form-resources/a19/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a20-control" bind="a20-bind">
+                                    <xf:label ref="$form-resources/a20/label"/>
+                                    <xf:hint ref="$form-resources/a20/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:textarea id="a22-control" bind="a22-bind">
+                                    <xf:label ref="$form-resources/a22/label"/>
+                                    <xf:hint ref="$form-resources/a22/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:textarea>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a23-control" bind="a23-bind">
+                                    <xf:label ref="$form-resources/a23/label"/>
+                                    <xf:hint ref="$form-resources/a23/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="f4-control" bind="f4-bind">
+                                    <xf:label ref="$form-resources/f4/label"/>
+                                    <xf:hint ref="$form-resources/f4/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="f5-control" bind="f5-bind">
+                                    <xf:label ref="$form-resources/f5/label"/>
+                                    <xf:hint ref="$form-resources/f5/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="f8-control" bind="f8-bind">
+                                    <xf:label ref="$form-resources/f8/label"/>
+                                    <xf:hint ref="$form-resources/f8/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-43-control" bind="section-43-bind">
+                    <xf:label ref="$form-resources/section-43/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="a24a-control" bind="a24a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/a24a/label"/>
+                                    <xf:hint ref="$form-resources/a24a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/a24a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a24b-control" bind="a24b-bind">
+                                    <xf:label ref="$form-resources/a24b/label"/>
+                                    <xf:hint ref="$form-resources/a24b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a27-control" bind="a27-bind">
+                                    <xf:label ref="$form-resources/a27/label"/>
+                                    <xf:hint ref="$form-resources/a27/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="a28-control" bind="a28-bind">
+                                    <xf:label ref="$form-resources/a28/label"/>
+                                    <xf:hint ref="$form-resources/a28/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="f2a-control" bind="f2a-bind">
+                                    <xf:label ref="$form-resources/f2a/label"/>
+                                    <xf:hint ref="$form-resources/f2a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="f2b-control" bind="f2b-bind">
+                                    <xf:label ref="$form-resources/f2b/label"/>
+                                    <xf:hint ref="$form-resources/f2b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="f3a-control" bind="f3a-bind">
+                                    <xf:label ref="$form-resources/f3a/label"/>
+                                    <xf:hint ref="$form-resources/f3a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="f3b-control" bind="f3b-bind">
+                                    <xf:label ref="$form-resources/f3b/label"/>
+                                    <xf:hint ref="$form-resources/f3b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-55-control" bind="section-55-bind">
+                    <xf:label ref="$form-resources/section-55/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b1-control" bind="b1-bind">
+                                    <xf:label ref="$form-resources/b1/label"/>
+                                    <xf:hint ref="$form-resources/b1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b2-control" bind="b2-bind">
+                                    <xf:label ref="$form-resources/b2/label"/>
+                                    <xf:hint ref="$form-resources/b2/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b3b-control" bind="b3b-bind">
+                                    <xf:label ref="$form-resources/b3b/label"/>
+                                    <xf:hint ref="$form-resources/b3b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b3d-control" bind="b3d-bind">
+                                    <xf:label ref="$form-resources/b3d/label"/>
+                                    <xf:hint ref="$form-resources/b3d/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b4a-control" bind="b4a-bind">
+                                    <xf:label ref="$form-resources/b4a/label"/>
+                                    <xf:hint ref="$form-resources/b4a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b4aa-control" bind="b4aa-bind">
+                                    <xf:label ref="$form-resources/b4aa/label"/>
+                                    <xf:hint ref="$form-resources/b4aa/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b4b-control" bind="b4b-bind">
+                                    <xf:label ref="$form-resources/b4b/label"/>
+                                    <xf:hint ref="$form-resources/b4b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b4c-control" bind="b4c-bind">
+                                    <xf:label ref="$form-resources/b4c/label"/>
+                                    <xf:hint ref="$form-resources/b4c/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b4ca-control" bind="b4ca-bind">
+                                    <xf:label ref="$form-resources/b4ca/label"/>
+                                    <xf:hint ref="$form-resources/b4ca/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b4d-control" bind="b4d-bind">
+                                    <xf:label ref="$form-resources/b4d/label"/>
+                                    <xf:hint ref="$form-resources/b4d/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b5-control" bind="b5-bind">
+                                    <xf:label ref="$form-resources/b5/label"/>
+                                    <xf:hint ref="$form-resources/b5/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b6-control" bind="b6-bind">
+                                    <xf:label ref="$form-resources/b6/label"/>
+                                    <xf:hint ref="$form-resources/b6/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b7a-control" bind="b7a-bind">
+                                    <xf:label ref="$form-resources/b7a/label"/>
+                                    <xf:hint ref="$form-resources/b7a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b8-control" bind="b8-bind">
+                                    <xf:label ref="$form-resources/b8/label"/>
+                                    <xf:hint ref="$form-resources/b8/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-75-control" bind="section-75-bind">
+                    <xf:label ref="$form-resources/section-75/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:textarea id="f1-control" bind="f1-bind">
+                                    <xf:label ref="$form-resources/f1/label"/>
+                                    <xf:hint ref="$form-resources/f1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:textarea>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b9a-control" bind="b9a-bind">
+                                    <xf:label ref="$form-resources/b9a/label"/>
+                                    <xf:hint ref="$form-resources/b9a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b9b-control" bind="b9b-bind">
+                                    <xf:label ref="$form-resources/b9b/label"/>
+                                    <xf:hint ref="$form-resources/b9b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="b10a-control" bind="b10a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/b10a/label"/>
+                                    <xf:hint ref="$form-resources/b10a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/b10a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b10b-control" bind="b10b-bind">
+                                    <xf:label ref="$form-resources/b10b/label"/>
+                                    <xf:hint ref="$form-resources/b10b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <fr:yesno-input xmlns="http://orbeon.org/oxf/xml/form-builder" xmlns:xxbl="http://orbeon.org/oxf/xml/xbl" id="b11a-control" bind="b11a-bind">
+                                    <xf:label ref="$form-resources/b11a/label"/>
+                                    <xf:hint ref="$form-resources/b11a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </fr:yesno-input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="b11b-control" bind="b11b-bind">
+                                    <xf:label ref="$form-resources/b11b/label"/>
+                                    <xf:hint ref="$form-resources/b11b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="b11c-control" bind="b11c-bind">
+                                    <xf:label ref="$form-resources/b11c/label"/>
+                                    <xf:hint ref="$form-resources/b11c/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-78-control" bind="section-78-bind">
+                    <xf:label ref="$form-resources/section-78/label"/>
+                    <fr:grid>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="c1-control" bind="c1-bind">
+                                    <xf:label ref="$form-resources/c1/label"/>
+                                    <xf:hint ref="$form-resources/c1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="c2-control" bind="c2-bind">
+                                    <xf:label ref="$form-resources/c2/label"/>
+                                    <xf:hint ref="$form-resources/c2/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                    <fr:grid id="etikett-grid1-control" bind="etikett-grid1-bind" repeat="content" min="1" template="instance('etikett-grid1-template')" apply-defaults="true" fb:initial-iterations="first">
+                        <xh:tr>
+                            <xh:td>
+                                <xf:textarea id="a10-control" bind="a10-bind">
+                                    <xf:label ref="$form-resources/a10/label"/>
+                                    <xf:hint ref="$form-resources/a10/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:textarea>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="c3-control" bind="c3-bind">
+                                    <xf:label ref="$form-resources/c3/label"/>
+                                    <xf:hint ref="$form-resources/c3/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="c4-control" bind="c4-bind">
+                                    <xf:label ref="$form-resources/c4/label"/>
+                                    <xf:hint ref="$form-resources/c4/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="c5-control" bind="c5-bind">
+                                    <xf:label ref="$form-resources/c5/label"/>
+                                    <xf:hint ref="$form-resources/c5/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="c6a-control" bind="c6a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/c6a/label"/>
+                                    <xf:hint ref="$form-resources/c6a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/c6a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="c6b-control" bind="c6b-bind">
+                                    <xf:label ref="$form-resources/c6b/label"/>
+                                    <xf:hint ref="$form-resources/c6b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <fr:yesno-input xmlns="http://orbeon.org/oxf/xml/form-builder" xmlns:xxbl="http://orbeon.org/oxf/xml/xbl" id="c7a-control" bind="c7a-bind">
+                                    <xf:label ref="$form-resources/c7a/label"/>
+                                    <xf:hint ref="$form-resources/c7a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </fr:yesno-input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-90-control" bind="section-90-bind">
+                    <xf:label ref="$form-resources/section-90/label"/>
+                    <fr:grid id="objekttext-grid1-control" bind="objekttext-grid1-bind" repeat="content" min="1" template="instance('objekttext-grid1-template')" apply-defaults="true" fb:initial-iterations="first">
+                        <xh:tr>
+                            <xh:td>
+                                <xf:textarea id="a11-control" bind="a11-bind">
+                                    <xf:label ref="$form-resources/a11/label"/>
+                                    <xf:hint ref="$form-resources/a11/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:textarea>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="d1-control" bind="d1-bind">
+                                    <xf:label ref="$form-resources/d1/label"/>
+                                    <xf:hint ref="$form-resources/d1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="d2-control" bind="d2-bind">
+                                    <xf:label ref="$form-resources/d2/label"/>
+                                    <xf:hint ref="$form-resources/d2/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="d3a-control" bind="d3a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/d3a/label"/>
+                                    <xf:hint ref="$form-resources/d3a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/d3a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="d3b-control" bind="d3b-bind">
+                                    <xf:label ref="$form-resources/d3b/label"/>
+                                    <xf:hint ref="$form-resources/d3b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+                <fr:section id="section-98-control" bind="section-98-bind">
+                    <xf:label ref="$form-resources/section-98/label"/>
+                    <fr:grid id="number-grid1-control" bind="number-grid1-bind" repeat="content" min="1" template="instance('number-grid1-template')" apply-defaults="true" fb:initial-iterations="first">
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="a4-control" bind="a4-bind">
+                                    <xf:label ref="$form-resources/a4/label"/>
+                                    <xf:hint ref="$form-resources/a4/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="e1-control" bind="e1-bind">
+                                    <xf:label ref="$form-resources/e1/label"/>
+                                    <xf:hint ref="$form-resources/e1/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:input id="e2-control" bind="e2-bind">
+                                    <xf:label ref="$form-resources/e2/label"/>
+                                    <xf:hint ref="$form-resources/e2/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="e3-control" bind="e3-bind">
+                                    <xf:label ref="$form-resources/e3/label"/>
+                                    <xf:hint ref="$form-resources/e3/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <xf:select1 id="e4a-control" bind="e4a-bind" appearance="dropdown">
+                                    <xf:label ref="$form-resources/e4a/label"/>
+                                    <xf:hint ref="$form-resources/e4a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                    <xf:itemset ref="$form-resources/e4a/item">
+                                        <xf:label ref="label"/>
+                                        <xf:value ref="value"/>
+                                    </xf:itemset>
+                                </xf:select1>
+                            </xh:td>
+                            <xh:td>
+                                <xf:input id="e4b-control" bind="e4b-bind">
+                                    <xf:label ref="$form-resources/e4b/label"/>
+                                    <xf:hint ref="$form-resources/e4b/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </xf:input>
+                            </xh:td>
+                        </xh:tr>
+                        <xh:tr>
+                            <xh:td>
+                                <fr:yesno-input xmlns="http://orbeon.org/oxf/xml/form-builder" xmlns:xxbl="http://orbeon.org/oxf/xml/xbl" id="e5a-control" bind="e5a-bind">
+                                    <xf:label ref="$form-resources/e5a/label"/>
+                                    <xf:hint ref="$form-resources/e5a/hint"/>
+                                    <xf:alert ref="$fr-resources/detail/labels/alert"/>
+                                </fr:yesno-input>
+                            </xh:td>
+                            <xh:td/>
+                        </xh:tr>
+                    </fr:grid>
+                </fr:section>
+            </fr:body>
+        </fr:view>
+    </xh:body>
+</xh:html>

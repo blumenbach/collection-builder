@@ -1,0 +1,14 @@
+<chronostratography xmlns="http://www.tei-c.org/ns/1.0">
+    <classCode xml:id="cat_0000">
+        <idno n="rezent">rezent</idno>
+        <rs></rs>
+    </classCode>
+    <classCode xml:id="cat_0002">
+        <idno n="Känozoikum">Känozoikum</idno>
+        <rs>(65.5 - 0)</rs>
+    </classCode>
+    <classCode xml:id="cat_0003">
+        <idno n="Quartär">Quartär</idno>
+        <rs>(2.588 - 0)</rs>
+    </classCode>
+</chronostratography>
