@@ -41,9 +41,9 @@
                 </a6>
             </section-1>
             <section-2>
-                <object_class>
-                    <xsl:value-of select="category"/>
-                </object_class>
+                <z1>
+                    <xsl:value-of select="class"/>
+                </z1>
                 <a1>
                     <xsl:value-of select="a1"/>
                 </a1>
@@ -129,21 +129,42 @@
                 <a17>
                     <xsl:value-of select="a17"/>
                 </a17>
+                <a12e>
+                    <xsl:value-of select="a12e"/>
+                </a12e>
+                <a12f>
+                    <xsl:value-of select="a12f"/>
+                </a12f>
+                <a12g>
+                    <xsl:value-of select="a12g"/>
+                </a12g>
+                <a12h>
+                    <xsl:value-of select="a12h"/>
+                </a12h>
+                <a12i>
+                    <xsl:value-of select="a12i"/>
+                </a12i>
             </section-4>
             <section-5>
-                <a18>
-                    <xsl:value-of select="a18"/>
-                </a18>
-                <a19>
-                    <xsl:value-of select="a19"/>
-                </a19>
-                <a20>
-                    <xsl:value-of select="a20"/>
-                </a20>
+                <original-lit-grid>
+                    <original-lit-grid-iteration>
+                        <a18><xsl:value-of select="a18"/></a18>
+                    </original-lit-grid-iteration>
+                </original-lit-grid>
+                <original-desc-grid>
+                    <original-desc-grid-iteration>
+                        <a19><xsl:value-of select="a19"/></a19>
+                    </original-desc-grid-iteration>
+                </original-desc-grid>
+                <original-image-grid>
+                    <original-image-grid-iteration>
+                        <a20><xsl:value-of select="a20"/></a20>
+                    </original-image-grid-iteration>
+                </original-image-grid>
                 <secondary-lit-grid>
                     <secondary-lit-grid-iteration>
-                        <a22-repeat><xsl:value-of select="a22"/></a22-repeat>
-                        <a23-repeat><xsl:value-of select="a23"/></a23-repeat>
+                        <a22><xsl:value-of select="a22"/></a22>
+                        <a23><xsl:value-of select="a23"/></a23>
                     </secondary-lit-grid-iteration>
                 </secondary-lit-grid>
                 <f4>
@@ -234,6 +255,9 @@
                 <b8>
                     <xsl:value-of select="b8"/>
                 </b8>
+                <a21>
+                    <xsl:value-of select="a21"/>
+                </a21>
             </section-8>
             <section-9>
                 <f1>
