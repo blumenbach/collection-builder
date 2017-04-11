@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 php ./validate-CERL.php 	cnp00103587
 php ./validate-CERL.php 	cnp00115667
 php ./validate-CERL.php 	cnp00123332
