@@ -25,12 +25,34 @@ foreach ($contents->xpath('//value') as $value) {
             }
             $oXML->registerXPathNamespace($strPrefix, $strNamespace);
         }
+        $lang = null;
         if (isset($oXML->xpath('//skos:prefLabel[@xml:lang="de"]')[0])) {
             $label = $oXML->xpath('//skos:prefLabel[@xml:lang="de"]')[0];
+            $lang= "de";
+        } elseif (isset($oXML->xpath('//gvp:term[@xml:lang="de"]')[0])) {
+            $label = $oXML->xpath('//gvp:term[@xml:lang="de"]')[0];
+            $lang= "de";
+        } elseif (isset($oXML->xpath('//rdfs:label[@xml:lang="de"]')[0])) {
+            $label = $oXML->xpath('//rdfs:label[@xml:lang="de"]')[0];
+            $lang= "de";
+        } elseif (isset($oXML->xpath('//skos:prefLabel[@xml:lang="en"]')[0])) {
+            $label = $oXML->xpath('//skos:prefLabel[@xml:lang="en"]')[0];
+            $lang= "en";
+        } elseif (isset($oXML->xpath('//gvp:term[@xml:lang="en"]')[0])) {
+            $label = $oXML->xpath('//gvp:term[@xml:lang="en"]')[0];
+            $lang= "en";
+        } elseif (isset($oXML->xpath('//rdfs:label[@xml:lang="en"]')[0])) {
+            $label = $oXML->xpath('//rdfs:label[@xml:lang="en"]')[0];
+            $lang= "en";
+        } elseif  (isset($oXML->xpath('//skos:prefLabel')[0])){
+            $label = $oXML->xpath('//skos:prefLabel')[0];
+            $lang ="und";
         } elseif (isset($oXML->xpath('//gvp:term')[0])) {
             $label = $oXML->xpath('//gvp:term')[0];
+            $lang= "und";
         } else {
             $label = $oXML->xpath('//rdfs:label')[0];
+            $lang= "und";
         }
         $parentstring = $oXML->xpath('//gvp:parentString')[0];
         $declat = null;
@@ -41,8 +63,12 @@ foreach ($contents->xpath('//value') as $value) {
         if (isset($oXML->xpath('//wgs:long')[0])) {
             $declong = $oXML->xpath('//wgs:long')[0];
         }
-        $out = '<place tgn="' . $value . '" entity="' . $entity . '">' . "\n<label>" . $label .
-            "</label>\n<parentString>" . $parentstring . "</parentString>\n<lat>" . $declat . "</lat>\n<long>" . $declong . "</long></place>\n";
+        $out = '<place tgn="' . $value . '" entity="' . $entity . '">
+        <label xml:lang="' .$lang. '">' . $label .'</label>
+        <parentString>' . $parentstring .'</parentString>
+        <lat>' . $declat . '</lat>
+        <long>' . $declong . "</long>
+        </place>\n";
         fwrite($fp, $out);
         curl_close($curl);
         fclose($fp);

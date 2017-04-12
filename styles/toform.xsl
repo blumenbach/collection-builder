@@ -1,4 +1,5 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema" extension-element-prefixes="saxon" version="2.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema" extension-element-prefixes="saxon" version="2.0" 
+    xmlns:gvp="http://vocab.getty.edu/ontology#" xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#">
     <xsl:output method="xml" indent="yes"/>
     <xsl:strip-space elements="*"/>
     <xsl:template match="node() | @*" name="identity">
@@ -91,11 +92,32 @@
                     <xsl:value-of select="a13b"/>
                 </a13b>
                 <a13c>
-                    <xsl:value-of select="a13c"/>
-                </a13c>
-                <a13d>
-                    <xsl:value-of select="a13d"/>
-                </a13d>
+                    <xsl:choose>
+                        <xsl:when test="string(a13c)">
+                            <xsl:value-of select="a13c"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="a13d"/>
+                        </xsl:otherwise>
+                    </xsl:choose>                    
+                </a13c>             
+                <gvp:prefLabel>
+                    <xsl:value-of select="label"/>
+                </gvp:prefLabel>
+                <xml:lang>
+                    <xsl:value-of select="label/@xml:lang"/>
+                </xml:lang>               
+                <gvp:parentString>
+                    <xsl:value-of select="parentString"/>
+                </gvp:parentString>
+                <wgs:lat>
+                    <xsl:value-of select="lat"/>
+                </wgs:lat>
+                <wgs:long>
+                    <xsl:value-of select="long"/>
+                </wgs:long>
+            </section-4>            
+            <section-41>
                 <a14a>
                     <xsl:value-of select="a14a"/>
                 </a14a>
@@ -144,7 +166,7 @@
                 <a12i>
                     <xsl:value-of select="a12i"/>
                 </a12i>
-            </section-4>
+            </section-41>
             <section-5>
                 <original-lit-grid>
                     <original-lit-grid-iteration>

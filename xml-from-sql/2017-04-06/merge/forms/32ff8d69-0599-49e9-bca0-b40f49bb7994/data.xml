@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns:uuid="java:java.util.UUID">
+   <section-1>
+         <a0>Muscheln ("versteinerte Ziegenklauen", &lt;i&gt;Congeria&lt;/i&gt;)</a0>
+         <a8>unbekannte Bivalve (vorgeblich versteinte Ziegenklaue)</a8>
+         <a2>GZG.HST.</a2>
+         <a3>0.665d</a3>
+         <b12a>0.665a-f</b12a>
+         <a5>101-79</a5>
+         <a6>6</a6>
+      </section-1>
+   <section-2>
+         <z1>http://purl.org/vocab/blumenbach#Palaeozoologie</z1>
+         <a1>Palaeozoologie</a1>
+         <a7a>Mollusca: Bivalvia</a7a>
+         <a7b>Weichtiere: Muscheln</a7b>
+         <a9a>&lt;i&gt;Congeria&lt;/i&gt;</a9a>
+         <a9b>Muscheln (&lt;i&gt;Congeria&lt;/i&gt;)</a9b>
+         <a9c>versteinerte Ziegenklauen</a9c>
+         <a26>Naturalia</a26>
+      </section-2>
+   <section-3>
+         <a12a>Zancleum (3.600 - 5.332) </a12a>
+         <a12aa>Zancleum (3.600 - 5.332) </a12aa>
+         <a12b/>
+         <a12c/>
+         <a12d/>
+      </section-3>
+   <section-4>
+         <a13a>Balaton, Magyarország - Europe - World</a13a>
+         <a13b>46° 50\' 00\'\' N, 017° 45\' 00\'\' E</a13b>
+         <a13c>http://vocab.getty.edu/tgn/1115515</a13c>
+         <gvp:prefLabel xmlns:gvp="http://vocab.getty.edu/ontology#">Balaton</gvp:prefLabel>
+         <xml:lang>und</xml:lang>
+         <gvp:parentString xmlns:gvp="http://vocab.getty.edu/ontology#">Magyarország, Europe, World</gvp:parentString>
+         <wgs:lat xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#">46.8333</wgs:lat>
+         <wgs:long xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#">17.75</wgs:long>
+      </section-4>
+   <section-41>
+         <a14a/>
+         <a14aa/>
+         <a14b/>
+         <a14ba/>
+         <a15a>unbekannt</a15a>
+         <a15aa/>
+         <a15b/>
+         <a15ba/>
+         <a16a>unbekannt</a16a>
+         <a16b>Unbekannt (aus Bestand des Academischen Museums oder Privatsammlung Blumenbachs)</a16b>
+         <a17/>
+         <a12e/>
+         <a12f/>
+         <a12g/>
+         <a12h/>
+         <a12i/>
+      </section-41>
+   <section-5>
+         <original-lit-grid>
+            <original-lit-grid-iteration>
+               <a18/>
+            </original-lit-grid-iteration>
+         </original-lit-grid>
+         <original-desc-grid>
+            <original-desc-grid-iteration>
+               <a19/>
+            </original-desc-grid-iteration>
+         </original-desc-grid>
+         <original-image-grid>
+            <original-image-grid-iteration>
+               <a20/>
+            </original-image-grid-iteration>
+         </original-image-grid>
+         <secondary-lit-grid>
+            <secondary-lit-grid-iteration>
+               <a22/>
+               <a23/>
+            </secondary-lit-grid-iteration>
+         </secondary-lit-grid>
+         <f4/>
+         <f5/>
+         <f8/>
+      </section-5>
+   <section-6>
+         <mineral-authority-grid>
+            <mineral-authority-grid-iteration>
+               <a9d/>
+            </mineral-authority-grid-iteration>
+         </mineral-authority-grid>
+      </section-6>
+   <section-7>
+         <a24a>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen Geopark</a24a>
+         <a24b>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b>
+         <a27/>
+         <a28>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG </a28>
+         <f2a>A. Böhme, N. Schäfer</f2a>
+         <f2b>2011-12-16</f2b>
+         <f3a>N. Schäfer</f3a>
+         <f3b>2016-05-09</f3b>
+      </section-7>
+   <section-8>
+         <b1/>
+         <b2/>
+         <b3b/>
+         <b3d/>
+         <b4a>unbekannt</b4a>
+         <b4aa/>
+         <b4b/>
+         <b4c/>
+         <b4ca/>
+         <b4d/>
+         <b5/>
+         <b6/>
+         <b7a/>
+         <b8/>
+         <a21>nein</a21>
+      </section-8>
+   <section-9>
+         <f1/>
+         <b9a/>
+         <b9b/>
+         <b10a>gut</b10a>
+         <b10b/>
+         <b11a>nein</b11a>
+         <b11b/>
+         <b11c/>
+      </section-9>
+   <section-10>
+         <c1>1</c1>
+         <c2>2</c2>
+         <etikett-grid1>
+            <a10>unbekannte Bivalve
+aus dem Balaton - oder
+PlattenSee in Ungarn.
+(vorgebliche versteinte
+Ziegenklaue)</a10>
+            <c3>isoliert</c3>
+            <c4/>
+            <c5>Handschrift von Blumenbach</c5>
+            <c6a>gut</c6a>
+            <c6b/>
+            <c7a>nein</c7a>
+         </etikett-grid1>
+      </section-10>
+   <section-11>
+         <objekttext-grid1>
+            <a11>nicht vorhanden</a11>
+            <d1/>
+            <d2/>
+            <d3a/>
+            <d3b/>
+         </objekttext-grid1>
+      </section-11>
+   <section-12>
+         <number-grid1>
+            <a4>nicht vorhanden</a4>
+            <e1/>
+            <e2/>
+            <e3/>
+            <e4a/>
+            <e4b/>
+            <e5a/>
+         </number-grid1>
+      </section-12>
+</form>
