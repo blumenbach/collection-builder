@@ -1,4 +1,4 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema" extension-element-prefixes="saxon" version="2.0" 
+<xsl:stylesheet xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/" xmlns:xs="http://www.w3.org/2001/XMLSchema" extension-element-prefixes="saxon" version="2.0" 
     xmlns:gvp="http://vocab.getty.edu/ontology#" xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#">
     <xsl:output method="xml" indent="yes"/>
     <xsl:strip-space elements="*"/>
@@ -101,9 +101,9 @@
                         </xsl:otherwise>
                     </xsl:choose>                    
                 </a13c>             
-                <gvp:prefLabel>
+                <skos:prefLabel>
                     <xsl:value-of select="label"/>
-                </gvp:prefLabel>
+                </skos:prefLabel>
                 <xml:lang>
                     <xsl:value-of select="label/@xml:lang"/>
                 </xml:lang>               
@@ -189,9 +189,11 @@
                         <a23><xsl:value-of select="a23"/></a23>
                     </secondary-lit-grid-iteration>
                 </secondary-lit-grid>
-                <f4>
-                    <xsl:value-of select="f4"/>
-                </f4>
+                <brief-mentioned-grid>
+                    <brief-mentioned-grid-iteration>
+                        <f4><xsl:value-of select="f4"/></f4>
+                    </brief-mentioned-grid-iteration>
+                </brief-mentioned-grid>
                 <f5>
                     <xsl:value-of select="f5"/>
                 </f5>

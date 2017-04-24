@@ -4,3 +4,5 @@ if (( $# < 2 )); then
 fi
 sed -e "s#Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen &amp; Geopark#Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen Geopark#" -i $file
 sed -e "s#tgn:#http://vocab.getty.edu/tgn/#" -i $file
+sed -e "s#cnp#http://thesaurus.cerl.org/record/cnp#" -i $file
+

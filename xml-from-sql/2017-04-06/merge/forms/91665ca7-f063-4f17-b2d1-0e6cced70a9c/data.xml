@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns:uuid="java:java.util.UUID">
+   <section-1>
+         <a0>Seelilie (&lt;i&gt;Seirocrinus subangularis&lt;/i&gt;) [Platte mit mehreren Exemplaren]</a0>
+         <a8>Medusenpalme</a8>
+         <a2>GZG.HST.</a2>
+         <a3>4.999</a3>
+         <b12a>4.999</b12a>
+         <a5>101-1</a5>
+         <a6>1</a6>
+      </section-1>
+   <section-2>
+         <z1>http://purl.org/vocab/blumenbach#Palaeozoologie</z1>
+         <a1>Palaeozoologie</a1>
+         <a7a>Echinodermata: Crinoidea: Isocrinida: Pentacrinidae</a7a>
+         <a7b>Stachelhäuter: Seelilien</a7b>
+         <a9a>&lt;i&gt;Seirocrinus subangularis&lt;/i&gt;</a9a>
+         <a9b>Seelilien</a9b>
+         <a9c>&lt;i&gt;Pentacrinites hiemeri&lt;/i&gt;</a9c>
+         <a26>Naturalia</a26>
+      </section-2>
+   <section-3>
+         <a12a>Toarcium (175.6 - 183.0)</a12a>
+         <a12aa>Toarcium (175.6 - 183.0)</a12aa>
+         <a12b/>
+         <a12c/>
+         <a12d/>
+      </section-3>
+   <section-4>
+         <a13a>Ohmden, Baden-Württemberg - Germany - Europe - World</a13a>
+         <a13b>48° 39` 0`` N
+ 9° 32` 0`` E
+ </a13b>
+         <a13c/>
+         <gvp:prefLabel xmlns:gvp="http://vocab.getty.edu/ontology#"/>
+         <xml:lang/>
+         <gvp:parentString xmlns:gvp="http://vocab.getty.edu/ontology#"/>
+         <wgs:lat xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"/>
+         <wgs:long xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"/>
+      </section-4>
+   <section-41>
+         <a14a/>
+         <a14aa/>
+         <a14b/>
+         <a14ba>1724-01-01</a14ba>
+         <a15a>Ebell, Georg August (1745-1824)</a15a>
+         <a15aa>cnp01000913</a15aa>
+         <a15b>1827-01-01</a15b>
+         <a15ba>1827-12-31</a15ba>
+         <a16a>Ankauf</a16a>
+         <a16b/>
+         <a17>Vorbesitzer des Stückes war Eberhard Friedrich Hiemer (1682-1727), nach dessen Tod wurde kam das Stück durch Ankauf in die Sammlung von Johann Georg Keyssler (1689-1743). Nach Tod von Letzterem gelangte die Platte in den Besitz von August Johann von Hugo (1686-1760). Weiterer Vorbesitzer war Georg August Ebell (1745-1824) dessen Fossiliensammlung im Jahr 1827 durch die Universität Göttingen für das Academische Museum angekauft worden ist.</a17>
+         <a12e/>
+         <a12f/>
+         <a12g/>
+         <a12h/>
+         <a12i/>
+      </section-41>
+   <section-5>
+         <original-lit-grid>
+            <original-lit-grid-iteration>
+               <a18/>
+            </original-lit-grid-iteration>
+         </original-lit-grid>
+         <original-desc-grid>
+            <original-desc-grid-iteration>
+               <a19>Hiemer (1724);
+Scheuchzer (1731): 71;
+[Knorr (1755)]?;
+Walch (1762): [??];
+00027: 705;
+Reich (2010);
+Hunter et al. (2011);
+Reich (2014)</a19>
+            </original-desc-grid-iteration>
+         </original-desc-grid>
+         <original-image-grid>
+            <original-image-grid-iteration>
+               <a20>Hiemer (1724): [Taf. 1];
+Scheuchzer (1731): Taf. 58: Fig. 91;
+[Knorr (1755)]?;
+Walch (1762): Taf. 2;
+Reich (2010): Fig. 2;
+Reich (2014): Umschlag, Fig.11-12, 14-15, 18</a20>
+            </original-image-grid-iteration>
+         </original-image-grid>
+         <secondary-lit-grid>
+            <secondary-lit-grid-iteration>
+               <a22>Hiemer (1724): Caput medusae utpote novum Diluvii Universalis monumentum detectum in agro Würtembergico et brevi dissertatiuncula epistolari expositum. 40 S. Suttgart (C. T. Roesslin).;
+Scheuchzer, J. J. (1731): Kupfer-Bibel in welcher die Physica Sacra oder geheiligte Natur-Wissenschafft derer in Heil. Schrifft vorkommenden Natürlichen Sachen. Erste Abtheilung. LII+276 S. Augspurg &amp; Ulm (C. U. Wagner).;
+[Knorr, G. W. (1755): Sammlung von Merckwürdigkeiten der Natur und Alterthümern des Erdbodens, welche petrificierte Körper enthält. I. 36 S. Nürnberg (A. Bieling).;]?
+Walch, J. E. I. (1762): Das Steinreich systematisch entworfen. 204+172 S. Halle (J. J. Gebauer).;
+Reich, M. (2010): The 'Swabian Caput Meduseae' (Jurassic Criniodea, Germany). [In:] Harris, L. G., Böttger, S. A., Walker, C. W. &amp; Lasser, M. P. (Eds.): Echinoderms: Durham, Proceedings of the 12th International Echinoderm Conference Durham, New Hampshire, USA, 7–11 August 2006, S. 61–65, London (Taylor &amp; Francis).;
+Hunter, A. W., Oji, T. &amp;  Okasaki, Y. (2011): The occurrence of the pseudoplanktonic crinoids &lt;i&gt;Pentacrinites&lt;/i&gt; and &lt;i&gt;Seirocrinus&lt;/i&gt; from the Early Jurassic Toyora Group, western Japan. Paleontological Research 15: 12-22.;
+Reich, M. (2014): Von Medusenhäuptern und Medusenpalmen... Zur Geschichte einer Fossilienplatte. 12 S. Göttingen (Geowissenschaftliches Museum).</a22>
+               <a23/>
+            </secondary-lit-grid-iteration>
+         </secondary-lit-grid>
+         <brief-mentioned-grid>
+            <brief-mentioned-grid-iteration>
+               <f4/>
+            </brief-mentioned-grid-iteration>
+         </brief-mentioned-grid>
+         <f5/>
+         <f8/>
+      </section-5>
+   <section-6>
+         <mineral-authority-grid>
+            <mineral-authority-grid-iteration>
+               <a9d/>
+            </mineral-authority-grid-iteration>
+         </mineral-authority-grid>
+      </section-6>
+   <section-7>
+         <a24a>Georg-August-Universität Göttingen, Geowissenschaftliches Zentrum, Museum, Sammlungen Geopark</a24a>
+         <a24b>UNI Gö, Geowissenschaftliches Zentrum, Museum, Magazin Geologie/Paläontologie, Raum 16-025, Historische Sammlung</a24b>
+         <a27/>
+         <a28>die Rechte für die digitalen 2D-Einzelaufnahmen liegen beim Geowissenschaftlichen Museum Göttingen, GZG</a28>
+         <f2a>A. Gehler</f2a>
+         <f2b>2013-12-10</f2b>
+         <f3a>A. Gehler</f3a>
+         <f3b>2014-06-21</f3b>
+      </section-7>
+   <section-8>
+         <b1/>
+         <b2/>
+         <b3b/>
+         <b3d/>
+         <b4a/>
+         <b4aa/>
+         <b4b/>
+         <b4c/>
+         <b4ca/>
+         <b4d/>
+         <b5/>
+         <b6/>
+         <b7a/>
+         <b8/>
+         <a21>ja</a21>
+      </section-8>
+   <section-9>
+         <f1/>
+         <b9a/>
+         <b9b/>
+         <b10a>gut</b10a>
+         <b10b/>
+         <b11a>nein</b11a>
+         <b11b/>
+         <b11c/>
+      </section-9>
+   <section-10>
+         <c1>0</c1>
+         <c2>0</c2>
+         <etikett-grid1>
+            <a10>nicht vorhanden</a10>
+            <c3/>
+            <c4/>
+            <c5/>
+            <c6a/>
+            <c6b/>
+            <c7a/>
+         </etikett-grid1>
+      </section-10>
+   <section-11>
+         <objekttext-grid1>
+            <a11>nicht vorhanden</a11>
+            <d1/>
+            <d2/>
+            <d3a/>
+            <d3b/>
+         </objekttext-grid1>
+      </section-11>
+   <section-12>
+         <number-grid1>
+            <a4>nicht vorhanden</a4>
+            <e1/>
+            <e2/>
+            <e3/>
+            <e4a/>
+            <e4b/>
+            <e5a/>
+         </number-grid1>
+      </section-12>
+</form>

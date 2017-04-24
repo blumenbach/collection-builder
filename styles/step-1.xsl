@@ -1,7 +1,10 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:saxon="http://saxon.sf.net/" extension-element-prefixes="saxon" version="2.0">
+    <!-- Apply on export file "part2.xml" -->
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="kd" select="document('../xml-from-sql/2017-04-06/kerndaten.xml')"/>
+    <xsl:param name="config.file" select="'config.xml'"/>
     <xsl:strip-space elements="*"/>
+    <xsl:variable name="kerndaten-source" select="document($config.file)/exports/kerndaten"/>
+    <xsl:variable name="kd" select="document($kerndaten-source)"/>
     <xsl:template match="node() | @*" name="identity">
         <xsl:copy copy-namespaces="no">
             <xsl:apply-templates select="node() | @*"/>
