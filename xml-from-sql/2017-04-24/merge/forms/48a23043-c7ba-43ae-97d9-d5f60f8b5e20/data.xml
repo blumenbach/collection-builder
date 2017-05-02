@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns:uuid="java:java.util.UUID">
+   <section-1>
+         <z1>http://purl.org/vocab/blumenbach#Anatomie und Anthropologie</z1>
+         <a1>Anatomie, Anthropologie</a1>
+         <a0>Mensch (Italiener: Veneter) [Schädel]</a0>
+         <a8>Venetianer</a8>
+         <a2>AIG_Vitrine?_noch nicht identifiziert</a2>
+         <a3>385</a3>
+         <b12a>385</b12a>
+         <a5>5; 36; 130; 305; 115</a5>
+         <a6>1</a6>
+      </section-1>
+   <section-2>
+         <a7a>Mammalia: Hominidae: Homo</a7a>
+         <a7b>Säugetiere: Menschenaffen: Menschen</a7b>
+         <a9a>&lt;i&gt;Homo sapiens&lt;/i&gt;</a9a>
+         <a9b>Mensch</a9b>
+         <a9c>Venezianer</a9c>
+         <a26>Naturalia</a26>
+         <a21>nein</a21>
+      </section-2>
+   <section-3>
+         <a12a>rezent</a12a>
+         <a12aa>rezent</a12aa>
+         <a12b/>
+         <a12c/>
+         <a12d/>
+      </section-3>
+   <section-4>
+         <a13a>Venezia, Veneto - Italia - Europe - World</a13a>
+         <a13b/>
+         <a13c/>
+         <skos:prefLabel xmlns:skos="http://www.w3.org/2004/02/skos/core#"/>
+         <xml:lang/>
+         <gvp:parentString xmlns:gvp="http://vocab.getty.edu/ontology#"/>
+         <wgs:lat xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"/>
+         <wgs:long xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"/>
+      </section-4>
+   <section-41>
+         <a14a/>
+         <a14aa/>
+         <a14b/>
+         <a14ba/>
+         <a15a>Michaelis, Gottfried Philipp (1768-1811)</a15a>
+         <a15aa>http://thesaurus.cerl.org/record/cnp00136180</a15aa>
+         <a15b>1793-01-01</a15b>
+         <a15ba>1793-12-31</a15ba>
+         <a16a>vermutlich Geschenk</a16a>
+         <a16b/>
+         <a17/>
+         <a12e/>
+         <a12f/>
+         <a12g/>
+         <a12h/>
+         <a12i/>
+      </section-41>
+   <section-5>
+         <original-lit-grid>
+            <original-lit-grid-iteration>
+               <a18/>
+            </original-lit-grid-iteration>
+         </original-lit-grid>
+         <original-desc-grid>
+            <original-desc-grid-iteration>
+               <a19>Spengel (1877): 20f</a19>
+            </original-desc-grid-iteration>
+         </original-desc-grid>
+         <original-image-grid>
+            <original-image-grid-iteration>
+               <a20/>
+            </original-image-grid-iteration>
+         </original-image-grid>
+         <secondary-lit-grid>
+            <secondary-lit-grid-iteration>
+               <a22>Spengel, J.W. (1877): Die von Blumenbach gegründete anthropologische Sammlung der Universität Göttingen. Aufgenommen im Jahre 1874. [In:] Schaafhausen, H. (Hrsg.): Die Anthropologischen Sammlungen Deutschlands. Ein Verzeichnis des in Deutschland vorhandenen anthropologischen Materials. Nach dem Beschluss der Deutschen Anthropologischen Gesellschaft zusammengestellt unter der Leitung des Vorsitzenden der zu diesem Zwecke ernannten Commission, H. Schaaffhausen. II. Göttingen. VI + 91 S. Braunschweig (Vieweg und Sohn).</a22>
+               <a23/>
+            </secondary-lit-grid-iteration>
+         </secondary-lit-grid>
+         <brief-mentioned-grid>
+            <brief-mentioned-grid-iteration>
+               <f4/>
+            </brief-mentioned-grid-iteration>
+         </brief-mentioned-grid>
+         <f5/>
+         <f8/>
+      </section-5>
+   <section-6>
+         <mineral-authority-grid>
+            <mineral-authority-grid-iteration>
+               <a9d/>
+            </mineral-authority-grid-iteration>
+         </mineral-authority-grid>
+         <meteorite-authority-grid>
+            <meteorite-authority-grid-iteration>
+               <a9e/>
+            </meteorite-authority-grid-iteration>
+         </meteorite-authority-grid>
+         <biological-authority-grid>
+            <biological-authority-grid-iteration>
+               <a9f/>
+            </biological-authority-grid-iteration>
+         </biological-authority-grid>
+      </section-6>
+   <section-7>
+         <a24a>Georg-August-Universität Göttingen, Medizinische Fakultät, Zentrum Anatomie (Blumenbachsche Schädelsammlung)</a24a>
+         <a24b/>
+         <a27/>
+         <a28>die Rechte für die digitalen 2D-Einzelaufnahmen liegen bei der Akademie der Wissenschaften zu Göttingen</a28>
+         <f2a>A. Gehler</f2a>
+         <f2b>2014-09-20</f2b>
+         <f3a>A. Gehler</f3a>
+         <f3b>2014-09-30</f3b>
+      </section-7>
+   <section-8>
+         <b1>Schädel</b1>
+         <b2/>
+         <b3b/>
+         <b3d/>
+         <b4a/>
+         <b4aa/>
+         <b4b/>
+         <b4c/>
+         <b4ca/>
+         <b4d/>
+         <b5/>
+         <b6/>
+         <b7a/>
+         <b8/>
+      </section-8>
+   <section-9>
+         <f1/>
+         <b9a/>
+         <b9b/>
+         <b10a/>
+         <b10b/>
+         <b11a/>
+         <b11b/>
+         <b11c/>
+      </section-9>
+   <section-10>
+         <c1>0</c1>
+         <c2>3</c2>
+         <etikett-grid1>
+            <a10>nicht vorhanden</a10>
+            <c3/>
+            <c4/>
+            <c5/>
+            <c6a/>
+            <c6b/>
+            <c7a/>
+         </etikett-grid1>
+      </section-10>
+   <section-11>
+         <objekttext-grid1>
+            <a11/>
+            <d1>Schädel, rechts</d1>
+            <d2>Handschrift von Blumenbach</d2>
+            <d3a>mäßig</d3a>
+            <d3b/>
+         </objekttext-grid1>
+         <objekttext-grid1>
+            <a11> 36.</a11>
+            <d1>Unterkiefer, rechts</d1>
+            <d2/>
+            <d3a>mäßig</d3a>
+            <d3b/>
+         </objekttext-grid1>
+      </section-11>
+   <section-12>
+         <number-grid1>
+            <a4>36</a4>
+            <e1>Schädel, rechts</e1>
+            <e2/>
+            <e3/>
+            <e4a>gut</e4a>
+            <e4b/>
+            <e5a>nein</e5a>
+         </number-grid1>
+         <number-grid1>
+            <a4>36</a4>
+            <e1>Unterkiefer, rechts</e1>
+            <e2/>
+            <e3/>
+            <e4a>mäßig</e4a>
+            <e4b/>
+            <e5a>nein</e5a>
+         </number-grid1>
+      </section-12>
+   <section-13>
+         <IIIFmanifestURI/>
+         <f6/>
+         <f7/>
+         <f8/>
+      </section-13>
+</form>

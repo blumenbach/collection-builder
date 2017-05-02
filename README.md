@@ -1,6 +1,6 @@
 # collection-builder
 
-##HOW TO 
+## HOW TO 
 * create new empty schema in local mysql instance
 * import dump file from backup directory on nfs (`www.blumenbach-online.de-neu/sqldump`)
 * export tables as xml into new directory in xml-from-sql

@@ -10,6 +10,12 @@
     <xsl:template match="row">
         <form>
             <section-1>
+                <z1>
+                    <xsl:value-of select="class"/>
+                </z1>
+                <a1>
+                    <xsl:value-of select="a1"/>
+                </a1>
                 <a0>
                     <xsl:value-of select="a0"/>
                 </a0>
@@ -42,12 +48,6 @@
                 </a6>
             </section-1>
             <section-2>
-                <z1>
-                    <xsl:value-of select="class"/>
-                </z1>
-                <a1>
-                    <xsl:value-of select="a1"/>
-                </a1>
                 <a7a>
                     <xsl:value-of select="a7a"/>
                 </a7a>
@@ -66,6 +66,9 @@
                 <a26>
                     <xsl:value-of select="a26"/>
                 </a26>
+                <a21>
+                    <xsl:value-of select="a21"/>
+                </a21>
             </section-2>
             <section-3>
                 <a12a>
@@ -209,6 +212,16 @@
                         </a9d>
                     </mineral-authority-grid-iteration>
                 </mineral-authority-grid>
+                <meteorite-authority-grid>
+                    <meteorite-authority-grid-iteration>
+                        <a9e/>
+                    </meteorite-authority-grid-iteration>
+                </meteorite-authority-grid>
+                <biological-authority-grid>
+                    <biological-authority-grid-iteration>
+                        <a9f/>
+                    </biological-authority-grid-iteration>
+                </biological-authority-grid>
             </section-6>
             <section-7>
                 <a24a>
@@ -279,9 +292,6 @@
                 <b8>
                     <xsl:value-of select="b8"/>
                 </b8>
-                <a21>
-                    <xsl:value-of select="a21"/>
-                </a21>
             </section-8>
             <section-9>
                 <f1>
@@ -390,6 +400,12 @@
                 </number-grid1>
                 </xsl:for-each>
             </section-12>
+            <section-13>                     
+                    <IIIFmanifestURI/>
+                    <f6/>
+                    <f7/>
+                    <f8/>                
+            </section-13>
         </form>
     </xsl:template>
 </xsl:stylesheet>
