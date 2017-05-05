@@ -169,6 +169,27 @@
                 <a12i>
                     <xsl:value-of select="a12i"/>
                 </a12i>
+                <a25>
+                    <xsl:value-of select="a25"/>
+                </a25>
+                <a25a_a>
+                    <xsl:value-of select="a25a_a"/>
+                </a25a_a>
+                <a25a>
+                    <xsl:value-of select="a25a"/>
+                </a25a>
+                <a25ab>
+                    <xsl:value-of select="a25ab"/>
+                </a25ab>
+                <a25ac>
+                    <xsl:value-of select="a25ac"/>
+                </a25ac>
+                <a25b>
+                    <xsl:value-of select="a25b"/>
+                </a25b>
+                <a25c>
+                    <xsl:value-of select="a25c"/>
+                </a25c>
             </section-41>
             <section-5>
                 <original-lit-grid>
@@ -256,9 +277,15 @@
                 <b2>
                     <xsl:value-of select="b2"/>
                 </b2>
+                <b3a>
+                    <xsl:value-of select="b3a"/>
+                </b3a>
                 <b3b>
                     <xsl:value-of select="b3b"/>
                 </b3b>
+                <b3c>
+                    <xsl:value-of select="b3c"/>
+                </b3c>
                 <b3d>
                     <xsl:value-of select="b3d"/>
                 </b3d>
@@ -289,6 +316,12 @@
                 <b7a>
                     <xsl:value-of select="b7a"/>
                 </b7a>
+                <b7b>
+                    <xsl:value-of select="b7b"/>
+                </b7b>
+                <b7c>
+                    <xsl:value-of select="b7c"/>
+                </b7c>
                 <b8>
                     <xsl:value-of select="b8"/>
                 </b8>
