@@ -11830,4 +11830,55 @@
          <value>http://vocab.getty.edu/tgn/7012327</value>
       </body>
    </item>
+   <item>
+      <id>blume:02456</id>
+      <body>
+         <entity>881</entity>
+         <value>http://vocab.getty.edu/tgn/7004799</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02457</id>
+      <body>
+         <entity>1811</entity>
+         <value>http://vocab.getty.edu/tgn/1108699</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02461</id>
+      <body>
+         <entity>677</entity>
+         <value>http://vocab.getty.edu/tgn/1025838</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02462</id>
+      <body>
+         <entity>677</entity>
+         <value>http://vocab.getty.edu/tgn/1025838</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02463</id>
+      <body>
+         <entity>1812</entity>
+         <value>http://vocab.getty.edu/tgn/1025838</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02464</id>
+      <body>
+         <entity>1813</entity>
+         <value>http://vocab.getty.edu/tgn/7009159</value>
+      </body>
+   </item>
+   <item>
+      <id>blume:02465</id>
+      <body>
+         <entity>698</entity>
+         <value>http://vocab.getty.edu/tgn/1036668</value>
+      </body>
+   </item>
 </root>
+
+

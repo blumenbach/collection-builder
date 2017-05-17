@@ -1,8 +1,8 @@
 <exports>
-    <kerndaten>../xml-from-sql/2017-04-24/kerndaten.xml</kerndaten>
-    <part3>../xml-from-sql/2017-04-24/part3.xml</part3>
-    <part4>../xml-from-sql/2017-04-24/part4.xml</part4>
-    <part1>../xml-from-sql/2017-04-24/part1.xml</part1>
-    <taxongroups>../xml-from-sql/2017-04-24/hauptzuordnung.xml</taxongroups>
-    <tgn-data>../xml-from-sql/2017-04-24/tgn-results.xml</tgn-data>
+    <kerndaten>../xml-from-sql/2017-05-16/kerndaten.xml</kerndaten>
+    <part3>../xml-from-sql/2017-05-16/part3.xml</part3>
+    <part4>../xml-from-sql/2017-05-16/part4.xml</part4>
+    <part1>../xml-from-sql/2017-05-16/part1.xml</part1>
+    <taxongroups>../xml-from-sql/2017-05-16/hauptzuordnung.xml</taxongroups>
+    <tgn-data>../xml-from-sql/2017-05-16/tgn-results.xml</tgn-data>
 </exports>

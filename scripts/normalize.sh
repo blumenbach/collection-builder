@@ -10,4 +10,5 @@ sed -e "s#tgn:#http://vocab.getty.edu/tgn/#" -i $file
 sed -e "s#cnp#http://thesaurus.cerl.org/record/cnp#" -i $file
 sed -e "s#Museum Göttinger Chemie#Georg-August-Universität Göttingen, Fakultät für Chemie, Museum der Göttinger Chemie#" -i $file
 sed -e "s#Niedersächsiches Landesmuseum Hannover#Niedersächsisches Landesmuseum Hannover, Abteilung Naturkunde#" -i $file
+sed -e "s#Georg-August-Universität Göttingen, Johann-Friedrich-Blumenbach Institut für Zoologie und Anthropologie, Historische Anthropologie#Georg-August-Universität Göttingen, Fakultät für Biologie und Psychologie, Johann-Friedrich-Blumenbach-Institut für Zoologie und Anthropologie, Historische Anthropologie und Humanökologie#" -i $file
 
